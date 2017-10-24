@@ -1,3 +1,4 @@
+
 ![Cupcake Analogy](./Assets/images/cupcake_mvp.png)
 
 
