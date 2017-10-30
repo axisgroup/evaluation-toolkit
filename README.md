@@ -12,10 +12,10 @@ Using these fundamentals we are able to iteratively deliver applications that ar
 
 Testing allows us to step back and backup assumptions made along the way with empirical evidence. 
 All in all, it helps us-
-Mitigate the risk of major redesign later in the process(small changes are bound to happen)
-Increase likelihood of User adoption
 
+- Mitigate the risk of major redesign later in the process(small changes are bound to happen)
 
+- Increase likelihood of User adoption
 
 ## But how do we REALLY test during a sprint?
 
@@ -48,9 +48,9 @@ This repository will also attempt to identify tactics designers can employ to im
 
 Specifically, the approach advocated by this repository is three-pronged:
 
- 	1. Follow best practices, don't re-invent the wheel
- 	2. Know what to measure?
- 	3. Know how to measure?
+   	1. Follow best practices, don't re-invent the wheel
+     2. Know what to measure?
+      3. Know how to measure?
 
 With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut mehtods to test for them.
 
