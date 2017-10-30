@@ -28,7 +28,13 @@ And while testing is a core philosophy of the UCD process, a point of tension em
 
 # Heuristic approach
 
-Heuristic techniques often called simply a heuristic. It is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision. Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, guesstimate, stereotyping, profiling, or common sense.
+> **Heuristic techniques** often called simply a heuristic. It is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. 
+>
+> Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution.Heuristics can be mental shortcuts that ease the cognitive load of making a decision. 
+>
+> Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, guesstimate, stereotyping, profiling, or common sense.
+
+ [Source: Wikipedia
 
 
 
@@ -36,7 +42,7 @@ Heuristic techniques often called simply a heuristic. It is any approach to prob
 
 The goal of this repository is to serve as a **toolkit**-
 
-- to help identify [pitfalls](pitfalls.md) in our current evaluation process so designers can be more cognizant of them and control for them when possible.
+- to help identify [pitfalls](Pitfalls.md) in our current evaluation process so designers can be more cognizant of them and control for them when possible.
 - to provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
 
 This repository will also attempt to identify tactics designers can employ to improve their evaluation process. 
