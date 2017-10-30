@@ -33,4 +33,4 @@ The Solution—
 
  [Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
-Before we begin defining a testing approach, using a heuristic approach, it is important to identify a testing mindset that is compatible with our heuristic approach. This [Testing Mindset](Testing Mindset.md) document helps align expectations, in accordance with expected outcomes.
+Before we begin defining a testing approach, using a heuristic approach, it is important to identify a testing mindset that is compatible with our heuristic approach. This [Testing Mindset](TestingMindset.md) document helps align expectations, in accordance with expected outcomes.
