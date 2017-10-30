@@ -18,7 +18,9 @@ Using these fundamentals we are able to iteratively deliver applications that ar
 
 ## But how do REALLY test during a sprint?
 
-While testing is a core philosophy of the UCD process, a point of tension emerges during Lean Design Sprints, where time and resources are limited and compromises must be made in the name of fast delivery.
+Because testing is so distributed, it can manifest in many ways ranging from casual coffee shop studies to  controlled experiments depending on the research context, time at hand, access to participants etc.
+
+And while testing is a core philosophy of the UCD process, a point of tension emerges during **Lean Design Sprints**, where time and resources are limited and compromises must be made in the name of fast delivery.
 
 > How then can Designers balance the need for robust testing vs. quick turnaround times?
 
@@ -37,7 +39,7 @@ Specifically, the approach advocated  by this repository is three-pronged:
  	2. Know what to measure?
  	3. Know how to measure?
 
-This is a **WIP** living document; Please read our Contribution Guidelines to help refine this repository.
+This is a **WIP** living document; Please read our [Contribution Guidelines](CONTRIBUTION.md) to help refine this repository.
 
 
 
