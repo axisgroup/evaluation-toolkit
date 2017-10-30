@@ -49,12 +49,12 @@ This repository will also attempt to identify tactics designers can employ to im
 Specifically, the approach advocated by this repository is three-pronged:
 
    	1. Follow best practices, don't re-invent the wheel
-     2. Know what to measure?
+      2. Know what to measure?
       3. Know how to measure?
 
 With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut mehtods to test for them.
 
-This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTION.md) to help refine this repository.
+This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTING.md) to help refine this repository.
 
 
 
