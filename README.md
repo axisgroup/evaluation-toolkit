@@ -1,15 +1,15 @@
-## Why we test?
-As designers we are often confronted with the question “How do we know our design works”?, whether it's a matter of introspection or presenting and justifying our design decisions.
+## Why do we test?
+As designers we are often confronted with the question “How do we know our design works?”, whether it's a matter of introspection or presenting and justifying our design decisions.
 
-And while testing seems like the obvious answer, it is important to realize that testing is not a single summative phase in the entire project (as in SDLC), but rather a formative process that is distributed throughout the design process.
+While testing seems like the obvious answer, it is important to realize that testing is not a single summative phase in the entire project (as in SDLC). Rather it is a formative process that is distributed throughout the design process.
 
-In fact, testing is one of the fundamental pillars of the User-Centered Design Sprint process at Axis which is based on:
+Testing, creativity, and empathy are the fundamental pillars of the user-centered design sprint process at Axis. 
 
+
+Using these fundamentals we are able to iteratively deliver applications that are useful, usable, and delightful at every stage.
 - Empathy
 - Creativity
 - Testing
-
-Using these fundamentals we are able to iteratively deliver applications that are "Useful, Usable and Delightful" at every stage.
 
 ![Cupcake Analogy](./Assets/images/cupcake_mvp.png)
 
@@ -20,15 +20,13 @@ Increase likelihood of User adoption
 
 
 
+## But how do we REALLY test during a sprint?
 
-## But how do REALLY test during a sprint?
-
-Because testing is so distributed, it can manifest in many ways ranging from casual coffee shop studies to  controlled experiments depending on the research context, time at hand, access to participants etc.
+Because testing is distributed among our sprint phases, it can manifest in many ways ranging from casual coffee shop studies to controlled experiments depending on the research context, time at hand, and access to participants.
 
 And while testing is a core philosophy of the UCD process, a point of tension emerges during **Lean Design Sprints**, where time and resources are limited and compromises must be made in the name of fast delivery.
 
-> How then can Designers balance the need for robust testing vs. quick turnaround times?
-
+How then can designers balance the need for robust testing versus quick turnaround times?
 
 
 ## Heuristic approach
@@ -39,28 +37,27 @@ And while testing is a core philosophy of the UCD process, a point of tension em
 >
 > Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, guesstimate, stereotyping, profiling, or common sense.
 
- [Source: Wikipedia
-
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
 
 ## Know your guidelines before you break them
 
-The goal of this repository is to serve as a **toolkit**-
+The goal of this repository is to serve as a **toolkit**
 
-- to help identify [pitfalls](Pitfalls.md) in our current evaluation process so designers can be more cognizant of them and control for them when possible.
-- to provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
+- To help identify [pitfalls](Pitfalls.md) in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
+- To provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
 
 This repository will also attempt to identify tactics designers can employ to improve their evaluation process. 
 
-Specifically, the approach advocated  by this repository is three-pronged:
+Specifically, the approach advocated by this repository is three-pronged:
 
  	1. Follow best practices, don't re-invent the wheel
  	2. Know what to measure?
  	3. Know how to measure?
 
-— so designers can determine success criteria for their project, prioritize what to test vs. what not to and identify shortcut mehtods to test for them.
+With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut mehtods to test for them.
 
-This is a **WIP** living document; Please read our [Contribution Guidelines](CONTRIBUTION.md) to help refine this repository.
+This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTION.md) to help refine this repository.
 
 
 
