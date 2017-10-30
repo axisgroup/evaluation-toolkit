@@ -1,9 +1,9 @@
-## Motivation
+## Why we test?
 As designers we are often confronted with the question “How do we know our design works”?, whether it's a matter of introspection or presenting and justifying our design decisions.
 
 And while testing seems like the obvious answer, it is important to realize that testing is not a single summative phase in the entire project (as in SDLC), but rather a formative process that is distributed throughout the design process.
 
-In fact, testing is one of the fundamental pillars of the User-Centered Design process at Axis which is based on:
+In fact, testing is one of the fundamental pillars of the User-Centered Design Sprint process at Axis which is based on:
 
 - Empathy
 
@@ -13,6 +13,12 @@ In fact, testing is one of the fundamental pillars of the User-Centered Design p
 Using these fundamentals we are able to iteratively deliver applications that are "Useful, Usable and Delightful" at every stage.
 
 ![Cupcake Analogy](./Assets/images/cupcake_mvp.png)
+
+
+
+## But how do really test during a sprint?
+
+
 
 
 
