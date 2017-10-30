@@ -5,9 +5,19 @@ While testing seems like the obvious answer, it is important to realize that tes
 
 Testing, creativity, and empathy are the fundamental pillars of the user-centered design sprint process at Axis. 
 
+
 Using these fundamentals we are able to iteratively deliver applications that are useful, usable, and delightful at every stage.
+- Empathy
+- Creativity
+- Testing
 
 ![Cupcake Analogy](./Assets/images/cupcake_mvp.png)
+
+Testing allows us to step back and backup assumptions made along the way with empirical evidence. 
+All in all, it helps us-
+Mitigate the risk of major redesign later in the process(small changes are bound to happen)
+Increase likelihood of User adoption
+
 
 
 ## But how do we REALLY test during a sprint?
