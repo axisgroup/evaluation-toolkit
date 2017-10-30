@@ -16,15 +16,28 @@ Using these fundamentals we are able to iteratively deliver applications that ar
 
 
 
-## But how do really test during a sprint?
+## But how do REALLY test during a sprint?
 
+While testing is a core philosophy of the UCD process, a point of tension emerges during Lean Design Sprints, where time and resources are limited and compromises must be made in the name of fast delivery.
 
-
-
+> How then can Designers balance the need for robust testing vs. quick turnaround times?
 
 ## Know your guidelines before you break them
 
+The goal of this repository is to-
+
+- identify pitfalls in our current evaluation process so designers can be more cognizant of them and control for them when possible.
+- to provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
+
+This repository will also attempt to identify tactics designers can employ to improve their evaluation process. 
+
+Specifically, the approach advocated  by this repository is three-pronged:
+
+ 	1. Follow best practices, Don't re-invent the wheel
+ 	2. Know what to measure?
+ 	3. Know how to measure?
+
+This is a **WIP** living document; Please read our Contribution Guidelines to help refine this repository.
 
 
-The goal of this repository is to identify pitfalls in our current evaluation process so designers can be more cognizant of them and control for them when possibleThis document will also attempt to identify tactics designers can employ to improve their evaluation process. This is a **WIP** living document.
 
