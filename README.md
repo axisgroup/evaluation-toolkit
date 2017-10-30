@@ -6,13 +6,18 @@ And while testing seems like the obvious answer, it is important to realize that
 In fact, testing is one of the fundamental pillars of the User-Centered Design Sprint process at Axis which is based on:
 
 - Empathy
-
 - Creativity
 - Testing
 
 Using these fundamentals we are able to iteratively deliver applications that are "Useful, Usable and Delightful" at every stage.
 
 ![Cupcake Analogy](./Assets/images/cupcake_mvp.png)
+
+Testing allows us to step back and backup assumptions made along the way with empirical evidence. 
+All in all, it helps us-
+Mitigate the risk of major redesign later in the process(small changes are bound to happen)
+Increase likelihood of User adoption
+
 
 
 
