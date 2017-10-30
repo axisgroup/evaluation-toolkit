@@ -49,7 +49,7 @@ This repository will also attempt to identify tactics designers can employ to im
 
 Specifically, the approach advocated  by this repository is three-pronged:
 
- 	1. Follow best practices, Don't re-invent the wheel
+ 	1. Follow best practices, don't re-invent the wheel
  	2. Know what to measure?
  	3. Know how to measure?
 
