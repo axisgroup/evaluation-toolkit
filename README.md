@@ -28,28 +28,26 @@ And while testing is a core philosophy of the UCD process, a point of tension em
 
 # Heuristic approach
 
-Heuristic techniques often called simply a heuristic.
-
-t is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision. Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, guesstimate, stereotyping, profiling, or common sense.
+Heuristic techniques often called simply a heuristic. It is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision. Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, guesstimate, stereotyping, profiling, or common sense.
 
 
 
 ## Know your guidelines before you break them
 
-The goal of this repository is to-
+The goal of this repository is to serve as a **toolkit**-
 
-- identify pitfalls in our current evaluation process so designers can be more cognizant of them and control for them when possible.
+- to help identify [pitfalls](pitfalls.md) in our current evaluation process so designers can be more cognizant of them and control for them when possible.
 - to provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
 
 This repository will also attempt to identify tactics designers can employ to improve their evaluation process. 
 
-Specifically, the approach advocated  by this repository is three-pronged-
+Specifically, the approach advocated  by this repository is three-pronged:
 
  	1. Follow best practices, Don't re-invent the wheel
  	2. Know what to measure?
  	3. Know how to measure?
 
--so designers can determine success criteria for their project, prioritize what to test vs. what not to and identify shortcut mehtods to test for them.
+— so designers can determine success criteria for their project, prioritize what to test vs. what not to and identify shortcut mehtods to test for them.
 
 This is a **WIP** living document; Please read our [Contribution Guidelines](CONTRIBUTION.md) to help refine this repository.
 
