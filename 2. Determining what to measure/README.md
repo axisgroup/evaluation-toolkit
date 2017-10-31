@@ -1,6 +1,6 @@
 ## Useful, Usable, Desirable Framework
 
-![UX_Traingle](UX_Triangle.png)
+​					![UX_Traingle](UX_Triangle.png)
 
 
 
