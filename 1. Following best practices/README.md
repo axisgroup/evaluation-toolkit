@@ -1,8 +1,12 @@
-## Best Practices
+# Introduction
+
+Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify  best practices solutions to Information Visualisation design problems for those engaged in practice.
+
+## General Design Principles
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines.
 
-## Visual Information Seeking Mantra 
+###Visual Information Seeking Mantra
 
 > **Overview first, zoom and filter, then details-on-demand.** 
 >
