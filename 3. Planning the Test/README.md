@@ -20,6 +20,12 @@ A usability test is a technique to uncover UX design problems with actual users 
 
 [Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
 
+### Deciding Test Methodology
+
+Quantitative vs. Qualitative Methods
+
+https://www.nngroup.com/articles/quant-vs-qual/
+
 
 
 ### Choosing the Right Test
