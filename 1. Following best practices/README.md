@@ -21,7 +21,18 @@ This section attempts to highlight some general design principles that should be
 
 The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual design guidelines and provides an excellent framework for desiging [Information visualization](http://www.infovis-wiki.net/index.php?title=Information_visualization) applications.
 
+### Information Discrimination
 
+> “Data isn’t like your kids, you don’t have to pretend to love them equally.”
+> Amanda Cox, NY Times
+
+
+
+**Find the core**. Your dashboard should be more than a lot of data on a screen. It should have a core theme based on the essence of the problem.
+
+**Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need to narrow down the list: “What would you do if you knew this information?” 
+
+**Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannotbe designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats. 
 
 
 ##Axis Style Guide
