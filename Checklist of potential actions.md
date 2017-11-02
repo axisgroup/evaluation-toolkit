@@ -39,9 +39,9 @@
 
 [Source](http://www.infovis-wiki.net/index.php?title=Visualization_Design_Patterns)
 
+#### Language
+ 
 
-
-Interaction Patterns
 
 
 
