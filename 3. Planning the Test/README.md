@@ -32,15 +32,15 @@ https://www.nngroup.com/articles/quant-vs-qual/
 
 In the free [Guide to Usability Testing](http://proxystudio.uxpin.com/ebooks/guide-to-usability-testing/), we divide the tests into four categories based on Christian Rohrer’s [fantastic article](http://www.nngroup.com/articles/which-ux-research-methods/):
 
-- **Scripted — **These tests analyze the user’s interaction with the product based on set instructions, targeting more specific goals and individual elements. (tree testing, hallway usability tests, benchmark testing)
+- **Scripted — ** These tests analyze the user’s interaction with the product based on set instructions, targeting more specific goals and individual elements. (tree testing, hallway usability tests, benchmark testing)
 
 
-- **Decontextualized — **Ideal for preliminary user testing and persona research, these tests don’t necessarily involve the product, but analyze more generalized and theoretical topics, targeting idea generation and broad opinions. (user interviews, surveys, card sorting)
+- **Decontextualized — ** Ideal for preliminary user testing and persona research, these tests don’t necessarily involve the product, but analyze more generalized and theoretical topics, targeting idea generation and broad opinions. (user interviews, surveys, card sorting)
 
 
-- **Natural (or near-natural) — **By analyzing the user in their own environment, these tests examine how users behave and pinpoint their feelings with accuracy, at the cost of control. (field and diary studies, A/B testing, first click testing, beta testing)
+- **Natural (or near-natural) — ** By analyzing the user in their own environment, these tests examine how users behave and pinpoint their feelings with accuracy, at the cost of control. (field and diary studies, A/B testing, first click testing, beta testing)
 
 
-- **Hybrid — **These experimental tests forego traditional methods to take an unparalleled look at the user’s mentality. (participatory design, quick exposure memory testing, adjective cards)
+- **Hybrid — ** These experimental tests forego traditional methods to take an unparalleled look at the user’s mentality. (participatory design, quick exposure memory testing, adjective cards)
 
   [Source](https://www.uxpin.com/studio/blog/how-to-run-an-insightful-usability-test/)
