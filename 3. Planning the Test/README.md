@@ -44,3 +44,7 @@ In the free [Guide to Usability Testing](http://proxystudio.uxpin.com/ebooks/gui
 - **Hybrid** — These experimental tests forego traditional methods to take an unparalleled look at the user’s mentality. (participatory design, quick exposure memory testing, adjective cards)
 
   [Source](https://www.uxpin.com/studio/blog/how-to-run-an-insightful-usability-test/)
+
+
+References:
+https://www.nngroup.com/articles/ux-research-goals-to-scenarios/
