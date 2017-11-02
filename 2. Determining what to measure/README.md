@@ -8,7 +8,7 @@ Why is Data viz hard to test?
 
 Faster is not necessarily better
 
-**Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an ecommerce site)We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either
+Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an ecommerce site)We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either
 
 Examples of what all can be tested-
 
