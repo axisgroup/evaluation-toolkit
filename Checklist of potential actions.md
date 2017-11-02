@@ -4,14 +4,13 @@
 
 #### Content/ Functional Patterns
 
-- **Data: show me a different metric**
-- **Comparison: show me a reference point**
-- **Trend: show me how things have changed over time**
-- **Outliers: show me data points that do not fit the norm**
-- **Distribution**
-- **Location: Show me how things relate spatially**
-- **Part-to-whole relationship**
-- ​
+- **Data**: show me a different metric
+- **Comparison**: show me a reference point
+- **Trend**: show me how things have changed over time
+- **Outliers**: show me data points that do not fit the norm
+- **Distribution**: show data values are spread across a scale.
+- **Location**: show me how things relate spatially
+- **Part-to-whole relationship**: show the set of values that contribute to a whole
 
 
 
