@@ -11,7 +11,14 @@
 - **Distribution**: show data values are spread across a scale.
 - **Location**: show me how things relate spatially
 - **Part-to-whole relationship**: show the set of values that contribute to a whole
+- **Proportions**:  show relative contributions of several values to a whole
+- **Patterns/Relationships**: show correlations and associations among values
 
+
+References:
+
+[TDWI]:(https://tdwi.org/Articles/2015/01/20/Language-of-Data-Visualization.aspx?Page=3
+[Data Viz Catalog]:(http://www.datavizcatalogue.com/)
 
 
 
@@ -53,7 +60,9 @@
 
   ​
 
-[Source](http://www.infovis-wiki.net/index.php?title=Visualization_Design_Patterns)
+Refernces:
+
+[Info Vis Wiki]: (http://www.infovis-wiki.net/index.php?title=Visualization_Design_Patterns)
 
 #### Language/ Vocabulary
 
