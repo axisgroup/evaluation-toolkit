@@ -2,6 +2,17 @@
 
 ## Checklist of potential actions
 
+#### Content/ Functional Patterns
+
+- **Data: show me a different metric**
+- **Comparison: show me a reference point**
+- **Trend: show me how things have changed over time**
+- **Outliers: show me data points that do not fit the norm**
+- **Distribution**
+- **Location: Show me how things relate spatially**
+
+
+
 #### Interaction Patterns
 
 - **Filter: show me something conditionally**
@@ -30,7 +41,7 @@
 
 
 
-
+Interaction Patterns
 
 
 
