@@ -6,7 +6,7 @@ Without good communication, designers who are unaware of solutions may be forced
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines.
 
-###Visual Information Seeking Mantra
+### Visual Information Seeking Mantra
 
 > **Overview first, zoom and filter, then details-on-demand.** 
 >
