@@ -26,6 +26,16 @@ Cognitively stimulating
 
 ##Usable
 
+To what degree does the product behave in a way users expect it to and the ease with which it users can use it for what they intend to. 
+
+
+
+This can further be broken down as the following attributes:
+
+
+
+
+
 #### Learnable
 
 **Scaffolds**
@@ -49,6 +59,8 @@ Motivating
 
 
 #### Efficient
+
+
 
 
 
