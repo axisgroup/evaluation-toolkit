@@ -7,6 +7,18 @@ Informative
 
 Insightful
 
+Helpful
+
+Purposeful
+
+Supports creativity
+
+Supports analysis
+
+Cognitively stimulating
+
+
+
 
 
 
@@ -28,6 +40,12 @@ Does the interface mature as the user gains more experience?
 
 Are users able to apply learning from one context to another?
 
+Rewarding
+
+
+
+Motivating
+
 
 
 #### Efficient
@@ -37,4 +55,24 @@ Are users able to apply learning from one context to another?
 
 
 ## Desirable
+
+Satisfying
+
+Enjoyable
+
+Engaging
+
+Pleasurable
+
+Exciting
+
+Entertaining
+
+Fun
+
+Surprising
+
+Provocative
+
+Emotionally Fulfilling
 
