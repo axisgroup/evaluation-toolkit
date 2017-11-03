@@ -70,7 +70,7 @@ References:
 
 Labels that describe what data is being displayed with enough business context
 
-Is the charts purpose clear from its title and subtitle?
+Is the chart's purpose clear from its title and subtitle?
 
 
 
