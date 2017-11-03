@@ -60,7 +60,7 @@ References:
 
   ​
 
-Refernces:
+References:
 
 [Info Vis Wiki]: (http://www.infovis-wiki.net/index.php?title=Visualization_Design_Patterns)
 
@@ -70,11 +70,13 @@ Refernces:
 
 Labels that describe what data is being displayed with enough business context
 
-Legends
+Is the charts purpose clear from its title and subtitle?
+
+
+
+**Legends**
 
 **Additional information:** show me additional contextual information e.g.  to learn more about how a metric is calculated/ how to read a chart
-
-
 
 **Visual cues**
 
