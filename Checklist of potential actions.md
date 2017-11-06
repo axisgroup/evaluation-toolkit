@@ -50,8 +50,6 @@ References:
 
 - **Abstract/Elaborate: show me more or less detail**
 
-  e.g. Annotate
-
 - **Select: mark something as interesting**
 
 - **Explore: show me something else**
@@ -59,6 +57,8 @@ References:
 - **Alternative choices: show me alternative metrics/ dimensions**
 
 - **Starring/tagging: show me things that I may have flagged**
+
+- **Annotate: show me comments left by me**
 •
 
   ​
