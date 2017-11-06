@@ -93,4 +93,10 @@ Limit choices
 
 Demphasize meta data?
 
+### Structural Patterns
+
+Flow
+Hierarchy
+Gradual Reveal
+
 
