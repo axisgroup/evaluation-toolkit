@@ -42,7 +42,9 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 >
 > Matthew Crawford
 
-**Separate news from the noise**- Make important information salient and  easy to get to using visual cues, interaction techniques and other functionality
+**Separate news from the noise**- Make important information salient and  easy to get to using visual cues, interaction techniques and other functionality; Avoid clutter
+
+
 
 **Push vs. Pull**- To the extent possible, the burden of highliting important information should be borne by the interface. Eg. by way of alerts and notifications
 
@@ -51,6 +53,10 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 Recognition rather than recall?
 
 Details when needed
+
+Allow people to bookmark, save, tag and annotate- so they dont have to remember what was interesting
+
+
 
 #### Computation
 
