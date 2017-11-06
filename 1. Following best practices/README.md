@@ -56,6 +56,18 @@ Details when needed
 
 Calculate the right metric for them, provide the most actionable metric or information
 
+#### Perception
+
+Recognizable icons, UI components with clear affordance
+
+Distinguishable elements
+
+Grouping thigngs togehter using whitepsace and or border, Using tiles
+
+Clear affordances- people should know how to interact with a chart, is it clickable? is it hoverable?
+
+
+
 ### Context matters
 
 
