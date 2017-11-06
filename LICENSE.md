@@ -19,6 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The underlying repository structure is derived from [Thought Bot's Design Sprint](https://github.com/thoughtbot/design-sprint) 
-and may be redistributed under the [MIT License](https://github.com/thoughtbot/design-sprint/blob/master/LICENSE.md).
