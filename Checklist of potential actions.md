@@ -58,7 +58,7 @@ References:
 
 - **Starring/tagging: show me things that I may have flagged**
 
-- **Annotate: show me my comments**
+- **Annotate: show me my comments on a particular chart or page**
 
 -  **Text-based summary:  show me an automatically generated textual description of the key information in the dashboard**
 
