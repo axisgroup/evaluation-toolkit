@@ -78,6 +78,14 @@ Clear affordances- people should know how to interact with a chart, is it clicka
 
 
 
+### Flexibility
+
+Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designingthe dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularlyrelevant information. 
+
+
+
+
+
 
 
 ## References
