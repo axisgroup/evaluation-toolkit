@@ -14,7 +14,7 @@ This section attempts to highlight some general design principles that should be
 
 - [Overview](http://www.infovis-wiki.net/index.php?title=Overview)
 - [Zoom](http://www.infovis-wiki.net/index.php?title=Zoom) and [Filter](http://www.infovis-wiki.net/index.php?title=Filtering)
-- [Details on demand](http://www.infovis-wiki.net/index.php?title=Details_on_demand)
+- [Details on demand](http://www.infovis-wiki.net/index.php?title=Details_on_demand) (Gradual Reveal)
 - [View Relationships](http://www.infovis-wiki.net/index.php?title=View_Relationships&action=edit&redlink=1)
 - [History](http://www.infovis-wiki.net/index.php?title=History&action=edit&redlink=1)
 - [Extract](http://www.infovis-wiki.net/index.php?title=Extract&action=edit&redlink=1)
@@ -25,8 +25,6 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.”
 > Amanda Cox, NY Times
-
-
 
 **Find the core**. Your dashboard should be more than a lot of data on a screen. It should have a core theme based on the essence of the problem.
 
@@ -60,7 +58,7 @@ Allow people to bookmark, save, tag and annotate- so they dont have to remember 
 
 #### Computation
 
-Calculate the right metric for them, provide the most actionable metric or information
+Calculate the right metric for them, provide the most actionable metric or information eg. Focus on absolute measures rather than changes (e.g. total sales vs. change in sales)
 
 #### Perception
 
@@ -76,7 +74,7 @@ Clear affordances- people should know how to interact with a chart, is it clicka
 
 ### Context matters
 
-
+People need context and explanation to understand new and unfamiliar events. Providing data without text, labels or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
 
 ### Flexibility
 
@@ -84,7 +82,16 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 
 
+### Actionability
 
+Empower the user to finish their task quickly and/or understand the action that should be taken based on theresults. You can build in explicit guidance about what a change in a metric means, or who to contact to address an issue that is highlighted in the dashboard. 
+
+### Compactness
+
+Some dashboards become large and unwieldy in an effort to create a single comprehensive view of an entire business or process. Eric Steven Raymond, writing about good software design
+(http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this guidance:
+“Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.”
+A dashboard can be broken into bite-sized pieces, each built around a key question
 
 
 
