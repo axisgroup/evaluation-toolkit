@@ -30,7 +30,7 @@ References:
 - % vs. absolute values
 
 
-#### Interaction Patterns
+### Interaction Patterns
 
 - **Filter: show me something conditionally**
 
@@ -64,13 +64,11 @@ References:
 
   ​
 
-  ​
-
 References:
 
 [Info Vis Wiki]: (http://www.infovis-wiki.net/index.php?title=Visualization_Design_Patterns)
 
-#### Language/ Vocabulary
+### Language/ Vocabulary
 
 **Meaningful Labels**
 
