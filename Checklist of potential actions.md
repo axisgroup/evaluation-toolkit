@@ -2,7 +2,7 @@
 
 ## Checklist of potential actions
 
-#### Content/ Functional Patterns
+### Content/ Functional Patterns
 
 - **Data**: show me a different metric
 - **Comparison**: show me a reference point
