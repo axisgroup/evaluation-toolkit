@@ -13,7 +13,8 @@ If you find a mistake, or have questions about the process, you can add a new [i
 1. You can find the list of open issues [here](https://github.com/axisgroup/evaluation-toolkit/issues) 
 2. Enter your thoughts as comments  
 3. Assign yourself to the issue if you want to make some changes so that we know someone is working on it
-4. Make changes and submit a Pull Request. [Here's how](#quick-guide-for-pull-requests).
+4. Make changes and submit a Pull Request. 
+++[Here's how](#quick-guide-for-pull-requests).
 
 <br>
 
@@ -35,7 +36,7 @@ Here's a more detailed guide to [Pull Requests](https://guides.github.com/activi
 <br>
 Here are some examples of changes you can make in your branch:
 
-#### Recommend a method
+#### ++ Recommend a method
 
 If you have successful experience using a method and you want to recommend it to the design engagement, you can add a new .md file that describes the method under the folder [Methods](https://github.com/axisgroup//Methods) in your branch and then submit a pull request. 
 
