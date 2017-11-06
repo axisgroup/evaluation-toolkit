@@ -32,7 +32,19 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need to narrow down the list: “What would you do if you knew this information?” 
 
-**Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannotbe designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats. 
+**Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannotbe designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+
+### Attention is a scarce resource
+
+> "*Attention* is a *resource*—a person has only so much of it."
+>
+> Matthew Crawford
+
+**Separate news from the noise**- Make important information salient and  easy to get to
+
+**Push vs. Pull**- To the extent possible, the burden of highliting important information should be borne by the interface. Eg. by way of alerts and notifications
+
+
 
 
 ## Axis Style Guide
