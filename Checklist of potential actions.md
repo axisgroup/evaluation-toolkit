@@ -59,7 +59,6 @@ References:
 - **Starring/tagging: show me things that I may have flagged**
 
 - **Annotate: show me comments left by me**
-•
 
   ​
 
