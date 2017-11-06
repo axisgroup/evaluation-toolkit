@@ -4,7 +4,7 @@ Without good communication, designers who are unaware of solutions may be forced
 
 ## General Design Principles
 
-This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines.
+This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard. Instead, we suggest prioritizing one or two general principles inorder to stay focused.
 
 ### Visual Information Seeking Mantra
 
@@ -40,9 +40,11 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 >
 > Matthew Crawford
 
-**Separate news from the noise**- Make important information salient and  easy to get to
+**Separate news from the noise**- Make important information salient and  easy to get to using visual cues, interaction techniques and other functionality
 
 **Push vs. Pull**- To the extent possible, the burden of highliting important information should be borne by the interface. Eg. by way of alerts and notifications
+
+### Context matters
 
 
 
