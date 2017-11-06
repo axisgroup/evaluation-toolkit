@@ -42,9 +42,9 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 **Separate news from the noise**- Make important information salient and  easy to get to using visual cues, interaction techniques and other functionality; Avoid clutter
 
-
-
 **Push vs. Pull**- To the extent possible, the burden of highliting important information should be borne by the interface. Eg. by way of alerts and notifications
+
+
 
 #### Memory
 
@@ -60,6 +60,8 @@ Allow people to bookmark, save, tag and annotate- so they dont have to remember 
 
 Calculate the right metric for them, provide the most actionable metric or information eg. Focus on absolute measures rather than changes (e.g. total sales vs. change in sales)
 
+
+
 #### Perception
 
 Recognizable icons, UI components with clear affordance
@@ -69,6 +71,14 @@ Distinguishable elements
 Grouping thigngs togehter using whitepsace and or border, Using tiles
 
 Clear affordances- people should know how to interact with a chart, is it clickable? is it hoverable?
+
+
+
+#### Learning
+
+
+
+#### Reading
 
 
 
@@ -92,6 +102,10 @@ Some dashboards become large and unwieldy in an effort to create a single compre
 (http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this guidance:
 “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.”
 A dashboard can be broken into bite-sized pieces, each built around a key question
+
+### Minimal Design
+
+To the extent possible reduce the number of choices a user has to make
 
 
 
