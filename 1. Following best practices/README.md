@@ -8,6 +8,8 @@ This section attempts to highlight some general design principles that should be
 
 ### Visual Information Seeking Mantra
 
+++rephrase
+
 > **Overview first, zoom and filter, then details-on-demand.** 
 >
 > [Shneiderman, 1996]
@@ -90,13 +92,15 @@ People need context and explanation to understand new and unfamiliar events. Pro
 
 Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designingthe dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularlyrelevant information. 
 
-
-
 ### Actionability
+
+++rephrase
 
 Empower the user to finish their task quickly and/or understand the action that should be taken based on theresults. You can build in explicit guidance about what a change in a metric means, or who to contact to address an issue that is highlighted in the dashboard. 
 
 ### Compactness
+
+++rephrase
 
 Some dashboards become large and unwieldy in an effort to create a single comprehensive view of an entire business or process. Eric Steven Raymond, writing about good software design
 (http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this guidance:
@@ -107,7 +111,9 @@ A dashboard can be broken into bite-sized pieces, each built around a key questi
 
 To the extent possible reduce the number of choices a user has to make
 
+### Redundancy in perceptual cues not Information
 
+Avoid repeating the same information to avoid conflicting data ++rephrase
 
 ## References
 
