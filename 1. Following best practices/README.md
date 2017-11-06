@@ -48,9 +48,27 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 #### Memory
 
+Recognition rather than recall?
+
+Details when needed
+
 #### Computation
 
+Calculate the right metric for them, provide the most actionable metric or information
+
 ### Context matters
+
+
+
+
+
+## References
+
+https://static1.squarespace.com/static/52f42657e4b0b3416ff6b831/t/55b9117ae4b060a0d84fef15/1438191994754/Dashboards_People_Love_To_Use_Whitepaper_v2.pdf
+
+https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
+
+
 
 
 
