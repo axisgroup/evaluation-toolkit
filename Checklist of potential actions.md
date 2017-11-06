@@ -14,13 +14,10 @@
 - **Proportions**:  show relative contributions of several values to a whole
 - **Patterns/Relationships**: show correlations and associations among values
 
-
 References:
 
 [TDWI]:(https://tdwi.org/Articles/2015/01/20/Language-of-Data-Visualization.aspx?Page=3
 [Data Viz Catalog]:(http://www.datavizcatalogue.com/)
-
-
 
 ### Data Presentation
 
@@ -28,7 +25,6 @@ References:
 - indexing?
 - Scale?
 - % vs. absolute values
-
 
 ### Interaction Patterns
 
@@ -77,7 +73,6 @@ Labels that describe what data is being displayed with enough business context
 Is the chart's purpose clear from its title and subtitle?
 
 
-
 **Legends**
 
 **Additional information:** show me additional contextual information e.g.  to learn more about how a metric is calculated/ how to read a chart
@@ -90,10 +85,6 @@ Is the chart's purpose clear from its title and subtitle?
 
   ​
 
-
-
-
-
 ### Aesthetics
 
 Limit clutter
@@ -102,7 +93,4 @@ Limit choices
 
 Demphasize meta data?
 
-
-
-**
 
