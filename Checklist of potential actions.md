@@ -58,6 +58,9 @@ References:
 
 - **Alternative choices: show me alternative metrics/ dimensions**
 
+- **Starring/tagging: show me things that I may have flagged**
+•
+
   ​
 
 References:
