@@ -46,6 +46,7 @@ The description file should include:
 * Examples
 * References or resources
 
+
 #### Add photos and examples from previous engagements
 
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
