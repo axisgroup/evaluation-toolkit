@@ -4,7 +4,7 @@ Without good communication, designers who are unaware of solutions may be forced
 
 ## General Design Principles
 
-This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard. Instead, we suggest prioritizing one or two general principles inorder to stay focused.
+This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles inorder to stay focused 
 
 ### Visual Information Seeking Mantra
 
@@ -103,7 +103,7 @@ Some dashboards become large and unwieldy in an effort to create a single compre
 “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.”
 A dashboard can be broken into bite-sized pieces, each built around a key question
 
-### Minimal Design
+### Minimize Choices
 
 To the extent possible reduce the number of choices a user has to make
 
