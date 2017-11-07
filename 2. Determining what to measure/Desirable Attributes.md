@@ -6,10 +6,13 @@
 **Informative**
 
 - Does the visualization reveal trends, patterns, gaps, or outliers? Can the viewer make effective comparisons?
+- Can the viewer make effective comparisons?
 
 **Insightful**
 
 - Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
+- Does it provide insight or understanding better than some alternative visualization would? Or does it require excessive cognitive effort?
+
 
 Helpful
 
@@ -20,12 +23,6 @@ Supports creativity
 Supports analysis
 
 Cognitively stimulating
-
-
-
-
-
-
 
 
 ##Usable
@@ -41,7 +38,7 @@ This can further be broken down as the following attributes:
 
 
 #### Learnable
-
+- Is it immediately understandable? If not, is it understandable after a short period of study?
 **Scaffolds**
 
 Does the interface guide and constrain users to select appropriate actions when initially learning?
@@ -63,12 +60,10 @@ Motivating
 
 
 #### Efficient
+- What kind of visualization might have been better? For example, if somebody has given you a set of multiple pie charts, and you have to compare pie wedges, from one to the other, is that really the best way to make those comparisons, or could a bar chart have done the job just as well, maybe better? 
 
-
-
-
-
-
+#### Effective
+- Does the visualization successfully highlight important information, while providing context for that information? Is new information gleaned from the visualization that wouldn't have come from an alternative method and is the important information highlighted and is the context not hidden?
 
 ## Desirable
 
