@@ -30,7 +30,7 @@ To what degree does the product behave in a way users expect it to and the ease 
 
 This can further be broken down as the following attributes:
 
-## Learnable
+### Learnable
 - Is it immediately understandable? If not, is it understandable after a short period of study?
 
 **Scaffolds**
@@ -79,3 +79,9 @@ Provocative
 
 Emotionally Fulfilling
 
+
+
+References:
+https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+
+https://www.researchgate.net/post/Is_there_an_accepted_set_of_evaluation_criteria_in_information_visualization_to_evaluate_visualization_quality
