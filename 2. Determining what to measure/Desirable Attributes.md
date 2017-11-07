@@ -31,21 +31,23 @@ To what degree does the product behave in a way users expect it to and the ease 
 This can further be broken down as the following attributes:
 
 ### Learnable
+
+**Focused**
 - Is it immediately understandable? If not, is it understandable after a short period of study?
 
-**Scaffolds**
-Does the interface guide and constrain users to select appropriate actions when initially learning?
+**Guided/Provides Scaffolds**
+- Does the interface guide and constrain users to select appropriate actions when initially learning?
 
 **Adaptive**
 
-Does the interface mature as the user gains more experience?
+- Does the interface mature as the user gains more experience?
 
-**Transfer**
+**Transferable**
 
-Are users able to apply learning from one context to another?
+- Are users able to apply learning from one context to another?
 
 **Rewarding/Motivating**
-Are users encouraged to explore the interface?
+- Are users encouraged to explore the interface?
 
 ### Efficient
 - What kind of visualization might have been better? For example, if somebody has given you a set of multiple pie charts, and you have to compare pie wedges, from one to the other, is that really the best way to make those comparisons, or could a bar chart have done the job just as well, maybe better? 
