@@ -34,6 +34,14 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 **Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannotbe designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
 
+To sum up, ask the following questions when making decisions-
+
+What metrics are a must, or necessary to all users
+What’s necessary to certain users, but not to the others
+What’s nice to have but not necessary
+What doesn’t really make sense
+
+
 ### Cognition is a scarce resource
 
 #### Attention
