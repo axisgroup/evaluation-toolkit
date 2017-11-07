@@ -3,9 +3,13 @@
 
 ## Useful
 
-Informative
+**Informative**
 
-Insightful
+- Does the visualization reveal trends, patterns, gaps, or outliers? Can the viewer make effective comparisons?
+
+**Insightful**
+
+- Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
 
 Helpful
 
@@ -67,6 +71,10 @@ Motivating
 
 
 ## Desirable
+
+**Aesthetic**
+
+Is the design aesthetically pleasing?
 
 Satisfying
 
