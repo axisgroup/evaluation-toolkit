@@ -8,7 +8,7 @@ Testing, creativity, and empathy are the fundamental pillars of the user-centere
 
 Using these fundamentals we are able to iteratively deliver applications that are useful, usable, and delightful at every stage.
 
-![Cupcake Analogy](./Assets/images/cupcake_mvp.png)
+![Cupcake Analogy](./Assets/images/cupcake-mvp.png)
 
 Testing allows us to step back and backup assumptions made along the way with empirical evidence. 
 All in all, it helps us-
