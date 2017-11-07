@@ -87,3 +87,5 @@ References:
 https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 https://www.researchgate.net/post/Is_there_an_accepted_set_of_evaluation_criteria_in_information_visualization_to_evaluate_visualization_quality
+
+https://www.courses.ischool.berkeley.edu/i247/s08/lectures/lecture8_public.ppt
