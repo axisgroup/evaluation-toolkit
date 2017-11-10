@@ -14,8 +14,6 @@
 - **Proportions**:  show relative contributions of several values to a whole
 - **Patterns/Relationships**: show correlations and associations among values
 
-References:
-
 [TDWI]:(https://tdwi.org/Articles/2015/01/20/Language-of-Data-Visualization.aspx?Page=3
 [Data Viz Catalog]:(http://www.datavizcatalogue.com/)
 
