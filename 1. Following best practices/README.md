@@ -130,5 +130,5 @@ https://juiceanalytics.squarespace.com/s/Guide_to_Dashboard_Design.pdf
 https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
 
 ## Axis Style Guide
-[Axis Specific Styling Principles(https://sites.google.com/s/0B3RhFswo7vVxVlBCR1Y3dHRZXzA/p/0B3RhFswo7vVxUE5mVUl0TE9JUnM/edit)
+[Axis Specific Styling Principles](https://sites.google.com/s/0B3RhFswo7vVxVlBCR1Y3dHRZXzA/p/0B3RhFswo7vVxUE5mVUl0TE9JUnM/edit)
 
