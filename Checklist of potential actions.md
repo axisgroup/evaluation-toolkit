@@ -97,3 +97,4 @@ Hierarchy
 Gradual Reveal
 
 References:
+http://classes.engr.oregonstate.edu/eecs/spring2015/cs419-001/Slides/tufteDesign.pdf
