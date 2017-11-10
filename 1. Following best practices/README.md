@@ -89,7 +89,7 @@ Clear affordances- people should know how to interact with a chart, is it clicka
 
 
 #### Reading
-
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
 
 
 ### Context matters
