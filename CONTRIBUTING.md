@@ -4,7 +4,7 @@ We love new ideas that push this repository and design engagement forward. We ar
 for tracking our work on the repository. Here are the ways that you can contribute:
 
 ### Contribute with Issues
-All the open issues are being tracked on the [issue](https://github.com/axisgroup/evaluation-toolkit/issues/new) page. You can contribute by adding new issues, or solving an existing issue.
+All the open issues are being tracked on the [issue](https://github.com/axisgroup/evaluation-toolkit/issues) page. You can contribute by adding new issues, or solving an existing issue.
 
 #### Submit a new issue
 If you find a mistake, or have questions about the process, you can add a new [issue](https://github.com/axisgroup/evaluation-toolkit/issues/new), and one of the design team members will review the issue and respond to it.
