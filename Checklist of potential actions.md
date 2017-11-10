@@ -59,9 +59,6 @@ References:
 -  **Text-based summary:  show me an automatically generated textual description of the key information in the dashboard**
 
   ​
-
-References:
-
 [Info Vis Wiki]: (http://www.infovis-wiki.net/index.php?title=Visualization_Design_Patterns)
 
 ### Language/ Vocabulary
@@ -99,4 +96,4 @@ Flow
 Hierarchy
 Gradual Reveal
 
-
+References:
