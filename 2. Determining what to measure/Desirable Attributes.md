@@ -53,7 +53,7 @@ This can further be broken down as the following attributes:
 **Rewarding/Motivating**
 - Are users encouraged to explore the interface?
 - Are error messages expressed in plain language (no codes)?
-- Do they precisely indicate the problem, and constructively suggest a solution.
+- Do they precisely indicate the problem, and constructively suggest a solution?
 
 ### Efficient
 - What kind of visualization might have been better? For example, if somebody has given you a set of multiple pie charts, and you have to compare pie wedges, from one to the other, is that really the best way to make those comparisons, or could a bar chart have done the job just as well, maybe better? 
