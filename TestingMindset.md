@@ -4,6 +4,10 @@
 
 Not everything can be tested. Many many constraints not the least of which are limited time, budget and access to users.
 
+**1. Prioritize, prioritize, prioritize.**
+
+Pick a few design principles or considerations that are key to your application and evaluate only those criteria.
+
 **2. No amount of testing will make your design perfect so instead aim for good enough**
 
 Design is inherently about trade-offs and so  your design will NEVER be perfect. In the spirit of iterative refinement, you should accept that!Your test , just like your design, should be good enough to surface immediate problems that will serve as an impediment to the user.
