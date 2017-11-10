@@ -13,8 +13,10 @@
 - Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
 - Does it provide insight or understanding better than some alternative visualization would? Or does it require excessive cognitive effort?
 
-Helpful
-Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+### Helpful
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
+- Is help documentation easy to search? Is it focused on the user's task?
+- Doest it list concrete steps to be carried out without being overwhelming?
 
 Purposeful
 
@@ -55,6 +57,9 @@ This can further be broken down as the following attributes:
 
 ### Effective
 - Does the visualization successfully highlight important information, while providing context for that information? Is new information gleaned from the visualization that wouldn't have come from an alternative method and is the important information highlighted and is the context not hidden?
+
+Help users recognize, diagnose, and recover from errors
+Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
 
 ## Desirable
 
