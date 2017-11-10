@@ -66,6 +66,8 @@ Error messages should be expressed in plain language (no codes), precisely indic
 **Aesthetic**
 
 Is the design aesthetically pleasing?
+Does it make effective use of data-ink?
+Does it avoid use of any non-data ink that serves no meaningful and necessary purpose?
 
 Satisfying
 
