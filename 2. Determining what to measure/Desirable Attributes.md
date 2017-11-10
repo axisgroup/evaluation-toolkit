@@ -18,6 +18,11 @@ Even though it is better if the system can be used without documentation, it may
 - Is help documentation easy to search? Is it focused on the user's task?
 - Doest it list concrete steps to be carried out without being overwhelming?
 
+### Trustworthy
+- Does it maintian a proper scale?
+- Does it represent measures using approproate visuals?
+- Does it provide enough context to the user?
+
 Purposeful
 
 Supports creativity
