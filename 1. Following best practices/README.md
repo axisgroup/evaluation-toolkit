@@ -98,6 +98,8 @@ into the background unless we call attention to them.
 
 Use this framework to make decisions on typeface (serifs vs. sans serif), font size, and color. 
 
+Additionally, to ensure comprehension the system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms
+
 ### Context matters
 
 People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
