@@ -48,7 +48,7 @@ To sum up, ask the following questions when making decisions-
 >
 > Matthew Crawford
 
-**Separate news from the noise**- Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Aoid clutter.
+**Separate news from the noise**- Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter.
 
 **Push vs. Pull**- To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g. by way of alerts and notifications.
 
