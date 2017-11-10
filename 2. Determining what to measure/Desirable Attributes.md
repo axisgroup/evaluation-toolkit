@@ -95,3 +95,5 @@ https://www.perceptualedge.com/articles/visual_business_intelligence/data_visual
 https://www.researchgate.net/post/Is_there_an_accepted_set_of_evaluation_criteria_in_information_visualization_to_evaluate_visualization_quality
 
 www.courses.ischool.berkeley.edu/i247/s08/lectures/lecture8_public.ppt
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
