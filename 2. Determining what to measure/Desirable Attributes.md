@@ -76,7 +76,7 @@ This can further be broken down as the following attributes:
 - Are appropriate affordances utilized to indicate that a user can take action (i.e. hover/click) on specific data elements?
 - Is there a clear hierarchy of information?
 
-#### Safety
+#### Safe
 Safety involves protecting users from undesirable situations and helping them avoid performing unwanted actions accidentally. It involves helping users recognize, diagnose, and recover from errors.
 - What is the range of errors that are possible in using the product, and what measures are there to help users to easily recover from them? 
 - Are error messages expressed in plain language (no codes)? Do they precisely indicate the problem and constructively suggest a solution?
