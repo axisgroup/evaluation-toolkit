@@ -18,7 +18,7 @@
 - Does it provide insight or understanding better than some alternative visualization would? Or does it require excessive cognitive effort?
 - Does the visualization provide information that is actionable?
 
-#### Documentation
+#### Well Documented
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 
 - Is the help documentation easy to find?
