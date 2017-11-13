@@ -4,9 +4,11 @@ Without good communication, designers who are unaware of solutions may be forced
 
 ## General Design Principles
 
-This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
+This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles inorder to stay focused 
 
-### The Mantra We Follow for Seeking Visual Information
+### Visual Information Seeking Mantra
+
+++rephrase
 
 > **Overview first, zoom and filter, then details-on-demand.** 
 >
@@ -26,83 +28,71 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.”
 > Amanda Cox, NY Times
 
-**Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
+**Find the core**. Your dashboard should be more than a lot of data on a screen. It should have a core theme based on the essence of the problem.
 
-**Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
+**Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need to narrow down the list: “What would you do if you knew this information?” 
 
-**Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+**Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannotbe designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
 
 To sum up, ask the following questions when making decisions-
 
-* What metrics are a must, or necessary to all users?
-* What’s necessary to certain users, but not to the others?
-* What’s nice to have but not necessary?
-* What doesn’t really make sense?
+What metrics are a must, or necessary to all users
+What’s necessary to certain users, but not to the others
+What’s nice to have but not necessary
+What doesn’t really make sense
 
 
 ### Cognition is a scarce resource
 
 #### Attention
 
-> "*Attention* is a *resource* —a person has only so much of it."
+> "*Attention* is a *resource*—a person has only so much of it."
 >
 > Matthew Crawford
 
-**Separate news from the noise**- Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter.
+**Separate news from the noise**- Make important information salient and  easy to get to using visual cues, interaction techniques and other functionality; Avoid clutter
 
-**Push vs. Pull**- To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g. by way of alerts and notifications.
+**Push vs. Pull**- To the extent possible, the burden of highliting important information should be borne by the interface. Eg. by way of alerts and notifications
 
 
 
 #### Memory
 
-Promote recognition rather than recall by using familiar metrics and common patterns. 
+Recognition rather than recall?
 
-When needed, provide details.
+Details when needed
 
-Allow people to bookmark, save, tag and annotate- so they dont have to remember what was interesting
-
-
+Allow people to bookmark, save, tag and annotate- so they dont have to remember what was interesting. The burden should not be on the user to remember information from one screen to the next. Make elements visible for easy recongnition.  For example, if the user applies a filter on one screen and moves to the next screen he/she should not be expected to remember that a filter was applied. This information should be visible on both screens.  
 
 #### Computation
 
-Calculate the right metric for users, and provide the most actionable metric or information. For example, it may be important to focus on variances rather than absolute changes (e.g. change in sales since last year vs. total sales).
+Calculate the right metric for them, provide the most actionable metric or information eg. Focus on absolute measures rather than changes (e.g. total sales vs. change in sales)
+
 
 
 #### Perception
 
-Use recognizable icons and UI components with clear affordances.
+Recognizable icons, UI components with clear affordance
 
-Maximize contrast between data and the background to increase readability.
+Distinguishable elements
 
-Group similar elements together by using white space, borders, and/or tiles.
+Grouping thigngs togehter using whitepsace and or border, Using tiles
 
-Use clear affordances so that users will know how to interact with a chart, whether it's clickable or hoverable. 
+Clear affordances- people should know how to interact with a chart, is it clickable? is it hoverable?
 
 
 
-#### Easy Learnability
+#### Learning
 
-Simplicity is key!  
 
-Layout and order of presentation matter. Start with the summary-level metrics first, and uncover more complex data and charts as user works through the dashboard. 
 
-#### Readability
+#### Reading
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
 
-Many factors play into the readability of your content, such as typeface, font size, color, etc. The following is a font framework that Juice Analytics has provided:
-* Body text is clean, readable content
-* Headers separate and name major sections of your work
-* Notes describe additional things the reader should be aware of. These should fade
-into the background unless we call attention to them.
-* Emphasis text is what we want our reader to pay particular attention to. 
-
-Use this framework to make decisions on typeface (serifs vs. sans serif), font size, and color. 
-
-Additionally, to ensure comprehension the system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms
 
 ### Context matters
 
-People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
+People need context and explanation to understand new and unfamiliar events. Providing data without text, labels or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
 
 ### Flexibility
 
@@ -110,9 +100,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 ### Actionability
 
-++rephrase
-
-Empower the user to finish their task quickly and/or understand the action that should be taken based on theresults. You can build in explicit guidance about what a change in a metric means, or who to contact to address an issue that is highlighted in the dashboard. 
+Enable users to not just get insights from their data and complete tasks quickly but also be able to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additonal visulizations to show why this has happened to enable the user to take action based on the information.  
 
 ### Compactness
 
@@ -125,22 +113,18 @@ A dashboard can be broken into bite-sized pieces, each built around a key questi
 
 ### Minimize Choices
 
-To the extent possible reduce the number of choices a user has to make
+To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
 ### Redundancy in perceptual cues not Information
 
-Avoid repeating the same information to avoid conflicting data ++rephrase
+Avoid repeating the same information. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant. 
 
 ## References
 
+https://www.nngroup.com/articles/ten-usability-heuristics/
 https://juiceanalytics.squarespace.com/s/Guide_to_Dashboard_Design.pdf
-
 https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
 
-
-
-
-
-
-## Axis Style Guide
+## Axis Group Style Guide
+[Axis Group Specific Styling Principles](https://sites.google.com/view/style-guide/guidelines)
 
