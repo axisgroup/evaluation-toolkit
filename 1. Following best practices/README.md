@@ -141,9 +141,11 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
+
+
 #### Others TBD:
 
-Error Prevention
+Error Prevention (also resetting current selections to default values)
 
 Consistency and Standards
 
