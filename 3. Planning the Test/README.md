@@ -9,7 +9,7 @@ A usability test is a technique to uncover UX design problems with actual users 
 - A prototype- you can use prototypes of varying fidelity ranging from a paper prototype to an interactive mockup.
 
 
-- Users
+- Users- The number of users you need to recruit for a test depends on your research methods. Generally, Quantitative studies require 
 
 
 - Facilitator- Usually, a usability professional and whose role is to record the issues raised during the meeting.

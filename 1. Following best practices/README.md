@@ -25,8 +25,8 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.”
 > Amanda Cox, NY Times
-In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
-**Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
+> In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
+> **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
 
 **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
 
@@ -114,9 +114,16 @@ Enable users to not just get insights from their data and complete tasks quickly
 
 ### Compactness
 
-Eric Steven Raymond, writing about good software design (http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this piece of advice:
-“Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.”
-A dashboard can be broken into bite-sized pieces, each built around a key question.
+Eric Steven Raymond, writing about good software design (http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this piece of advice: 
+
+> “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
+>
+>  Compact is not equivalent to ‘weak’. A design can have a great deal of power and flexibility and still be compact if it is built on abstractions that are easy to think about and fit together well. Nor is compact equivalent to ‘easily learned’; some compact designs are quite difficult to understand until you have mastered an underlying conceptual model that is tricky, at which point your view of the world changes and compact *becomes* simple. ”
+
+Few tactics to design compact dashboards- 
+
+1. Break a dashboard into bite-sized pieces, each built around a key question.
+2. Increase data-ink ratio by leveraging data dense visualization techniques such as small multiples, glyphs, sparklines etc.
 
 ### Minimize Choices
 
