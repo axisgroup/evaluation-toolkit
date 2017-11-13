@@ -44,26 +44,26 @@ This can further be broken down as the following attributes:
 
 #### Learnable
 
-**Focused**
-- Is it immediately understandable? If not, is it understandable after a short period of study?
-- Are the titles of charts and screens clear enough to indicate the purpose of the view? 
-- Is the information architecture succinct and organized enough to enable a user to find what he/she is looking for? 
+- **Focused**
+    - Is it immediately understandable? If not, is it understandable after a short period of study?
+    - Are the titles of charts and screens clear enough to indicate the purpose of the view? 
+    - Is the information architecture succinct and organized enough to enable a user to find what he/she is looking for? 
 
-**Guided/Provides Scaffolds**
-- Does the interface guide and constrain users to select appropriate actions when initially learning?
-- Does the interface provide help messages to users so they can recognize, diagnose, and recover from errors?
+- **Guided/Provides Scaffolds**
+    - Does the interface guide and constrain users to select appropriate actions when initially learning?
+    - Does the interface provide help messages to users so they can recognize, diagnose, and recover from errors?
 
-**Adaptive**
-- Does the interface mature as the user gains more experience?
+- **Adaptive**
+    - Does the interface mature as the user gains more experience?
 
-**Transferable**
-- Are users able to apply learning from one context to another?
-- Is terminology, styles, and interactions consistent?
+- **Transferable**
+    - Are users able to apply learning from one context to another?
+    - Is terminology, styles, and interactions consistent?
 
-**Rewarding/Motivating**
-- Are users encouraged to explore the interface?
-- Are error messages expressed in plain language (no codes)?
-- Do they precisely indicate the problem, and constructively suggest a solution?
+- **Rewarding/Motivating**
+    - Are users encouraged to explore the interface?
+    - Are error messages expressed in plain language (no codes)?
+    - Do they precisely indicate the problem, and constructively suggest a solution?
 
 #### Efficient
 - Can the user glean the necessary information without too much cognitive load?
