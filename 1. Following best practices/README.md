@@ -77,9 +77,9 @@ Maximize contrast between data and the background to increase readability.
 
 Group similar elements together by using white space, borders, and/or tiles.
 
-Use clear affordances so that users will know how to interact with a chart, whether it's clickable or hoverable. 
+Ensure distinguishability between elements.
 
-
+Use clear affordances so that users will know how to interact with a chart, whether it's clickable or hoverable.
 
 #### Easy Learnability
 
@@ -93,7 +93,7 @@ Many factors play into the readability of your content, such as typeface, font s
 * Body text is clean, readable content
 * Headers separate and name major sections of your work
 * Notes describe additional things the reader should be aware of. These should fade
-into the background unless we call attention to them.
+  into the background unless we call attention to them.
 * Emphasis text is what we want our reader to pay particular attention to. 
 
 Use this framework to make decisions on typeface (serifs vs. sans serif), font size, and color. 
@@ -110,9 +110,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 ### Actionability
 
-++rephrase
-
-Empower the user to finish their task quickly and/or understand the action that should be taken based on theresults. You can build in explicit guidance about what a change in a metric means, or who to contact to address an issue that is highlighted in the dashboard. 
+Enable users to not just get insights from their data and complete tasks quickly but also be able to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additonal visulizations to show why this has happened to enable the user to take action based on the information. 
 
 ### Compactness
 
@@ -125,11 +123,11 @@ A dashboard can be broken into bite-sized pieces, each built around a key questi
 
 ### Minimize Choices
 
-To the extent possible reduce the number of choices a user has to make
+To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
 ### Redundancy in perceptual cues not Information
 
-Avoid repeating the same information to avoid conflicting data ++rephrase
+Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant.
 
 ## References
 
