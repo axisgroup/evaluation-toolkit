@@ -19,7 +19,7 @@ This section attempts to highlight some general design principles that should be
 - [History](http://www.infovis-wiki.net/index.php?title=History&action=edit&redlink=1)
 - [Extract](http://www.infovis-wiki.net/index.php?title=Extract&action=edit&redlink=1)
 
-The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual design guidelines and provides an excellent framework for desiging [Information visualization](http://www.infovis-wiki.net/index.php?title=Information_visualization) applications.
+The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual design guidelines and provides an excellent framework for desiging Information visualization applications.
 
 ### Information Discrimination
 
