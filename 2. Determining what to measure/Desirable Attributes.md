@@ -5,7 +5,7 @@
 
 ### Informative
 
-- Does the visualization reveal trends, patterns, gaps, or outliers? Can the viewer make effective comparisons?
+- Does the visualization reveal trends, patterns, gaps, or outliers? 
 - Can the viewer make effective comparisons?
 
 ### Insightful
@@ -16,16 +16,19 @@
 ### Helpful
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 - Is help documentation easy to search? Is it focused on the user's task?
-- Doest it list concrete steps to be carried out without being overwhelming?
+- Does it list concrete steps to be carried out without being overwhelming?
 
 ### Trustworthy
-- Does it maintian a proper scale?
+- Does it maintain a proper scale?
 - Does it represent measures using approproate visuals?
 - Does it provide enough context to the user?
 
-Purposeful
+### Purposeful
 
-Supports creativity
+- Does the visualization have a specific goal? For example, is it to provide context or to enable action?
+- What specific question(s) is the visualization aiming to answer? Does it do so? 
+
+### Supports creativity
 
 Supports analysis
 
@@ -34,7 +37,8 @@ Cognitively stimulating
 
 ## Usable
 
-To what degree does the product behave in a way users expect it to and the ease with which it users can use it for what they intend to. 
+To what degree does the product behave in a way that users expect it to? 
+How easy is it for users to use it for what they intended to?  
 
 This can further be broken down as the following attributes:
 
@@ -45,15 +49,14 @@ This can further be broken down as the following attributes:
 
 **Guided/Provides Scaffolds**
 - Does the interface guide and constrain users to select appropriate actions when initially learning?
-- Does the interface provide help messages to users so thy can recognize, diagnose, and recover from errors?
+- Does the interface provide help messages to users so they can recognize, diagnose, and recover from errors?
 
 **Adaptive**
-
 - Does the interface mature as the user gains more experience?
 
 **Transferable**
-
 - Are users able to apply learning from one context to another?
+- Is terminology, styles, and interactions consistent?
 
 **Rewarding/Motivating**
 - Are users encouraged to explore the interface?
@@ -61,13 +64,25 @@ This can further be broken down as the following attributes:
 - Do they precisely indicate the problem, and constructively suggest a solution?
 
 ### Efficient
-- What kind of visualization might have been better? For example, if somebody has given you a set of multiple pie charts, and you have to compare pie wedges, from one to the other, is that really the best way to make those comparisons, or could a bar chart have done the job just as well, maybe better? 
+- Can the user glean the necessary information without too much cognitive load?
+- Does the visualization support common tasks with a minimal amount of steps? For example, if a user needs to view how sales has changed every day, does the dashboard provide quick, easy, and clear visibility to this information?
+- Can a high level of productivity be sustained once users have learned how to use the dashboard to carry out tasks, or how to properly read a visualization?
+- Think through some other visualizations that might accomplish the same goal, and evaluate whether your visualization is truly the most efficient. For example, if somebody has given you a set of multiple pie charts, and you have to compare pie wedges, from one to the other, is that really the best way to make those comparisons, or could a bar chart have done the job just as well, maybe better?
 
 ### Effective
-- Does the visualization successfully highlight important information, while providing context for that information? Is new information gleaned from the visualization that wouldn't have come from an alternative method and is the important information highlighted and is the context not hidden?
+- Does the visualization successfully highlight important information, while providing context for that information? 
+- Does the visualization support the user's daily/weekly/monthly tasks? 
+- Does the visualization allow the user to answer his/her questions when looking at those particular metrics?
 
-Help users recognize, diagnose, and recover from errors
-Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
+### Intuitive
+- Is there appropriate feedback in the design that indicates to the user what action was just taken? For example, what might differentiate between a hovered vs. unhovered state?
+- Are appropriate affordances utilized to indicate that a user can take action (i.e. hover/click) on specific data elements?
+
+### Safety
+Safety involves protecting users from undesirable situations and helping them avoid performing unwanted actions accidentally. It involves helping users recognize, diagnose, and recover from errors.
+- What is the range of errors that are possible in using the product, and what measures are there to help users to easily recover from them? 
+- Are error messages expressed in plain language (no codes)? Do they precisely indicate the problem and constructively suggest a solution?
+- Are certain interactions disabled if not available?
 
 ## Desirable
 
