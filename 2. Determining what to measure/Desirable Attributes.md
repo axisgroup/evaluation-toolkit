@@ -3,56 +3,51 @@
 
 ## Useful
 
-### Informative
-
+#### Informative
 - Does the visualization reveal trends, patterns, gaps, or outliers? 
 - Can the viewer make effective comparisons?
 - Does the visualization answer key questions from interviews/persona cards?
 
+#### Effective
+- Does each visualization successfully highlight important information, while providing context for that information? 
+- Does each visualization support the user's daily/weekly/monthly tasks? 
+- Does each visualization allow the user to answer his/her questions when looking at those particular metrics?
 
-### Insightful
-
+#### Insightful
 - Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
 - Does it provide insight or understanding better than some alternative visualization would? Or does it require excessive cognitive effort?
 - Does the visualization provide information that is actionable?
 
-### Documentation
+#### Documentation
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 
 - Is the help documentation easy to find?
 - Is help documentation easy to search? Is it focused on the user's task?
 - Does it list concrete steps to be carried out without being overwhelming?
 
-
-### Trustworthy
+#### Trustworthy
 - Does it maintain a proper scale?
 - Does it represent measures using approproate visuals?
 - Does it provide enough context to the user?
 - Is the data accurate?
 
-### Purposeful
-
-- Does the visualization have a specific goal? For example, is it to provide context or to enable action?
+#### Purposeful
+- Does each visualization have a specific goal? For example, is it to provide context, support analysis, or enable action?
 - What specific question(s) is the visualization aiming to answer? Does it do so? 
-
-### Supports creativity
-
-Supports analysis
-
-Cognitively stimulating
 
 
 ## Usable
-
 To what degree does the product behave in a way that users expect it to? 
 How easy is it for users to use it for what they intended to?  
 
 This can further be broken down as the following attributes:
 
-### Learnable
+#### Learnable
 
 **Focused**
 - Is it immediately understandable? If not, is it understandable after a short period of study?
+- Are the titles of charts and screens clear enough to indicate the purpose of the view? 
+- Is the information architecture succinct and organized enough to enable a user to find what he/she is looking for? 
 
 **Guided/Provides Scaffolds**
 - Does the interface guide and constrain users to select appropriate actions when initially learning?
@@ -70,22 +65,18 @@ This can further be broken down as the following attributes:
 - Are error messages expressed in plain language (no codes)?
 - Do they precisely indicate the problem, and constructively suggest a solution?
 
-### Efficient
+#### Efficient
 - Can the user glean the necessary information without too much cognitive load?
 - Does the visualization support common tasks with a minimal amount of steps? For example, if a user needs to view how sales has changed every day, does the dashboard provide quick, easy, and clear visibility to this information?
 - Can a high level of productivity be sustained once users have learned how to use the dashboard to carry out tasks, or how to properly read a visualization?
 - Think through some other visualizations that might accomplish the same goal, and evaluate whether your visualization is truly the most efficient. For example, if somebody has given you a set of multiple pie charts, and you have to compare pie wedges, from one to the other, is that really the best way to make those comparisons, or could a bar chart have done the job just as well, maybe better?
 
-### Effective
-- Does the visualization successfully highlight important information, while providing context for that information? 
-- Does the visualization support the user's daily/weekly/monthly tasks? 
-- Does the visualization allow the user to answer his/her questions when looking at those particular metrics?
-
-### Intuitive
+#### Intuitive
 - Is there appropriate feedback in the design that indicates to the user what action was just taken? For example, what might differentiate between a hovered vs. unhovered state?
 - Are appropriate affordances utilized to indicate that a user can take action (i.e. hover/click) on specific data elements?
+- Is there a clear hierarchy of information?
 
-### Safety
+#### Safety
 Safety involves protecting users from undesirable situations and helping them avoid performing unwanted actions accidentally. It involves helping users recognize, diagnose, and recover from errors.
 - What is the range of errors that are possible in using the product, and what measures are there to help users to easily recover from them? 
 - Are error messages expressed in plain language (no codes)? Do they precisely indicate the problem and constructively suggest a solution?
@@ -93,38 +84,29 @@ Safety involves protecting users from undesirable situations and helping them av
 
 ## Desirable
 
-**Aesthetic**
+#### Aesthetic
+- Is the design aesthetically pleasing?
+- Does it make effective use of data-ink?
+- Does it avoid use of any non-data ink that serves no meaningful and necessary purpose?
+- Is there enough white space within and around the tiles to minimize clutter?
 
-Is the design aesthetically pleasing?
-Does it make effective use of data-ink?
-Does it avoid use of any non-data ink that serves no meaningful and necessary purpose?
-
-Satisfying
-
-** Enjoyable **
+#### Enjoyable 
 Is the application easy to use?
 Is the experience of using the application enjoyable?
+Does the user feel empowered to answer his/her business questions when navigating through the dashboard?
 
+#### Engaging
+- Is the first view that users see one that offers the most interesting and easily digestable insights? Does it trigger curiosity to scroll down and see more?
+- Is there a story that can be told with your visualizations?
+- Could we use brighter colors that might encourage users to continue analyzing data? 
 
-Engaging
+#### Exciting
+- Is there room for adding animations to help enhance the intuitiveness of transitions and other interactions?
+- Is there a variety of chart types? 
+- Do the visualizations lend themselves to interesting and exciting insights? 
 
-Pleasurable
+## References:
 
-Exciting
-
-Entertaining
-
-Fun
-
-Surprising
-
-Provocative
-
-Emotionally Fulfilling
-
-
-
-References:
 https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 https://www.researchgate.net/post/Is_there_an_accepted_set_of_evaluation_criteria_in_information_visualization_to_evaluate_visualization_quality
