@@ -25,7 +25,7 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.”
 > Amanda Cox, NY Times
-
+In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
 **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
 
 **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
@@ -114,12 +114,9 @@ Enable users to not just get insights from their data and complete tasks quickly
 
 ### Compactness
 
-++rephrase
-
-Some dashboards become large and unwieldy in an effort to create a single comprehensive view of an entire business or process. Eric Steven Raymond, writing about good software design
-(http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this guidance:
+Eric Steven Raymond, writing about good software design (http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this piece of advice:
 “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.”
-A dashboard can be broken into bite-sized pieces, each built around a key question
+A dashboard can be broken into bite-sized pieces, each built around a key question.
 
 ### Minimize Choices
 
@@ -134,11 +131,6 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 https://juiceanalytics.squarespace.com/s/Guide_to_Dashboard_Design.pdf
 
 https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
-
-
-
-
-
 
 ## Axis Style Guide
 
