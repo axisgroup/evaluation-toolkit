@@ -25,8 +25,10 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.”
 > Amanda Cox, NY Times
-> In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
-> **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
+
+In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
+
+**Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
 
 **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
 
@@ -40,7 +42,7 @@ To sum up, ask the following questions when making decisions-
 * What doesn’t really make sense?
 
 
-### Cognition is a scarce resource
+### Reduce Cognitive burden/ Cognition is a scarce resource
 
 #### Attention
 
@@ -52,17 +54,13 @@ To sum up, ask the following questions when making decisions-
 
 **Push vs. Pull**- To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g. by way of alerts and notifications.
 
-
-
 #### Memory
 
-Promote recognition rather than recall by using familiar metrics and common patterns. 
-
-When needed, provide details.
+Promote recognition rather than recall by using familiar metrics and common patterns. When needed, provide details so that  the user does not have to remember information from one part of the dashboard to another.
 
 Allow people to bookmark, save, tag and annotate- so they dont have to remember what was interesting
 
-
+Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
 #### Computation
 
@@ -102,11 +100,17 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ### Context matters
 
+++ rephrase
+
 People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
 
 ### Flexibility
 
 Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designingthe dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularlyrelevant information. 
+
+### Current Selections/ Visibility of system status
+
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. Eg. Keeping users updates with current selections applied to the data so they know they are looking at a filtered dataset.
 
 ### Actionability
 
@@ -133,11 +137,31 @@ To the extent possible reduce the number of choices a user has to make. Less is 
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant.
 
+### Content as Navigation
+
+While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
+
+#### Others TBD:
+
+Error Prevention
+
+Consistency and Standards
+
+Help users recognize, diagnose, and recover from errors
+
+Help and Documentation
+
 ## References
+
+https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
 
 https://juiceanalytics.squarespace.com/s/Guide_to_Dashboard_Design.pdf
 
-https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
+http://www.juiceanalytics.com/writing/better-know-visualization-small-multiples
+
+
 
 ## Axis Style Guide
 
