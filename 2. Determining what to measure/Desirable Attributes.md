@@ -7,21 +7,28 @@
 
 - Does the visualization reveal trends, patterns, gaps, or outliers? Can the viewer make effective comparisons?
 - Can the viewer make effective comparisons?
+- Does the visualization answer key questions from interviews/persona cards?
+
 
 ### Insightful
 
 - Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
 - Does it provide insight or understanding better than some alternative visualization would? Or does it require excessive cognitive effort?
+- Does the visualization provide information that is actionable?
 
-### Helpful
+### Documentation
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
+
+- Is the help documentation easy to find?
 - Is help documentation easy to search? Is it focused on the user's task?
 - Doest it list concrete steps to be carried out without being overwhelming?
+
 
 ### Trustworthy
 - Does it maintian a proper scale?
 - Does it represent measures using approproate visuals?
 - Does it provide enough context to the user?
+- Is the data accurate?
 
 Purposeful
 
@@ -79,7 +86,10 @@ Does it avoid use of any non-data ink that serves no meaningful and necessary pu
 
 Satisfying
 
-Enjoyable
+** Enjoyable **
+Is the application easy to use?
+Is the experience of using the application enjoyable?
+
 
 Engaging
 
