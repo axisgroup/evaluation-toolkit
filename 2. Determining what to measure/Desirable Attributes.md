@@ -91,9 +91,9 @@ Safety involves protecting users from undesirable situations and helping them av
 - Is there enough white space within and around the tiles to minimize clutter?
 
 #### Enjoyable 
-Is the application easy to use?
-Is the experience of using the application enjoyable?
-Does the user feel empowered to answer his/her business questions when navigating through the dashboard?
+- Is the application easy to use?
+- Is the experience of using the application enjoyable?
+- Does the user feel empowered to answer his/her business questions when navigating through the dashboard?
 
 #### Engaging
 - Is the first view that users see one that offers the most interesting and easily digestable insights? Does it trigger curiosity to scroll down and see more?
