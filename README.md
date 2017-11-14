@@ -60,7 +60,7 @@ This is a **WIP** living document. Please read our [Contribution Guidelines](CON
 
 1. **Follow best practices:** This serves as an initial self-directed evaluation, intended to help you determine whether your visualization is following best practices, particularly in regard to styling. Reference the [data visualization checklist](DataVizChecklist_May2016.pdf) to evaluate specific UI elements such as typography, color, and arrangement.
 
-2. **Know what to measure:** Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Desirable Attributes](./2. Determining what to measure/DESIRABLE ATTRIBUTES.md) for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
+2. **Know what to measure:** Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Desirable Attributes](/2. Determining what to measure/DESIRABLE ATTRIBUTES.md) for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
 
 3. **Know how to measure:** Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
 
