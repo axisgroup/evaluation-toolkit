@@ -4,9 +4,8 @@ As designers we are often confronted with the question “How do we know our des
 While testing seems like the obvious answer, it is important to realize that testing is not a single summative phase in the entire project (as in SDLC). Rather it is a formative process that is distributed throughout the design process.
 
 Testing, creativity, and empathy are the fundamental pillars of the user-centered design sprint process at Axis. 
-
-
 Using these fundamentals we are able to iteratively deliver applications that are useful, usable, and delightful at every stage.
+The following diagram encapsulates our sprint philopsophy where we aim to deliver not only bigger and better iterations but also wholesome at every stage.
 
 ![Cupcake Analogy](./Assets/images/cupcake-mvp.png)
 
