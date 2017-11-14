@@ -26,6 +26,9 @@ A more comprehensive checklist : https://www.nngroup.com/articles/usability-test
 
 Quantitative vs. Qualitative Methods
 
+Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Quantitative methods usually include close ended questions where something is measured on a scale. Qualitative methods include more open ended questions to get descriptive and free form feedback. Using the quantitative method, you can create a survey that measures how useful users found a visualization on a scale of 1 to 5. You can then use the qualitative method to ask users who entered a low rating a follow up question on why they did not find application useful. Quantitative methods will identify the strengths and weakness of your data visualization. Qualitative methods will uncover the "why" or the cause of those strengths/weaknesses.
+
+
 https://www.nngroup.com/articles/quant-vs-qual/
 
 
