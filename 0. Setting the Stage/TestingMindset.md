@@ -1,25 +1,30 @@
 ## Testing Mindset
 
-**1. Set your Expectations right**
+**1. Set your Expectations**
 
-Not everything can be tested. Many many constraints not the least of which are limited time, budget and access to users.
+Not everything can be tested, due to the many constraints such as limited time, budget, and access to users.
 
-**1. Prioritize, prioritize, prioritize.**
+**2. Prioritize, prioritize, prioritize**
 
 Pick a few design principles or considerations that are key to your application and evaluate only those criteria.
 
-**2. No amount of testing will make your design perfect so instead aim for good enough**
+**3. No amount of testing will make your design perfect so instead aim for good enough**
 
-Design is inherently about trade-offs and so  your design will NEVER be perfect. In the spirit of iterative refinement, you should accept that!Your test , just like your design, should be good enough to surface immediate problems that will serve as an impediment to the user.
+Design is inherently about trade-offs, so your design will NEVER be perfect. In the spirit of iterative refinement, you should accept that! Your test, just like your design, should be good enough to surface the immediate problems that are impediments to the user.
 
-**3. Not everything requires user-testing**
+**4. Not everything requires user-testing**
 
-Somethings can be tested by your internal team or against industry standards or best practicesEg. Which chart type serves best for a certain analysis?Software tools can also help ease some burden of testing eg. Sim Daltonism for testing accessibility of colors used on dashboards
+Some things can be tested by your internal team or against industry standards or best practices, i.e. which chart type serves best for a certain analysis?
+Software tools can also help ease some burden of testing, i.e. Sim Daltonism can be used for for testing accessibility of colors 
 
-**4. Not everything has to be ‘INTUITIVE’**
+**5. Not everything has to be ‘INTUITIVE’**
 
-This is especially applicable to in data analysis where it takes time to  produce  insightsAlso in expecting so, we discredit our user’s ability to LearnIntuition by its very virtue comes with long-term exposure to something and a short user test is not suited to measure this
+This is especially applicable to data analysis, where it takes time to produce insights. 
+Also, in expecting everything to be automatically intuitive, we discredit our user’s ability to learn.
 
-**5. Some things you just can’t control**
+**6. Some things you just can’t control**
 
-Eg. Availability and commitment of users, Accelerated timelines
+Such as...
+* Availability and commitment of users 
+* Accelerated timelines
+* Limitations in technology
