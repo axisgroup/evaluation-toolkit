@@ -46,7 +46,7 @@ To sum up, ask the following questions when making decisions-
 
 #### Attention
 
-> "*Attention* is a *resource* —a person has only so much of it."
+> "Attention is a resource —a person has only so much of it."
 >
 > Matthew Crawford
 
