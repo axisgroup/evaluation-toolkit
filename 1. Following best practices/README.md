@@ -120,9 +120,6 @@ The system should always keep users informed about what is going on, through app
 Enable users to not just get insights from their data and complete tasks quickly but also be able to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additonal visulizations to show why this has happened to enable the user to take action based on the information. 
 
 ### Compactness
-
-Eric Steven Raymond, writing about good software design (http://catb.org/~esr/writings/taoup/html/ch04s02.html), offers this piece of advice: 
-
 > “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
 >
 >  Compact is not equivalent to ‘weak’. A design can have a great deal of power and flexibility and still be compact if it is built on abstractions that are easy to think about and fit together well. Nor is compact equivalent to ‘easily learned’; some compact designs are quite difficult to understand until you have mastered an underlying conceptual model that is tricky, at which point your view of the world changes and compact *becomes* simple. ”
