@@ -1,6 +1,6 @@
 # Introduction
 
-Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify  best practices solutions to Information Visualisation design problems for those engaged in practice.
+Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify  best practices solutions to information visualisation design problems for those engaged in practice.
 
 ## General Design Principles
 
