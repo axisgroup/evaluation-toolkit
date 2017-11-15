@@ -1,3 +1,6 @@
+For some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. This article shows a 7-step method that helps everyone focus on the most important elements to test first, while also prioritizing everything of concern for later research.
+
+
 ## The Complexity in our Stars
 
 This is a very important step because
