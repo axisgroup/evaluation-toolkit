@@ -28,11 +28,13 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual
 
 In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
 
-**Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
-
-**Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
-
-**Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+> **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
+>
+> **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
+>
+> **Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+>
+> Designing Better Dashboards, Juice Analytics
 
 To sum up, ask the following questions when making decisions-
 
@@ -100,9 +102,10 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ### Context matters
 
-++ rephrase
+Paraphrase+add attribution
 
-People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
+> People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
+>
 
 ### Flexibility
 
