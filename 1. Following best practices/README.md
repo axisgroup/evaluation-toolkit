@@ -126,6 +126,7 @@ Eric Steven Raymond, writing about good software design (http://catb.org/~esr/wr
 > “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
 >
 >  Compact is not equivalent to ‘weak’. A design can have a great deal of power and flexibility and still be compact if it is built on abstractions that are easy to think about and fit together well. Nor is compact equivalent to ‘easily learned’; some compact designs are quite difficult to understand until you have mastered an underlying conceptual model that is tricky, at which point your view of the world changes and compact *becomes* simple. ”
+>[Eric Steven Raymond](http://catb.org/~esr/writings/taoup/html/ch04s02.html)
 
 Few tactics to design compact dashboards- 
 
