@@ -102,7 +102,6 @@ Additionally, to ensure comprehension the system should speak the users' languag
 Paraphrase+add attribution
 
 > People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
->
 
 ### Flexibility
 
@@ -110,7 +109,8 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 ### Current Selections/ Visibility of system status
 
-> The system should always keep users informed about what is going on, through appropriate feedback within reasonable time Eg. Keeping users updates with current selections applied to the data so they know they are looking at a filtered dataset.
+> The system should always keep users informed about what is going on, through appropriate feedback within reasonable time 
+Eg. Keeping users updates with current selections applied to the data so they know they are looking at a filtered dataset.
 
 ### Actionability
 
