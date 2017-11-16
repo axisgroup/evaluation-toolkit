@@ -22,8 +22,8 @@ Both quantitative and qualitative methods are valid for evaluating visualization
 https://www.nngroup.com/articles/quant-vs-qual/
 
 
-To sum up,
-![s](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
+This graphic from the NNGroup website succinctly sums up the landscape-
+![User Research Methods Landscape](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
 
 
 
