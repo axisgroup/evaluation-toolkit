@@ -33,7 +33,7 @@ In their guide on 'Designing Dashboards People Love to Use', Juice analytics bre
 >
 > Designing Better Dashboards, Juice Analytics
 
-Additionally, you can use this [Reference sheet from Axis Group](./Design-Reference-Sheet.pdf) to keep yourself focused during your interviews.
+Additionally, you can use the [Axis Group Reference Sheet(./Design-Reference-Sheet.pdf) to keep yourself focused during your interviews.
 
 To sum up, ask the following questions when making decisions-
 
