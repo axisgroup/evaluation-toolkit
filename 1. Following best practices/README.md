@@ -27,8 +27,10 @@ In their guide on 'Designing Dashboards People Love to Use', Juice analytics bre
 
 > **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
 >
-> **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?” 
->
+> **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?”
+
+Additionally, you can use this [Reference sheet from Axis Group](evaluation-toolkit/1. Following best practices/Design- Reference-Sheet.pdf) to keep yourself focused during your interviews.
+
 > **Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
 >
 > Designing Better Dashboards, Juice Analytics
@@ -39,8 +41,6 @@ To sum up, ask the following questions when making decisions-
 * What’s necessary to certain users, but not to the others?
 * What’s nice to have but not necessary?
 * What doesn’t really make sense?
-
-Additionally, you can use this [Reference sheet from Axis Group](evaluation-toolkit/1. Following best practices/Design Reference Sheet.pdf) to keep yourself focused during your interviews.
 
 ### Reduce Cognitive burden/ Cognition is a scarce resource
 
