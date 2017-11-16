@@ -5,14 +5,27 @@
 Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an ecommerce site). We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either.
 
 ### Too many moving parts
-While for some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. This section explores the wide array of research methods 
+While for some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. 
+
+This section explores the wide array of research methods availale to research methods and then makes some decisions about which methods are recommended in
+
+### Deciding Test Methodology
 
 
-*Brain dump Examples of what all can be tested-
-Tradeoffs involved
-… Hence, one has to be intentional about what to test.
-- Open ended tests reveal all sorts of feedback, with a UI as complex as a dashboard this can pose a serious challenge as there are so many rabbit holes you could fall under*
-- ​
+**Attitudnal vs. Behavioral**
+> This distinction can be summed up by contrasting "what people say" versus "what people do" (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments.
+
+
+
+**Quantitative vs. Qualitative Dimension**
+Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Quantitative methods usually include close ended questions where something is measured on a scale. Qualitative methods include more open ended questions to get descriptive and free form feedback. Using the quantitative method, you can create a survey that measures how useful users found a visualization on a scale of 1 to 5. You can then use the qualitative method to ask users who entered a low rating a follow up question on why they did not find application useful. Quantitative methods will identify the strengths and weakness of your data visualization. Qualitative methods will uncover the "why" or the cause of those strengths/weaknesses.
+https://www.nngroup.com/articles/quant-vs-qual/
+
+
+To sum up,
+![s](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
+
+
 
 ## Planning your Test
 https://projects.invisionapp.com/d/main#/projects/boards/4517347
@@ -38,14 +51,6 @@ A usability test is a technique to uncover UX design problems with actual users 
 
 A more comprehensive checklist : https://www.nngroup.com/articles/usability-test-checklist/
 
-### Deciding Test Methodology
-
-Quantitative vs. Qualitative Methods
-
-Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Quantitative methods usually include close ended questions where something is measured on a scale. Qualitative methods include more open ended questions to get descriptive and free form feedback. Using the quantitative method, you can create a survey that measures how useful users found a visualization on a scale of 1 to 5. You can then use the qualitative method to ask users who entered a low rating a follow up question on why they did not find application useful. Quantitative methods will identify the strengths and weakness of your data visualization. Qualitative methods will uncover the "why" or the cause of those strengths/weaknesses.
-
-
-https://www.nngroup.com/articles/quant-vs-qual/
 
 
 
@@ -65,6 +70,16 @@ In the free [Guide to Usability Testing](http://proxystudio.uxpin.com/ebooks/gui
 - **Hybrid** — These experimental tests forego traditional methods to take an unparalleled look at the user’s mentality. (participatory design, quick exposure memory testing, adjective cards)
 
   [Source](https://www.uxpin.com/studio/blog/how-to-run-an-insightful-usability-test/)
+
+
+
+
+*Brain dump Examples of what all can be tested-
+Tradeoffs involved
+… Hence, one has to be intentional about what to test.
+- Open ended tests reveal all sorts of feedback, with a UI as complex as a dashboard this can pose a serious challenge as there are so many rabbit holes you could fall under*
+- ​
+
 
 
 References:
