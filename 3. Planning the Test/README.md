@@ -1,18 +1,11 @@
-## The Complexity in our Stars
+## The Complexity in our Stars or Why Data Viz is inherently hard to test
 
-This is a very important step because
+### Faster is not necessarily better
 
-- Data Viz is inherently hard to test
+Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an ecommerce site). We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either.
 
-Why is Data viz hard to test?
-
-Faster is not necessarily better
-
-Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an ecommerce site)We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either.
-
+### Too many moving parts
 While for some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. This section explores the wide array of research methods 
-
-
 
 
 *Brain dump Examples of what all can be tested-
