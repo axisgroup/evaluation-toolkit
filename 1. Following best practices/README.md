@@ -1,6 +1,6 @@
 # Introduction
 
-Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify  best practices solutions to information visualisation design problems for those engaged in the practice.
+Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify  best practices solutions to information visualisation design problems for those engaged in the practice. This list is  a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
 
 ## General Design Principles
 
@@ -169,4 +169,5 @@ http://www.juiceanalytics.com/writing/better-know-visualization-small-multiples
 
 
 ## Axis Style Guide
+[Axis Group Visual Style Guide for Dashboards](https://sites.google.com/view/style-guide/guidelines)
 
