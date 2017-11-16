@@ -87,11 +87,11 @@ Layout and order of presentation matter. Start with the summary-level metrics fi
 #### Readability
 
 Many factors play into the readability of your content, such as typeface, font size, color, etc. The following is a font framework that Juice Analytics has provided:
-* Body text is clean, readable content
-* Headers separate and name major sections of your work
-* Notes describe additional things the reader should be aware of. These should fade
+> * Body text is clean, readable content
+> * Headers separate and name major sections of your work
+> * Notes describe additional things the reader should be aware of. These should fade
   into the background unless we call attention to them.
-* Emphasis text is what we want our reader to pay particular attention to. 
+> * Emphasis text is what we want our reader to pay particular attention to. 
 
 Use this framework to make decisions on typeface (serifs vs. sans serif), font size, and color. 
 
