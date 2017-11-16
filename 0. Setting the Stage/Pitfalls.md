@@ -34,3 +34,7 @@ The Solution—
  [Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
 Before we begin defining a testing approach, using a heuristic approach, it is important to identify a testing mindset that is compatible with our heuristic approach. This [Testing Mindset](TestingMindset.md) document helps align expectations, in accordance with expected outcomes.
+
+References:
+https://www.nngroup.com/articles/no-validate-in-ux/
+https://articles.uie.com/usability_testing_mistakes/
