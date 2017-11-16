@@ -2,7 +2,7 @@
 1. **Presenting your design is not the same as evaluating your design**
 
    While the former requires the mindset of defending design choices (to some degree), the latter requires a very unbiased and open mind to critique.
-![](evaluation-toolkit/Assets/images/validate-v3.png)   
+![Valudate vs. Test](./Assets/images/cupcake-mvp.png)
 
 2. **Not all feedback is equal**
 
