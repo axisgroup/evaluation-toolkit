@@ -2,6 +2,7 @@
 1. **Presenting your design is not the same as evaluating your design**
 
    While the former requires the mindset of defending design choices (to some degree), the latter requires a very unbiased and open mind to critique.
+![](https://media.nngroup.com/media/editor/2017/08/31/validate-v3.png)   
 
 2. **Not all feedback is equal**
 
