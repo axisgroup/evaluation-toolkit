@@ -40,6 +40,7 @@ To sum up, ask the following questions when making decisions-
 * What’s nice to have but not necessary?
 * What doesn’t really make sense?
 
+Additionally, you can use this [Reference sheet from Axis Group](evaluation-toolkit/1. Following best practices/Design Reference Sheet.pdf) to keep yourself focused during your interviews.
 
 ### Reduce Cognitive burden/ Cognition is a scarce resource
 
