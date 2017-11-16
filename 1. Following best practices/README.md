@@ -110,6 +110,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 ### Current Selections/ Visibility of system status
 
 > The system should always keep users informed about what is going on, through appropriate feedback within reasonable time 
+
 Eg. Keeping users updates with current selections applied to the data so they know they are looking at a filtered dataset.
 
 ### Actionability
