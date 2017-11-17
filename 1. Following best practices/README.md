@@ -168,5 +168,5 @@ http://www.juiceanalytics.com/writing/better-know-visualization-small-multiples
 
 
 ## Axis Style Guide
-[Axis Group Visual Style Guide for Dashboards](https://sites.google.com/view/style-guide/guidelines)
+The [Axis Group Visual Style Guide for Dashboards](https://sites.google.com/view/style-guide/guidelines) attempts to codify best practices for designing charts and includes low-level details such as choosing chart colors and designing axis labels as appropriate.
 
