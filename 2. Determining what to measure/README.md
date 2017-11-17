@@ -11,7 +11,7 @@ We use these dimensions as higher order categories as axes to reflect on rather 
 
 ​					![UX_Traingle](UX_Triangle.png)
 
-This model is akin to Houde and Hill's prototype model, pictured below, that shows four different categories of prototypes(role, implementation, look and feel and integration). 
+This model is akin to [Houde and Hill's prototype model](https://pdfs.semanticscholar.org/30bc/6125fab9d9b2d5854223aeea7900a218f149.pdf), pictured below, that shows four different categories of prototypes(role, implementation, look and feel and integration). 
 ![Houde and Hill triangle](../Assets/images/houde_and_hill_triangle.png)
 
 ## Useful
