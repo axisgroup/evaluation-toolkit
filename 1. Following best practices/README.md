@@ -14,9 +14,9 @@ This section attempts to highlight some general design principles that should be
 
 - [Overview](http://www.infovis-wiki.net/index.php?title=Overview)
 - [Zoom](http://www.infovis-wiki.net/index.php?title=Zoom) and [Filter](http://www.infovis-wiki.net/index.php?title=Filtering)
-- [Details on demand](http://www.infovis-wiki.net/index.php?title=Details_on_demand) (Gradual Reveal)
+- [Details on demand](http://www.infovis-wiki.net/index.php?title=Details_on_demand)
 
-The Visual Information-Seeking Mantra [Shneiderman, 1996] summarizes many visual design guidelines and provides an excellent framework for desiging Information visualization applications.
+The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
 ### Information Discrimination
 
