@@ -7,7 +7,12 @@ While there are many different ways to categorize qualities of a visualization w
 - Usable- How do people behave with the interface?
 - Desirable- How do people react to the interface?
 
+These dimensions form a 3-dimensional space which can be mapped against important aspects of the interface.
+
 ​					![UX_Traingle](UX_Triangle.png)
+
+This model is akin to Houde and Hill's 'Prototype Triangle', pictured below, that shows the four different categories of prototypes(role, implementation, look and feel and integration). 
+![](../Assets/images/houde_and_hill_triangle.png)
 
 ## 
 Use these higher order categories as axes to reflect on rather than hard and fast rules. It is also important to understand that individual attributes lie on a spectrum rather than being purely usable, purely useful or purely desirable.
