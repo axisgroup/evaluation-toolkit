@@ -50,7 +50,9 @@ To sum up, ask the following questions when making decisions-
 >
 > Matthew Crawford
 
-**Separate news from the noise**- Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter.
+**Separate news from the noise**- Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
+
+![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
 
 **Push vs. Pull**- To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g. by way of alerts and notifications.
 
@@ -58,7 +60,7 @@ To sum up, ask the following questions when making decisions-
 
 Promote recognition rather than recall by using familiar metrics and common patterns. When needed, provide details so that  the user does not have to remember information from one part of the dashboard to another.
 
-Allow people to bookmark, save, tag and annotate- so they dont have to remember what was interesting
+Allow people to bookmark, save, tag and annotate- so they don't have to remember what was interesting
 
 Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
@@ -84,6 +86,7 @@ Use clear affordances so that users will know how to interact with a chart, whet
 Simplicity is key!  
 
 Layout and order of presentation matter. Start with the summary-level metrics first, and uncover more complex data and charts as user works through the dashboard. 
+![Dashboard example](https://www.codester.com/static//uploads/items/3376/preview-xl.jpg)
 
 #### Readability
 
@@ -116,7 +119,7 @@ Eg. Keeping users updates with current selections applied to the data so they kn
 
 ### Actionability
 
-Enable users to not just get insights from their data and complete tasks quickly but also be able to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additonal visulizations to show why this has happened to enable the user to take action based on the information. 
+Enable users to not just get insights from their data and complete tasks quickly but also be able to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. 
 
 ### Compactness
 > “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
@@ -141,6 +144,7 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
+![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
 
 
 #### Others TBD:
