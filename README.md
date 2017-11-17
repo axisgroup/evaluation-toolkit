@@ -39,7 +39,7 @@ How then can designers balance the need for robust testing versus quick turnarou
 The goal of this repository is to serve as a **toolkit** that helps deconstruct the testing process into manageable chunks.
 This toolkit aims to:
 
-- To help identify [pitfalls](Pitfalls.md) in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
+- To help identify [pitfalls](./0.Setting-the-Stage/Pitfalls.md) in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
 - To provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
 
 Specifically, the approach advocated by this repository is three-pronged:
