@@ -26,14 +26,14 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes refe
 In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
 
 > **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
->
+
 > **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?”
 
-> **Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
->
-> Designing Better Dashboards, Juice Analytics
+The [Axis Group Reference Sheet](./Design-Reference-Sheet.pdf) provides some example questions to ask to keep yourself focused during your interviews and also a quick checklist to summarize your results.
 
-Additionally, you can use the [Axis Group Reference Sheet](./Design-Reference-Sheet.pdf) to keep yourself focused during your interviews.
+> **Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+
+[Here](https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a47050) is an excellent article that clarifies the semantics of 'exploratory' interfaces in data visualization. 
 
 To sum up, ask the following questions when making decisions-
 
