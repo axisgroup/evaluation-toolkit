@@ -64,6 +64,8 @@ Allow people to bookmark, save, tag and annotate- so they don't have to remember
 
 Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
+In the example below, Quora suggest possible questions based on what is being typed.
+
 ![Recognition rather than recall](https://cdn-images-1.medium.com/max/1600/1*SRvnHU_h5yA--h91LG-Zcg.png)
 
 #### Computation
@@ -123,7 +125,7 @@ Eg. Keeping users updates with current selections applied to the data so they kn
 
 ### Actionability
 
-Enable users to not just get insights from their data and complete tasks quickly but also take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. 
+Enable users to not just get insights from their data and complete tasks quickly but also take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. The example dashboard below highlights critical issuaes in red.  
 
 ![Alerts](https://i.pinimg.com/originals/20/58/5b/20585bb684d66dfe027ba0c0a6cb6693.jpg)
 
