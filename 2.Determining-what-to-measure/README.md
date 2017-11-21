@@ -143,7 +143,6 @@ Another means of evaluating visualizations is by crossing them against this list
 - The screen has no clear purpose. Charts are randomly thrown on a screen.
 
 ## Frustrating
-- ugliness, not intuitive, too many clicks to do your task, etc.
 - The app is not intutive and visually unappealing. Completing a task takes too many clicks.
 - Features of the app don't work as expected. (eg - filter, navigation). The app has too many alerts and notifications.
 - The app has too many interactions/animations.
