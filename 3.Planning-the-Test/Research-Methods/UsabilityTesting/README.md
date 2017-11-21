@@ -1,8 +1,10 @@
+
+## What is a Usability test?
+A usability test is a technique to uncover UX design problems with actual users of the system.
+[More here](https://drive.google.com/open?id=0BwLVd0W-_5qwU0J4TjBCa1ZCSjg)
+
 ## Planning your Test
 https://projects.invisionapp.com/d/main#/projects/boards/4517347
-
-A usability test is a technique to uncover UX design problems with actual users of the system.
-
 ### What do you need?
 
 - A purpose- knowing why you are testing is very important; Use the [previous section](../2. Determining what to measure) to decide what you plan to test
@@ -20,14 +22,14 @@ A usability test is a technique to uncover UX design problems with actual users 
 
 [Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
 
-A more comprehensive checklist : https://www.nngroup.com/articles/usability-test-checklist/
+A more comprehensive checklist : https://www.nngroup.com/articles/usability-test-checklist/ or
 
 
 
 
 ### Choosing the Right Test
 
-In the free [Guide to Usability Testing](http://proxystudio.uxpin.com/ebooks/guide-to-usability-testing/), we divide the tests into four categories based on Christian Rohrer’s [fantastic article](http://www.nngroup.com/articles/which-ux-research-methods/):
+In the free [Guide to Usability Testing](http://proxystudio.uxpin.com/ebooks/guide-to-usability-testing/), the tests are divided into four categories based on Christian Rohrer’s [fantastic article](http://www.nngroup.com/articles/which-ux-research-methods/):
 
 - **Scripted** —These tests analyze the user’s interaction with the product based on set instructions, targeting more specific goals and individual elements. (tree testing, hallway usability tests, benchmark testing)
 
@@ -40,7 +42,7 @@ In the free [Guide to Usability Testing](http://proxystudio.uxpin.com/ebooks/gui
 
 - **Hybrid** — These experimental tests forego traditional methods to take an unparalleled look at the user’s mentality. (participatory design, quick exposure memory testing, adjective cards)
 
-  [Source](https://www.uxpin.com/studio/blog/how-to-run-an-insightful-usability-test/)
+[Source](https://www.uxpin.com/studio/blog/how-to-run-an-insightful-usability-test/)
 
 
 
