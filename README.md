@@ -11,10 +11,10 @@ This toolkit aims to:
 
 Specifically, the approach advocated by this repo is three-pronged:
  ```
-      1. Follow best practices, don't re-invent the wheel
-    	 2. Know what to measure 
-      3. Know how to measure
-      4. Act on your findings
+ 1. Follow best practices, don't re-invent the wheel
+ 2. Know what to measure 
+ 3. Know how to measure
+ 4. Act on your findings
   ```
 With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut methods to test for them. 
 
