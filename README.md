@@ -40,5 +40,5 @@ Sample filled out doc-
 
 ![Testing Template](./Assets/images/Sample-Testing-Template.png)
 
-Acknowledgements: Thanks to [Arielle Cason, UX Researcher](http://ariellecason.com/) for sharing her personal test template—developed while she was a graduate student at Georgia Institute of Technology—with us.
+Acknowledgements: Thanks to [Arielle Cason, UX Researcher](http://ariellecason.com/) for sharing her personal test template—developed while she was a graduate student at Georgia Institute of Technology—with us. We were able to use her template as a substrate to build our own.
 
