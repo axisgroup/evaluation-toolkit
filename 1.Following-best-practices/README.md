@@ -12,9 +12,7 @@ This section attempts to highlight some general design principles that should be
 
 ### The Mantra We Follow for Seeking Visual Information
 
-> **Overview first, zoom and filter, then details-on-demand.** 
->
-> [Shneiderman, 1996]
+> **Overview first, zoom and filter, then details-on-demand.** Shneiderman, 1996
 
 - [Overview](http://www.infovis-wiki.net/index.php?title=Overview)
 - [Zoom](http://www.infovis-wiki.net/index.php?title=Zoom) and [Filter](http://www.infovis-wiki.net/index.php?title=Filtering)
@@ -23,13 +21,9 @@ This section attempts to highlight some general design principles that should be
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
 
-
-
-
 ### Information Discrimination
 
-> “Data isn’t like your kids, you don’t have to pretend to love them equally.”
-> Amanda Cox, NY Times
+> “Data isn’t like your kids, you don’t have to pretend to love them equally.” Amanda Cox, NY Times
 
 In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
 
