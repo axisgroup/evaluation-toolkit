@@ -18,6 +18,8 @@ This section attempts to highlight some general design principles that should be
 
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
+
+
 ### Information Discrimination
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.”
@@ -25,13 +27,19 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes refe
 
 In their guide on 'Designing Dashboards People Love to Use', Juice analytics break this principle down into 3 succinct steps-
 
-> **Find the core**. Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
+```
+1. Find the core: Your dashboard should be more than just a lot of data on a screen. It should have a core theme based on the essence of the problem.
+```
 
-> **Ask a better question.** Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions,and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?”
+```
+2. Ask a better question: Dashboard requirements can quickly turn into a laundry list of unrelated metrics, dimensions, and half-baked analyses. The root of this problem stems from only asking “what would you like to know?” Here’s the one follow-up question you need in order to narrow down the list: “What would you do if you knew this information?”
+```
 
 The [Axis Group Reference Sheet](./Design-Reference-Sheet.pdf) provides some example questions to ask to keep yourself focused during your interviews and also a quick checklist to summarize your results.
 
-> **Reporting vs. exploration.** For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+```
+3. Reporting vs. exploration: For all the things that a dashboard can be, it cannot be a generic analysis tool. It cannot be designed to slice and dice data to explore and answer a new question every time. This is a dynamic we refer to as the difference between herding cows and herding cats.
+```
 
 [Here](https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a47050) is an excellent article that clarifies the semantics of 'exploratory' interfaces in data visualization. 
 
@@ -42,7 +50,9 @@ To sum up, ask the following questions when making decisions-
 * What’s nice to have but not necessary?
 * What doesn’t really make sense?
 
-### Reduce Cognitive burden/ Cognition is a scarce resource
+
+
+### Reduce Cognitive burden/Cognition is a scarce resource
 
 #### Attention
 
@@ -50,11 +60,13 @@ To sum up, ask the following questions when making decisions-
 >
 > Matthew Crawford
 
-**Separate news from the noise**- Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
+**Separate news from the noise**-Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
 
 ![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
 
-**Push vs. Pull**- To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g. by way of alerts and notifications.
+**Push vs. Pull**-To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g., by way of alerts and notifications.
+
+
 
 #### Memory
 
@@ -64,13 +76,16 @@ Allow people to bookmark, save, tag and annotate- so they don't have to remember
 
 Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
-In the example below, Quora suggest possible questions based on what is being typed.
+In the example below, Quora suggests possible questions based on what is being typed.
 
 ![Recognition rather than recall](https://cdn-images-1.medium.com/max/1600/1*SRvnHU_h5yA--h91LG-Zcg.png)
+
+
 
 #### Computation
 
 Calculate the right metric for users, and provide the most actionable metric or information. For example, it may be important to focus on variances rather than absolute changes (e.g. change in sales since last year vs. total sales).
+
 
 
 #### Perception
@@ -85,6 +100,8 @@ Ensure distinguishability between elements.
 
 Use clear affordances so that users will know how to interact with a chart, whether it's clickable or hoverable.
 
+
+
 #### Easy Learnability
 
 Simplicity is key!  
@@ -98,7 +115,7 @@ Many factors play into the readability of your content, such as typeface, font s
 > * Body text is clean, readable content
 > * Headers separate and name major sections of your work
 > * Notes describe additional things the reader should be aware of. These should fade
-  into the background unless we call attention to them.
+>   into the background unless we call attention to them.
 > * Emphasis text is what we want our reader to pay particular attention to. 
 
 Use this framework to make decisions on typeface (serifs vs. sans serif), font size, and color. 
@@ -107,21 +124,33 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
 
+
+
 ### Context matters
 
 Paraphrase+add attribution
 
-> People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
+```
+People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion.
+```
+
+
 
 ### Flexibility
 
-Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designingthe dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularlyrelevant information. 
+Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designing the dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularly relevant information. 
 
-### Current Selections/ Visibility of system status
 
-> The system should always keep users informed about what is going on, through appropriate feedback within reasonable time 
 
-Eg. Keeping users updates with current selections applied to the data so they know they are looking at a filtered dataset.
+### Current Selections/Visibility of system status
+
+```
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time 
+```
+
+E.g. Keeping users updates with current selections applied to the data so they know they are looking at a filtered dataset.
+
+
 
 ### Actionability
 
@@ -130,24 +159,32 @@ Enable users to not just get insights from their data and complete tasks quickly
 ![Alerts](https://i.pinimg.com/originals/20/58/5b/20585bb684d66dfe027ba0c0a6cb6693.jpg)
 
 
+
 ### Compactness
-> “Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
+
+> Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
 >
->  Compact is not equivalent to ‘weak’. A design can have a great deal of power and flexibility and still be compact if it is built on abstractions that are easy to think about and fit together well. Nor is compact equivalent to ‘easily learned’; some compact designs are quite difficult to understand until you have mastered an underlying conceptual model that is tricky, at which point your view of the world changes and compact *becomes* simple. ”
->[Eric Steven Raymond](http://catb.org/~esr/writings/taoup/html/ch04s02.html)
+>  Compact is not equivalent to ‘weak’. A design can have a great deal of power and flexibility and still be compact if it is built on abstractions that are easy to think about and fit together well. Nor is compact equivalent to ‘easily learned’; some compact designs are quite difficult to understand until you have mastered an underlying conceptual model that is tricky, at which point your view of the world changes and compact *becomes* simple.
+> [Eric Steven Raymond](http://catb.org/~esr/writings/taoup/html/ch04s02.html)
 
 Few tactics to design compact dashboards- 
 
 1. Break a dashboard into bite-sized pieces, each built around a key question.
 2. Increase data-ink ratio by leveraging data dense visualization techniques such as small multiples, glyphs, sparklines etc.
 
+
+
 ### Minimize Choices
 
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
+
+
 ### Redundancy in perceptual cues not Information
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant.
+
+
 
 ### Content as Navigation
 
@@ -156,7 +193,8 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 ![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
 
 
-#### Others TBD:
+
+### Others TBD:
 
 Accessibility and Universal Design
 
@@ -167,6 +205,8 @@ Consistency and Standards
 Help users recognize, diagnose, and recover from errors
 
 Help and Documentation
+
+
 
 ## References
 
