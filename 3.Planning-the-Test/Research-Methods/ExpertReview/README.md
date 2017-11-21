@@ -22,7 +22,7 @@ https://www.nngroup.com/articles/false-consensus/
 
 - Make a list of all usability problems identified by the experts. Combine similar problems as one if need be.
 
-![Description of Results](Description-of-Results.png)
+![Description of Results](/Assets/images/Description-of-Results.png)
 
 - For each problem identified:
 
