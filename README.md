@@ -12,7 +12,7 @@ This toolkit aims to:
 Specifically, the approach advocated by this repo is three-pronged:
 
 ```
-   	1. Follow best practices, don't re-invent the wheel
+   		1. Follow best practices, don't re-invent the wheel
     	2. Know what to measure?
      	3. Know how to measure?
 ```
@@ -32,18 +32,19 @@ Before beginning the tests, it is be helpful to-
 
 1. **Follow best practices**
 
-At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project. At a tactical level, particularly in regard to styling, it provides a link to the [data visualization checklist](./Assets/DataVizChecklist_May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official [Axis Style Guide](https://sites.google.com/view/style-guide/guidelines) that provides reusable techniques.
+   At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project. At a tactical level, particularly in regard to styling, it provides a link to the [data visualization checklist](./Assets/DataVizChecklist_May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official [Axis Style Guide](https://sites.google.com/view/style-guide/guidelines) that provides reusable techniques.
 
 2. **Know what to measure**
 
-Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Determining what to measure](./2.Determining-what-to-measure/README.md) section for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
+   Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Determining what to measure](./2.Determining-what-to-measure/README.md) section for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
 
 3. **Know how to measure**
 
-Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
+   Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
 
 4. **Conveying Test Results**
 
+   Lorem Ipsum
 
 ## Axis Design Sprint Testing Template
 
