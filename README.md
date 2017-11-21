@@ -32,7 +32,9 @@ This is a **WIP** living document. Please read our [Contribution Guidelines](CON
 4. **Know how to measure:** Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
 
 
-Eventually, the goal is to be able to fill out something like this [excel doc](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) that tracks how research questions mature as the design sprint progresses and what methods were used to answer those questions.
+## Design Sprint Google Sheets Testing Template
+
+Throughout the sprint we want to track how research questions mature as the design sprint progresses and what methods were used to answer those questions. Copy over this [Google Sheets document](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) to your own drive to help guide and document your testing process.
 
 Sample filled out doc-
 
