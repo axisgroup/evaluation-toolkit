@@ -6,6 +6,10 @@ Without good communication, designers who are unaware of solutions may be forced
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
 
+
+
+
+
 ### The Mantra We Follow for Seeking Visual Information
 
 > **Overview first, zoom and filter, then details-on-demand.** 
@@ -17,6 +21,8 @@ This section attempts to highlight some general design principles that should be
 - [Details on demand](http://www.infovis-wiki.net/index.php?title=Details_on_demand)
 
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
+
+
 
 
 
@@ -52,6 +58,8 @@ To sum up, ask the following questions when making decisions-
 
 
 
+
+
 ### Reduce Cognitive burden/Cognition is a scarce resource
 
 #### Attention
@@ -82,6 +90,8 @@ Instructions for use of the system should be visible or easily retrievable whene
 
 In the example below, Quora suggests possible questions based on what is being typed.
 
+
+
 ![Recognition rather than recall](https://cdn-images-1.medium.com/max/1600/1*SRvnHU_h5yA--h91LG-Zcg.png)
 
 
@@ -111,7 +121,10 @@ Use clear affordances so that users will know how to interact with a chart, whet
 Simplicity is key!  
 
 Layout and order of presentation matter. Start with the summary-level metrics first, and uncover more complex data and charts as user works through the dashboard. 
+
 ![Dashboard example](https://www.codester.com/static//uploads/items/3376/preview-xl.jpg)
+
+
 
 #### Readability
 
@@ -130,6 +143,8 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 
 
+
+
 ### Context matters
 
 Paraphrase+add attribution
@@ -140,9 +155,13 @@ People need context and explanation to understand new and unfamiliar events. Pro
 
 
 
+
+
 ### Flexibility
 
 Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designing the dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularly relevant information. 
+
+
 
 
 
@@ -156,11 +175,15 @@ E.g. Keeping users updates with current selections applied to the data so they k
 
 
 
+
+
 ### Actionability
 
 Enable users to not just get insights from their data and complete tasks quickly but also take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. The example dashboard below highlights critical issuaes in red.  
 
 ![Alerts](https://i.pinimg.com/originals/20/58/5b/20585bb684d66dfe027ba0c0a6cb6693.jpg)
+
+
 
 
 
@@ -178,9 +201,13 @@ Few tactics to design compact dashboards-
 
 
 
+
+
 ### Minimize Choices
 
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
+
+
 
 
 
@@ -190,11 +217,15 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 
 
+
+
 ### Content as Navigation
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
 ![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
+
+
 
 
 
