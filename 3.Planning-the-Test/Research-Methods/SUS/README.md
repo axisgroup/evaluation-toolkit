@@ -9,11 +9,34 @@ It is important to understand that the SUS is not a diagnostic tool and it will 
 ### How to use it?
 
 - Identify participants that have had exposure to the application. This could be by way of using a tool frequently or being exposed to it during a usability test session.
+
 - Administer the [SUS questionnaire](http://www.measuringux.com/sus.pdf) to your participants. For ease of use we have a handy [Google Form SUS Template](https://drive.google.com/open?id=1ETKDGN38acgyglEb7lAApT3792VklHKQ4EUnXr84Ox8)
+
+- The [Measuring Usability website](https://measuringu.com/sus/) has a handy guide on scoring and interpreting SUS questionnaires.
+
+  > ### Scoring SUS
+  >
+  > - For odd items: subtract one from the user response.
+  > - For even-numbered items: subtract the user responses from 5
+  > - This scales all values from 0 to 4 (with four being the most positive response).
+  > - Add up the converted responses for each user and multiply that total by 2.5. This converts the range of possible values from 0 to 100 instead of from 0 to 40.
+  >
+  > ### Interpreting SUS Scores
+  >
+  > Despite the wide usage of SUS, there has been little guidance on interpreting SUS scores, acceptable modifications to the items and information on reliability and validity.
+  >
+  > Over the years I’ve used SUS a lot in my own research and during usability evaluations. During this time I’ve reviewed the existing research on SUS and analyzed data from over 5000 users across 500 different evaluations.
+  >
+  > This data shows that SUS is a reliable and valid measure of perceived usability. It performs as well or better than commercial questionnaires and home-grown internal questionnaires.
+  >
+  > I’ve put these findings in a [150 page detailed report](http://www.measuringusability.com/products/SUSpack) which contains valuable insights on background, benchmarks and best practices for anyone using the SUS. Here are a few highlights.
+
+- Axis Group has a handy [Google Sheets Template](https://docs.google.com/spreadsheets/d/1Uj3wfAPWDsu69uAFu8zi4d5O0rs3G5MWt4SZru7ld-A/edit?usp=sharing) with the formulas built in which you may copy over and link to the  [Google Form SUS Template](https://drive.google.com/open?id=1ETKDGN38acgyglEb7lAApT3792VklHKQ4EUnXr84Ox8) to capture results of the questionnaire.
 
 ## References
 
-- [SUS: A Quick and Dirty Usability Scale](http://www.usabilitynet.org/trump/documents/Suschapt.doc) [![Ste exit disclaimer](https://www.usability.gov/sites/default/files/images/0-external-disclaimer.jpg)](http://www.hhs.gov/Disclaimer.html) by John Brooke
-- [Measuring Usability with the System Usability Scale (SUS)](http://www.measuringusability.com/sus.php) [![Site exit disclaimer](https://www.usability.gov/sites/default/files/images/0-external-disclaimer.jpg)](http://www.hhs.gov/Disclaimer.html) by Jeff Sauro
-- [SUS: A Retrospective](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf) [![Site exit disclaimer](https://www.usability.gov/sites/default/files/images/0-external-disclaimer.jpg)](http://www.hhs.gov/Disclaimer.html) by John Brooke
-- [Determining What Individual SUS Scores Mean: Adding an Adjective Rating Scale](http://www.usabilityprofessionals.org/upa_publications/jus/2009may/JUS_Bangor_May2009.pdf) [![Site exit disclaimer](https://www.usability.gov/sites/default/files/images/0-external-disclaimer.jpg)](http://www.hhs.gov/Disclaimer.html) by Kortum Bangor and Miller May
+- [SUS: A Quick and Dirty Usability Scale](http://www.usabilitynet.org/trump/documents/Suschapt.doc) by John Brooke
+- [Measuring Usability with the System Usability Scale (SUS)](http://www.measuringusability.com/sus.php) by Jeff Sauro
+- [SUS: A Retrospective](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf) by John Brooke
+- [Determining What Individual SUS Scores Mean: Adding an Adjective Rating Scale](http://www.usabilityprofessionals.org/upa_publications/jus/2009may/JUS_Bangor_May2009.pdf) by Kortum Bangor and Miller May
+
