@@ -247,7 +247,15 @@ https://juiceanalytics.squarespace.com/s/Guide_to_Dashboard_Design.pdf
 
 http://www.juiceanalytics.com/writing/better-know-visualization-small-multiples
 
+https://blog.prototypr.io/10-usability-heuristics-with-examples-4a81ada920c
 
+http://www.usabilityfirst.com/usability-methods/heuristic-evaluation
+
+http://www.uxforthemasses.com/dashboard-design/
+
+https://www.usability.gov/what-and-why/visual-design.html
+
+https://designschool.canva.com/blog/design-rules/
 
 ## Axis Style Guide
 The [Axis Group Visual Style Guide for Dashboards](https://sites.google.com/view/style-guide/guidelines) attempts to codify best practices for designing charts and includes low-level details such as choosing chart colors and designing axis labels as appropriate. The following is a sample snippet from the style guide-
