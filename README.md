@@ -1,6 +1,5 @@
-# Background
-
-— Why evaluation is important
+# Evaluation Toolkit
+This repo is a collection of documents intended to help guide the testing process in a data visualization context. It contains guidelines that should not be followed exactly. It is written by and for the Axis Design team.
 
 ## Know your guidelines before you break them
 
