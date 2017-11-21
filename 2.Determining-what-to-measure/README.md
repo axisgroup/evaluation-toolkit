@@ -12,7 +12,7 @@ We use these dimensions as higher order categories as axes to reflect on rather 
 ​					![UX_Traingle](UX_Triangle.png)
 
 This model is akin to [Houde and Hill's prototype model](https://pdfs.semanticscholar.org/30bc/6125fab9d9b2d5854223aeea7900a218f149.pdf), pictured below, that shows four different categories of prototypes(role, implementation, look and feel and integration). 
-![Houde and Hill triangle](../Assets/images/houde_and_hill_triangle.png)
+![Houde and Hill triangle](../Assets/images/houde-and-hill-triangle.png)
 
 ## Useful
 
@@ -158,7 +158,7 @@ Another means of evaluating visualizations is by crossing them against this list
 
 ## Gimmicky
 - The app is flashy with no purpose, deceptive, seems to be more "persuasive" than informative.
- 
+
 ## Untrustworthy
  - The app displays inaccurate data.
 

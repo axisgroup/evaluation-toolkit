@@ -15,7 +15,7 @@ Specifically, the approach advocated by this repo is:
   2. Know what to measure 
   3. Know how to measure
   4. Act on your findings
-  ```
+ ```
 With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut methods to test for them. 
 
 Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process.  
@@ -31,7 +31,7 @@ Before beginning the tests, it is be helpful to-
 
 1. **Follow best practices**
 
-   At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project. At a tactical level, particularly in regard to styling, it provides a reference to the [data visualization checklist](./Assets/DataVizChecklist_May2016.pdf)—prepared by Stephanie Evergreen and Ann K. Emery—to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official [Axis Style Guide](https://sites.google.com/view/style-guide/guidelines) that provides reusable techniques that we follow at Axis Group to style charts.
+   At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project. At a tactical level, particularly in regard to styling, it provides a reference to the [data visualization checklist](./Assets/DataVizChecklist-May2016.pdf)—prepared by Stephanie Evergreen and Ann K. Emery—to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official [Axis Style Guide](https://sites.google.com/view/style-guide/guidelines) that provides reusable techniques that we follow at Axis Group to style charts.
 
 2. **Know what to measure**
 
