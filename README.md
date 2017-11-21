@@ -10,14 +10,12 @@ This toolkit aims to:
 - provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
 
 Specifically, the approach advocated by this repo is three-pronged:
-
-
-   	1. Follow best practices, don't re-invent the wheel
+ ```
+      1. Follow best practices, don't re-invent the wheel
     	2. Know what to measure 
       3. Know how to measure
       4. Act on your findings
-
-
+  ```
 With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut methods to test for them. 
 
 Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process.  
