@@ -9,6 +9,10 @@ Visualization is outcome driven. Very rarely are our users making  visceral deci
 While for some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. The following image demonstrates how quickly typographic elements can scale up in a dashboard, moving well beyond the typical h1, h2, h3, and so on,  elements used in websites.
 ![](../Assets/images/Chart-UI-components.png)
 
+### Operationalization is hard
+E.g. If you want to measure how many insights are dervived using one visualization versus another, how do you define what constitutes an insight in the first place?
+
+## UX Research Landscape
 This section explores the wide array of research methods availale to research methods and then makes some decisions about which methods are recommended in
 
 ### Deciding Test Methodology
