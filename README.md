@@ -43,7 +43,7 @@ Before beginning the tests, it is be helpful to-
 
    Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
 
-4. **Conveying Test Results**
+4. **Act on your findings/Conveying Test Results**
 
    Lorem Ipsum
 
