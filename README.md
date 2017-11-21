@@ -36,9 +36,8 @@ This is a **WIP** living document. Please read our [Contribution Guidelines](CON
 
 Throughout the sprint we want to track how research questions mature as the design sprint progresses and what methods were used to answer those questions. Copy over this [Google Sheets document](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) to your own drive to help guide and document your testing process.
 
-Sample filled out doc-
-
-![Testing Template](./Assets/images/Sample-Testing-Template.png)
-
 Acknowledgements: Thanks to [Arielle Cason, UX Researcher](http://ariellecason.com/) for sharing her personal test template—developed while she was a graduate student at Georgia Institute of Technology—with us. We were able to use her template as a substrate to build our own.
 
+Here is a snippet of her template-
+
+![Testing Template](./Assets/images/Sample-Testing-Template.png)
