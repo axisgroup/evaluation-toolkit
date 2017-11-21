@@ -60,9 +60,13 @@ To sum up, ask the following questions when making decisions-
 >
 > Matthew Crawford
 
+
+
 **Separate news from the noise**-Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
 
 ![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
+
+
 
 **Push vs. Pull**-To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user, e.g., by way of alerts and notifications.
 
