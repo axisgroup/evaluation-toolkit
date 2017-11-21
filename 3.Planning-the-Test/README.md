@@ -7,7 +7,7 @@ Visualization is outcome driven. Very rarely are our users making  visceral deci
 
 ### Too many moving parts
 While for some usability studies, there may be an obvious and limited set of interface elements that should be tested. In many cases, however, the system is complex, new to the researcher, or the list of candidate features for testing is long. The following image demonstrates how quickly typographic elements can scale up in a dashboard, moving well beyond the typical h1, h2, h3, and so on,  elements used in websites.
-![](evaluation-toolkit/Assets/images/Chart-UI-components.png)
+![](../Assets/images/Chart-UI-components.png)
 
 This section explores the wide array of research methods availale to research methods and then makes some decisions about which methods are recommended in
 
