@@ -1,5 +1,5 @@
 # Evaluation Toolkit
-This repo is a collection of documents intended to help guide the testing process in a data visualization context. It contains guidelines that should not be followed exactly. It is written by and for the Axis Design team.
+This repo is a collection of documents intended to help guide the testing process in a data visualization context. It contains guidelines that should not be followed exactly. It is written by and for the Axis Design team although it can also act as a point of reference for data vis practitioners.
 
 ## Know your guidelines before you break them
 
@@ -19,8 +19,7 @@ Specifically, the approach advocated by this repository is three-pronged:
 
 With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut methods to test for them. 
 
-Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process. This repositiory is meant to act as a point of reference for data vis practitioners rather than an educational resource.
-
+Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process.  
 This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTING.md) to help refine this repository.
 
 ## How to use this toolkit
