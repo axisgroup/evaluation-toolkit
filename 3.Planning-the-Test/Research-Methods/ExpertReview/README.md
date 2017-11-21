@@ -21,7 +21,7 @@ https://www.nngroup.com/articles/false-consensus/
 - Walk them through the goals of the project and the interface to be tested
 
 - Make a list of all usability problems identified by the experts. Combine similar problems as one if need be.
-![](..../Assets/images/Description-of-Results.png)
+![](...../Assets/images/Description-of-Results.png)
 
 - For each problem identified:
 
