@@ -10,7 +10,7 @@ Testing, creativity, and empathy are the fundamental pillars of the user-centere
 
 Using these fundamentals we are able to iteratively deliver applications that are useful, usable, and delightful at every stage. The following diagram encapsulates our sprint philopsophy where we aim to deliver not only bigger and better iterations but also wholesome at every stage.
 
-![Cupcake Analogy](./Assets/images/cupcake-mvp.png)
+![Cupcake Analogy](../Assets/images/cupcake-mvp.png)
 
 Testing allows us to step back and backup assumptions made along the way with empirical evidence. 
 All in all, it helps us-
@@ -56,4 +56,4 @@ With these guidelines designers can determine success criteria for their project
 
 Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process. This repositiory is meant to act as a point of reference for data vis practitioners rather than an educational resource.
 
-This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTING.md) to help refine this repository.
+This is a **WIP** living document. Please read our [Contribution Guidelines](../CONTRIBUTING.md) to help refine this repository.
