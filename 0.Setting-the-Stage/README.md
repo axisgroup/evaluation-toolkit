@@ -42,7 +42,7 @@ Based on this heauristic approach we advocate the following-
     2. Know what to measure?
     3. Know how to measure?
 
-Before we dive deeper into the testing methodology, it will be helpful to:
+Before we dive deeper into any of these individual steps, it is be helpful to:
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
 - Equip yourself with the [testing mindset](TestingMindset.md) in order to properly set expectations.
 
