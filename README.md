@@ -1,6 +1,28 @@
 # Background
 
-— Why evaluation is important, and how this repo deconstructs the process.
+— Why evaluation is important
+
+## Know your guidelines before you break them
+
+The goal of this repository is to serve as a **toolkit** that helps deconstruct the testing process into manageable chunks.
+This toolkit aims to:
+
+- To help identify pitfalls in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
+- To provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
+
+Specifically, the approach advocated by this repository is three-pronged:
+
+```
+   	1. Follow best practices, don't re-invent the wheel
+    	2. Know what to measure?
+     	3. Know how to measure?
+```
+
+With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut methods to test for them. 
+
+Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process. This repositiory is meant to act as a point of reference for data vis practitioners rather than an educational resource.
+
+This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTING.md) to help refine this repository.
 
 ## How to use this toolkit
 
