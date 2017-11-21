@@ -133,32 +133,33 @@ https://www.nngroup.com/articles/ten-usability-heuristics/
 Another means of evaluating visualizations is by crossing them against this list of undesirable attributes, and making changes accordingly.
 
 ## Inefficient
-- too many clicks or a roundabout way to complete a task
-- using a viz that's harder to read when you could use something thats more simple
-- too many pages in an app/ redundant information on multiple views?
+- Too many clicks to complete a task. The user has to take a roundabout way to complete a task when a more simple path can be designed.
+- Using a visualization that's harder to read when you could use something thats more simple.
+- The app has too many pages making it difficult for users to know where to go. There is redundant information on multiple views.
 
 ## Confusing
-- can't find the info you're looking for
-- viz is extremely complex or difficult to read
-- don't know what the purpose of a screen or view is, or how it's supposed to help you
+- Finding information is difficult.
+- The visualization is extremely complex or difficult to read.
+- The screen has no clear purpose. Charts are randomly thrown on a screen.
 
 ## Frustrating
 - ugliness, not intuitive, too many clicks to do your task, etc.
-- annoying - like too many alerts or notifications, or things not working the way you expect (i.e. filters)
-- or too many interactions/animations
+- The app is not intutive and visually unappealing. Completing a task takes too many clicks.
+- Features of the app don't work as expected. (eg - filter, navigation). The app has too many alerts and notifications.
+- The app has too many interactions/animations.
 
 ## Boring
-- everything is the same viz? 
-- everything is gray?
-- language is dull? 
+- Same visualizations are repeated in the app.  
+- The color scheme is monotonous. 
+- Language used is dull 
 
 ## Making one feel stupid
-- if language is patronizing/assuming you dont know anything
-- if a viz is unnecessarily complex 
+- The language used is patronizing and assumes the users does not know anything.
+- Visualizations used are hard to read. 
 
 ## Gimmicky
-- flashy with no purpose, deceptive, seems to be more "persuasive" than informative
+- The app is flashy with no purpose, deceptive, seems to be more "persuasive" than informative.
  
 ## Untrustworthy
- - linked to data being inaccurate
+ - The app displays inaccurate data.
 
