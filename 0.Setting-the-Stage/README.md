@@ -36,4 +36,8 @@ How then can designers balance the need for robust testing versus quick turnarou
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
+Before we dive deeper into the testing methodology, it will be helpful to:
+- Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
+- Equip yourself with the [testing mindset](TestingMindset.md) in order to properly set expectations.
+
 
