@@ -36,6 +36,12 @@ How then can designers balance the need for robust testing versus quick turnarou
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
+Based on this heauristic approach we advocate the following-
+
+   	1. Follow best practices, don't re-invent the wheel
+    2. Know what to measure?
+    3. Know how to measure?
+
 Before we dive deeper into the testing methodology, it will be helpful to:
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
 - Equip yourself with the [testing mindset](TestingMindset.md) in order to properly set expectations.
