@@ -6,8 +6,8 @@ This repo is a collection of documents intended to help guide the testing proces
 The goal of this repo is to serve as a **toolkit** that helps deconstruct the testing process into manageable chunks.
 This toolkit aims to:
 
-- To help identify pitfalls in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
-- To provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
+- help identify pitfalls in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
+- provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
 
 Specifically, the approach advocated by this repo is three-pronged:
 
