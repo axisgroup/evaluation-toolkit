@@ -43,7 +43,7 @@ Before beginning the tests, it is be helpful to-
 
 4. **Act on your findings/Conveying Test Results**
 
-   Lorem Ipsum
+   Use this [Checklist of potential actions](./4.Conveying-Test-Results/Checklist of potential actions.md) to recommend changes that could be made to the design inorder to address important usability issues. 
 
 ## Axis Design Sprint Testing Template
 
