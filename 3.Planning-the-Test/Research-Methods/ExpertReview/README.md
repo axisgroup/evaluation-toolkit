@@ -22,8 +22,6 @@ https://www.nngroup.com/articles/false-consensus/
 
 - Make a list of all usability problems identified by the experts. Combine similar problems as one if need be.
 
-![Description of Results](/Assets/images/Description-of-Results.png)
-
 - For each problem identified:
 
   Determine Severity Ranking
@@ -45,6 +43,7 @@ https://www.nngroup.com/articles/false-consensus/
   3-Usability problem would be difficult to fix. Requires concentrated development effort to finish before next release, involves multiple aspects of interface. Solution may not be immediately obvious or may be disputed.
 
 - Put all results in a table
+![Description of Results](/Assets/images/Description-of-Results.png)
 
 - Prepare a list of design implications or changes. You may categorize them as trivial, important and critical. Use the [Checklist of potential actions](/4.Conveying-Test-Results/Checklist-of-potential-actions.md) to aid you with this step.
 
