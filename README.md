@@ -1,64 +1,9 @@
-## Why do we test?
-
-As designers we are often confronted with the question “How do we know our design works?”, whether it's a matter of introspection or presenting and justifying our design decisions.
-
-While testing seems like the obvious answer, it is important to realize that testing is not a single summative phase in the entire project (as in SDLC). Rather it is a formative process that is distributed throughout the design process.
-
-Testing, creativity, and empathy are the fundamental pillars of the user-centered design sprint process at Axis. 
-
-Using these fundamentals we are able to iteratively deliver applications that are useful, usable, and delightful at every stage. The following diagram encapsulates our sprint philopsophy where we aim to deliver not only bigger and better iterations but also wholesome at every stage.
-
-![Cupcake Analogy](./Assets/images/cupcake-mvp.png)
-
-Testing allows us to step back and backup assumptions made along the way with empirical evidence. 
-All in all, it helps us-
-
-- Mitigate the risk of major redesign later in the process(small changes are bound to happen)
-- Increase likelihood of User adoption
-
-## But how do we REALLY test during a sprint?
-
-Because testing is distributed among our sprint phases, it can manifest in many ways ranging from casual coffee shop studies to controlled experiments depending on the research context, time at hand, and access to participants.
-
-And while testing is a core philosophy of the UCD process, a point of tension emerges during **Lean Design Sprints**, where time and resources are limited and compromises must be made in the name of fast delivery.
-
-How then can designers balance the need for robust testing versus quick turnaround times?
-
-## Heuristic approach
-
-> **Heuristic techniques** often called simply a heuristic. It is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. 
->
-> Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution.Heuristics can be mental shortcuts that ease the cognitive load of making a decision. 
->
-> Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, guesstimate, stereotyping, profiling, or common sense.
-
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
-
-## Know your guidelines before you break them
-
-The goal of this repository is to serve as a **toolkit** that helps deconstruct the testing process into manageable chunks.
-This toolkit aims to:
-
-- To help identify [pitfalls](./0.Setting-the-Stage/Pitfalls.md) in our current evaluation process, so designers can be more cognizant of them and control for them when possible.
-- To provide enough guidelines to designers to reduce the cognitive load of decision making at every stage.
-
-Specifically, the approach advocated by this repository is three-pronged:
-
-```
-   	1. Follow best practices, don't re-invent the wheel
-    	2. Know what to measure?
-     	3. Know how to measure?
-```
-
-With these guidelines designers can determine success criteria for their project, prioritize what to test versus what not to test, and identify shortcut methods to test for them. 
-
-Where possible, this toolkit will also attempt to identify tactics designers can employ to improve their evaluation process. This repositiory is meant to act as a point of reference for data vis practitioners rather than an educational resource.
-
-This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTING.md) to help refine this repository.
-
 ## How to use this toolkit
 
-1. **Follow best practices:** This serves as an initial self-directed evaluation, intended to help you determine whether your visualization is following best practices, particularly in regard to styling. Reference the [data visualization checklist](./Assets/DataVizChecklist_May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery to evaluate specific UI elements such as typography, color, and arrangement.
-2. **Know what to measure:** Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Determining what to measure](./2.Determining-what-to-measure/README.md) section for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
-3. **Know how to measure:** Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
+1. **Setting the Stage**: Before beginning the tests, it will be helpful to 
+   - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
+   - Equip yourself with the [testing mindset](TestingMindset.md) in order to properly set expectations.
+2. **Follow best practices:** This serves as an initial self-directed evaluation, intended to help you determine whether your visualization is following best practices, particularly in regard to styling. Reference the [data visualization checklist](./Assets/DataVizChecklist_May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery to evaluate specific UI elements such as typography, color, and arrangement.
+3. **Know what to measure:** Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Determining what to measure](./2.Determining-what-to-measure/README.md) section for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
+4. **Know how to measure:** Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
 
