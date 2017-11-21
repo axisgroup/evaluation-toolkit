@@ -1,4 +1,4 @@
-## The Complexity in our Stars or Why Data Viz is inherently hard to test
+## The Complexity in our Stars or Why Data Vis is inherently hard to test
 *WIP needs attribution and citations*
 
 ### Faster is not necessarily better
@@ -30,3 +30,6 @@ https://www.nngroup.com/articles/quant-vs-qual/
 
 This graphic from the NNGroup website succinctly sums up the landscape-
 ![User Research Methods Landscape](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
+
+
+## Putting a stake in the ground
