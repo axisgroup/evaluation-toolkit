@@ -24,7 +24,7 @@ This is a **WIP** living document. Please read our [Contribution Guidelines](CON
 
 ## How to use this toolkit
 
-0. **Setting the Stage**: Before beginning the tests, it will be helpful to 
+0. **Setting the Stage**: Before beginning the tests, it is be helpful to- 
    - Understand the [pitfalls](./0.Setting-the-Stage/Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
    - Equip yourself with the [testing mindset](./0.Setting-the-Stage/TestingMindset.md) in order to properly set expectations.
 1. **Follow best practices:** At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project. At a tactical level, particularly in regard to styling, it provides a link to the [data visualization checklist](./Assets/DataVizChecklist_May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official [Axis Style Guide](https://sites.google.com/view/style-guide/guidelines) that provides reusable techniques.
