@@ -35,9 +35,9 @@ Here's a more detailed guide to [Pull Requests](https://guides.github.com/activi
 <br>
 Here are some examples of changes you can make in your branch:
 
-#### ++ Recommend a method
+#### Recommend a method
 
-If you have successful experience using a method and you want to recommend it to the design engagement, you can add a new .md file that describes the method under the folder [Methods](/3.Planning-the-Test/Research-Methods) in your branch and then submit a pull request. 
+If you have successful experience using a method, and you want to recommend it to our testing process, you can add a new .md file describing your method to the [Methods](/3.Planning-the-Test/Research-Methods) folder in your branch. You can then submit a pull request. We would also love to see artifacts produced during the process and we encourage you to share those as well.
 
 The description file should include:
 * Definition and purpose of the method
