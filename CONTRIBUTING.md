@@ -37,7 +37,7 @@ Here are some examples of changes you can make in your branch:
 
 #### ++ Recommend a method
 
-If you have successful experience using a method and you want to recommend it to the design engagement, you can add a new .md file that describes the method under the folder [Methods](./3.Planning-the-Test/Research Methods) in your branch and then submit a pull request. 
+If you have successful experience using a method and you want to recommend it to the design engagement, you can add a new .md file that describes the method under the folder [Methods](/3.Planning-the-Test/Research-Methods) in your branch and then submit a pull request. 
 
 The description file should include:
 * Definition and purpose of the method
