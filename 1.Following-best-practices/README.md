@@ -213,7 +213,7 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 
 
-### ![](link.png) ![](link.)Content as Navigation
+### ![](link.png) Content as Navigation
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
