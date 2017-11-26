@@ -7,8 +7,7 @@ Without good communication, designers who are unaware of solutions may be forced
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
 
 
-
-### ![](detailsondemand.png) Gradual Reveal
+![](detailsondemand.png) ### Gradual Reveal
 
 The foremost mantra we follow when designing visualization
 
