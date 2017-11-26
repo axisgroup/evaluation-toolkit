@@ -21,7 +21,7 @@ The foremost mantra we follow when designing visualization
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
 
-### ![](info_discrim.png) Information Discrimination
+### ![](hierarchy.png) Information Discrimination
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.” Amanda Cox, NY Times
 
@@ -197,7 +197,7 @@ Few tactics to design compact dashboards-
 
 
 
-### ![](choices.png) Minimize Choices
+### ![](selection.png) Minimize Choices
 
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
@@ -213,7 +213,7 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 
 
-### ![](link.png) Content as Navigation
+### ![](link.png) ![](link.)Content as Navigation
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
