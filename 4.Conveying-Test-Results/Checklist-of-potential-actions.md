@@ -50,7 +50,12 @@ Start the scale from the minimum value in the dataset instead of zero
 Scenario - Data points are hard to see because of a large variation in values. (Note that starting the scale from the minimum value will not work for all types of charts. A bar chart must always have a zero baseline. Dot plots and line charts are examples of charts that could start from a non zero baseline.)
 
 - **% vs. absolute values**  
+Display the variance by converting absolute values to % change
 Scenario - The user cares more about tracking change or growth rather than the actual values.  
+
+- **Averages**
+Use mean as a measure of central tendency when the data set is uniform. A data set with extreme outliers will skew the mean. A median is a more accurate representation of the central tendency in this case. If there is a large difference between the median and mean then the distribution is probably skewed. Median should be used over mean in this case. Mean can be used for more more uniform distributions. Mode can be used to measure the most common category. The problem with mode is that the most commonly occuring item might not be a good reprenstation of the central tendency. 
+
 
 ### Interaction Patterns
 
@@ -151,3 +156,4 @@ Gradual Reveal
 
 References:
 http://classes.engr.oregonstate.edu/eecs/spring2015/cs419-001/Slides/tufteDesign.pdf
+https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php
