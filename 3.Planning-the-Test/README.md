@@ -22,23 +22,51 @@ Tools- http://datumipsum.com/
 
 ## UX Research Landscape
 
-This section explores the wide array of research methods availale to research methods and then makes some decisions about which methods are recommended in
+This section explores the wide array of research methods available to researchers based on Chris Rohrer's excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods).
 
-### Deciding Test Methodology
+It then attempts to make some decisions about which methods are recommended given the Axis Design context.
+
+The following **3-dimensional framework** with the following axes helps us simplify the task of selecting a research method- 
+
+- Attitudinal vs. Behavioral
+
+- Qualitative vs. Quantitative
+
+- Context of Use
+
+  ​
 
 
-**Attitudnal vs. Behavioral**
-> This distinction can be summed up by contrasting "what people say" versus "what people do" (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments.
+**Attitudinal vs. Behavioral**
+
+According to Rohrer's article "this distinction can be summed up by contrasting **"what people say"** versus **"what people do"** (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments."
 
 
 
-**Quantitative vs. Qualitative Dimension**
-Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Quantitative methods usually include close ended questions where something is measured on a scale. Qualitative methods include more open ended questions to get descriptive and free form feedback. Using the quantitative method, you can create a survey that measures how useful users found a visualization on a scale of 1 to 5. You can then use the qualitative method to ask users who entered a low rating a follow up question on why they did not find application useful. Quantitative methods will identify the strengths and weakness of your data visualization. Qualitative methods will uncover the "why" or the cause of those strengths/weaknesses.
-https://www.nngroup.com/articles/quant-vs-qual/
+**Quantitative vs. Qualitative**
+Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Rohrer captures the essence of these two methods when he says—
+
+"The distinction here is an important one, and goes well beyond the narrow view of qualitative as “open ended” as in an open-ended survey question.  Rather, studies that are qucalitative in nature generate data about behaviors or attitudes based on observing them *directly*, whereas in quantitative studies, the data about the behavior or attitudes in question are gathered *indirectly*, through a measurement or an instrument such as a survey or an [analytics tool](https://www.nngroup.com/articles/analytics-user-experience/)." 
+
+He then continues to explain what these methods are suited for—
+
+"Due to the [nature of their differences](http://www.nngroup.com/articles/risks-of-quantitative-studies/), **qualitative **methods are much better suited for answering questions about **why **or **how to fix **a problem, whereas **quantitative **methods do a much better job answering **how many **and **how much **types of questions."
 
 
-This graphic from the NNGroup website succinctly sums up the landscape-
-![User Research Methods Landscape](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
 
+This graphic from the NNGroup website succinctly sums up the landscape thus far—![User Research Methods Landscape](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
+
+**The Context of Product Use**
+
+However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. This can be described as-
+
+`
+
+- **Natural **or near-natural use of the product
+- **Scripted **use of the product
+- **Not using **the product during the study
+- A **hybrid **of the above
+
+`
 
 ## Putting a stake in the ground
