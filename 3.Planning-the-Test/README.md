@@ -36,13 +36,12 @@ The following **3-dimensional framework** with the following axes helps us simpl
   ​
 
 
-**Attitudinal vs. Behavioral**
-
+### Attitudinal vs. Behavioral
 According to Rohrer's article "this distinction can be summed up by contrasting **"what people say"** versus **"what people do"** (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments."
 
 
 
-**Quantitative vs. Qualitative**
+### Quantitative vs. Qualitative
 Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Rohrer captures the essence of these two methods when he says—
 
 "The distinction here is an important one, and goes well beyond the narrow view of qualitative as “open ended” as in an open-ended survey question.  Rather, studies that are qucalitative in nature generate data about behaviors or attitudes based on observing them *directly*, whereas in quantitative studies, the data about the behavior or attitudes in question are gathered *indirectly*, through a measurement or an instrument such as a survey or an [analytics tool](https://www.nngroup.com/articles/analytics-user-experience/)." 
@@ -55,7 +54,7 @@ He then continues to explain what these methods are suited for—
 
 This graphic from the NNGroup website succinctly sums up the landscape thus far—![User Research Methods Landscape](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
 
-**The Context of Product Use**
+### The Context of Product Use
 
 However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. In UXPin's [The Guide to Usability Testing](http://gibbon.co/c/1ada73ea-1f19-450d-bc35-64c6c436bcae/the-guide-to-usability-testing-free-ebook-by-ux) they have summarized Rohrer's note as—
 
@@ -77,8 +76,5 @@ Geared towards understanding the users’ mentality, these tests vary in what th
 The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o 
 
 ```
-
-
-
 
 ## Putting a stake in the ground
