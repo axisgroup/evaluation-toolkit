@@ -6,31 +6,26 @@ This is a list of potential changes that can be made to the design based on resu
 ### Content/ Functional Patterns
 
 - **Data**: show me a different metric  
-  Scenario: The user finds other metrics which are not displayed on the dashboard to be more useful. 
 
 - **Comparison**: show me a reference point
 
-
 - **Trend**: show me how things have changed over time  
-  Scenario: The user wants to know how data points have been trending  
-
 
 - **Outliers**: show me data points that do not fit the norm  
-  Scenario: The user wants to identify problem areas or data points that are doing unusually well.
+ Outliers identify problem areas or data points that are doing unusually well.
 
 - **Distribution**: show data values are spread across a scale.  
-  Scenario: The user not just wants to know totals and averages but also the composition of data values that makes that up. 
+Distribution is used to show the shape of data -  composition of data values that makes that up the totals. Knowing the total numbers isn't enough in this case. 
 
 - **Location**: show me how things relate spatially  
-  Scenario: The user wants to not just see numbers but a visual representation of how things are mapped. 
+ This shows more than just numbers. In some cases a visual representation of how things are mapped can provide insights.  
 
 - **Part-to-whole relationship**: show the set of values that contribute to a whole  
-  Scenario: The user wants to see the totals and also a breakdown of values that contribute to that. 
 
 - **Proportions**:  show relative contributions of several values to a whole  
 
 - **Patterns/Relationships**: show correlations and associations among values  
-  The user needs to know if there is a relationship between dimmensions/measures and how they affect each other.   
+  This reveals relationship between dimmensions/measures and how they affect each other.   
 
 [TDWI]:(https://tdwi.org/Articles/2015/01/20/Language-of-Data-Visualization.aspx?Page=3
 [Data Viz Catalog]:(http://www.datavizcatalogue.com/)
@@ -41,16 +36,16 @@ This is a list of potential changes that can be made to the design based on resu
 
 - **Indexing**  
 Index values to a common point.  
-Scenario - The values have huge variations making it hard to view and compare points.   
-The user wants to compare how values have changed. Indexing provides a common benchmark making it easier to track change.
+Use this when the values have huge variations making it hard to view and compare points.   
+Use indexing to compare how values have changed. Indexing provides a common benchmark making it easier to track change.
 
 - **Scale**  
 Start the scale from the minimum value in the dataset instead of zero.  
-Scenario - Data points are hard to see because of a large variation in values. (Note that starting the scale from the minimum value will not work for all types of charts. A bar chart must always have a zero baseline. Dot plots and line charts are examples of charts that could start from a non zero baseline.)
+Use this techinique when data points are hard to see because of a large variation in values. (Note that starting the scale from the minimum value will not work for all types of charts. A bar chart must always have a zero baseline. Dot plots and line charts are examples of charts that could start from a non zero baseline.)
 
 - **% vs. absolute values**  
 Display the variance by converting absolute values to % change.  
-Scenario - The user cares more about tracking change or growth rather than the actual values.  
+Use % if the user cares more about tracking change or growth rather than the actual values.  
 
 - **Averages**  
 Use mean as a measure of central tendency when the data set is uniform. A data set with extreme outliers will skew the mean. A median is a more accurate representation of the central tendency in this case. If there is a large difference between the median and mean then the distribution is probably skewed. Median should be used over mean in this case. Mean is best used for normal distributions. Mode can be used to measure the most common category. The problem with mode is that the most commonly occurring item might not be a good representation of the central tendency.  
@@ -66,41 +61,41 @@ Use quartiles when the user wants additional context while viewing a disitributi
 - **Filter: show me something conditionally**
 
   Add or remove filtering capability  
-  Scenarios: The user is overwhelmed by too much information and wants to focus on one group at a time.   
-  A power user wants to be able to slice and dice the data is different ways.
+  Use fiters if the user is overwhelmed by too much information and wants to focus on one group at a time.   
+  Filter can also be used for power users who want to be able to slice and dice the data is different ways.
 
 
 - **Brushing: show me connected items**
 
   Add or remove brushing capability  
-  Scenario: Multiple visuizations on the screen have atleast one set of dimmensions that are the same. The user does not read charts in isolation and wants to view how a data point is doing across multiple visualizations.
+ Use brushing when multiple visuizations on the screen have atleast one set of dimmensions that are the same. Brushing is useful when the user does not read charts in isolation and wants to view how a data point is doing across multiple visualizations.
 
 - **Reconfigure: show me a different arrangement**
 
 E.g. changing the sort criteria on a list    
-Scenario: The user does not have a fixed way of viewing information.   
+Reconfiguring can be used when the user does not have a fixed way of viewing information.   
 
 
 - **Encode: show me a different representation**
 
   Change the chart type altogether    
-  Scenraio: The user wants different insights from the same data points.
+ Encoding is helpful when the user wants different insights from the same data points.
 
 
 - **Abstract/Elaborate: show me more or less detail**  
   Add or remove tooltips on hover.   
-  Scenario: The user wants additional context/details for only one set of information at a time. 
+  This can be used when the user wants additional context/details for only one set of information at a time. 
 
 
 - **Select: mark something as interesting**  
   Highlight points on the screen, add bookmarks
-  Scenario: The user wants to highlight interesting elements on the screen and view them at a later timeor share them with someone else.
+  Selections are used to highlight interesting elements on the screen and view them at a later timeor share them with someone else.
 
 - **Explore: show me something else**  
 
 - **Alternative choices: show me alternative metrics/ dimensions**  
   Add toggles for a visulization to switch out metrics
-  Scenario: The user wants to go back forth between two or more sets of metrics visualized the same way. 
+  Alternative choices are a great way to go back forth between two or more sets of metrics visualized the same way. 
 
 
 - **Starring/tagging: show me things that I may have flagged**
