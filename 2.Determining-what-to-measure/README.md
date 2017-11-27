@@ -162,4 +162,11 @@ Another means of evaluating visualizations is by crossing them against this list
 
 ## Untrustworthy
  - The app displays inaccurate data.
+ 
+# What next?
+Once you have determined your most important criteria design criteria you should begin planning your test methodology. An interim step in that direction is to determine what style of data you are hoping to collect. The following table from User Testing is a good example of data that could be collected as part of a testing session
+![](Assests/images/style-of-data.png)
+
+With this step complete you can fill out the *Research Question* and *What type of data is expected as the outcome?* columns in your copy of the [Google sheet template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0). Having done this, you can reference the [next section]() to plan the details of your test.
+
 
