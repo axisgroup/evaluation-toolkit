@@ -57,7 +57,7 @@ This graphic from the NNGroup website succinctly sums up the landscape thus far�
 
 **The Context of Product Use**
 
-However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. In UXPin's[The Guide to Usability Testing](http://gibbon.co/c/1ada73ea-1f19-450d-bc35-64c6c436bcae/the-guide-to-usability-testing-free-ebook-by-ux) they have summarized Rohrer's note as—
+However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. In UXPin's [The Guide to Usability Testing](http://gibbon.co/c/1ada73ea-1f19-450d-bc35-64c6c436bcae/the-guide-to-usability-testing-free-ebook-by-ux) they have summarized Rohrer's note as—
 
 ```
 1. Scripted use of the product — These tests focus on specific usage aspects.
