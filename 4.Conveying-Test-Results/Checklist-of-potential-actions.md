@@ -160,3 +160,5 @@ Gradual Reveal
 References:
 http://classes.engr.oregonstate.edu/eecs/spring2015/cs419-001/Slides/tufteDesign.pdf
 https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php
+https://www.perceptualedge.com/articles/visual_business_intelligence/introducing_bandlines.pdf
+
