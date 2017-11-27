@@ -36,27 +36,28 @@ This is a list of potential changes that can be made to the design based on resu
 [Data Viz Catalog]:(http://www.datavizcatalogue.com/)
 
 ### Data Presentation
-The user finds it hard to read the charts. 
 
 - breakout by right dimensions  
 
 - **Indexing**  
-Index values to a common point
+Index values to a common point.  
 Scenario - The values have huge variations making it hard to view and compare points.   
 The user wants to compare how values have changed. Indexing provides a common benchmark making it easier to track change.
 
 - **Scale**  
-Start the scale from the minimum value in the dataset instead of zero
+Start the scale from the minimum value in the dataset instead of zero.  
 Scenario - Data points are hard to see because of a large variation in values. (Note that starting the scale from the minimum value will not work for all types of charts. A bar chart must always have a zero baseline. Dot plots and line charts are examples of charts that could start from a non zero baseline.)
 
 - **% vs. absolute values**  
-Display the variance by converting absolute values to % change
+Display the variance by converting absolute values to % change.  
 Scenario - The user cares more about tracking change or growth rather than the actual values.  
 
 - **Averages**  
-Use mean as a measure of central tendency when the data set is uniform. A data set with extreme outliers will skew the mean. A median is a more accurate representation of the central tendency in this case. If there is a large difference between the median and mean then the distribution is probably skewed. Median should be used over mean in this case. Mean is best used for normal distributions. Mode can be used to measure the most common category. The problem with mode is that the most commonly occuring item might not be a good representation of the central tendency. 
+Use mean as a measure of central tendency when the data set is uniform. A data set with extreme outliers will skew the mean. A median is a more accurate representation of the central tendency in this case. If there is a large difference between the median and mean then the distribution is probably skewed. Median should be used over mean in this case. Mean is best used for normal distributions. Mode can be used to measure the most common category. The problem with mode is that the most commonly occurring item might not be a good representation of the central tendency.  
 
-
+- **Quartiles**  
+Mark quartiles in your chart through bands of shaded color or lines.
+Use quartiles when the user wants additional context while viewing a disitribution. The lowest quartile will show where the lowest 25% of the values lie.   
 
 
 ### Interaction Patterns
