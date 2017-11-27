@@ -18,7 +18,7 @@ This is a list of potential changes that can be made to the design based on resu
 Distribution is used to show the shape of data -  composition of data values that makes that up the totals. Knowing the total numbers isn't enough in this case. 
 
 - **Location**: show me how things relate spatially  
- This shows more than just numbers. In some cases a visual representation of how things are mapped can provide insights.  
+ This shows more than just numbers. A visual representation of how things are mapped can provide insights.  
 
 - **Part-to-whole relationship**: show the set of values that contribute to a whole  
 
@@ -140,14 +140,13 @@ Is the chart's purpose clear from its title and subtitle?
 
 ### Aesthetics
 
+Follow visual design principles to improve the overall aesthetics of your dashboard.
+https://www.oreilly.com/learning/visual-design-principles
+
+**Presentations on Visual Design Principles**
 https://docs.google.com/presentation/d/182I3zWRQwAWXlLtB-DbfgeSrmC4XvVCpxz8sXzj7t-s/edit?usp=sharing
 https://docs.google.com/presentation/d/1slIHDPWSrEJEh-OikjZPDzuePkq8v7cd9Tfhq64wiqI/edit?usp=sharing
 
-Limit clutter
-
-Limit choices
-
-Demphasize meta data?
 
 ### Structural Patterns
 
@@ -159,4 +158,3 @@ References:
 http://classes.engr.oregonstate.edu/eecs/spring2015/cs419-001/Slides/tufteDesign.pdf
 https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php
 https://www.perceptualedge.com/articles/visual_business_intelligence/introducing_bandlines.pdf
-
