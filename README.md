@@ -35,7 +35,9 @@ Before beginning the tests, it is be helpful to-
 
 2. **Know what to measure**
 
-   Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Determining what to measure](./2.Determining-what-to-measure/README.md) section for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes.
+   Next, you can begin the process of user testing by first determining what you speficially want to test and measure, and what attributes you want to prioritize for your dashboard. Do you want to test its usability, usefulness, desirability, or a combination of these attributes? Reference the [Determining what to measure](./2.Determining-what-to-measure/README.md) section for a list of questions that can be asked to help you determine whether your visualization achieves your prioritized attributes. After you have determined your most important design criteria, this section provides guidelines on detrmining what style of data to capture.
+ ![](Assets/images/style-of-data.png)
+ *Source: The complete guide to user testing websites, apps, and prototypes, © UserTesting 2017*
 
 3. **Know how to measure**
 
