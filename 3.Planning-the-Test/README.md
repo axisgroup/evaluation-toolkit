@@ -48,7 +48,7 @@ Both quantitative and qualitative methods are valid for evaluating visualization
 
 He then continues to explain what these methods are suited for—
 
-"Due to the [nature of their differences](http://www.nngroup.com/articles/risks-of-quantitative-studies/), qualitative methods are much better suited for answering questions about **why **or **how to fix **a problem, whereas **quantitative **methods do a much better job answering **how many **and **how much **types of questions."
+"Due to the [nature of their differences](http://www.nngroup.com/articles/risks-of-quantitative-studies/), **qualitative** methods are much better suited for answering questions about **why or how to fix a problem** whereas **quantitative** methods do a much better job answering **how many and how much types of questions."
 
 
 
@@ -61,7 +61,7 @@ However there is a third dimension that has to do with direct and indirect use o
 - **Natural** or near-natural use of the product
 - **Scripted** use of the product
 - **Not using** the product during the study
-- A **hybrid **of the above
+- A **hybrid** of the above
 
 
 
