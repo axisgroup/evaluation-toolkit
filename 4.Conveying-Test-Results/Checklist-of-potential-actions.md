@@ -53,8 +53,10 @@ Scenario - Data points are hard to see because of a large variation in values. (
 Display the variance by converting absolute values to % change
 Scenario - The user cares more about tracking change or growth rather than the actual values.  
 
-- **Averages**
-Use mean as a measure of central tendency when the data set is uniform. A data set with extreme outliers will skew the mean. A median is a more accurate representation of the central tendency in this case. If there is a large difference between the median and mean then the distribution is probably skewed. Median should be used over mean in this case. Mean can be used for more more uniform distributions. Mode can be used to measure the most common category. The problem with mode is that the most commonly occuring item might not be a good reprenstation of the central tendency. 
+- **Averages**  
+Use mean as a measure of central tendency when the data set is uniform. A data set with extreme outliers will skew the mean. A median is a more accurate representation of the central tendency in this case. If there is a large difference between the median and mean then the distribution is probably skewed. Median should be used over mean in this case. Mean is best used for normal distributions. Mode can be used to measure the most common category. The problem with mode is that the most commonly occuring item might not be a good representation of the central tendency. 
+
+
 
 
 ### Interaction Patterns
