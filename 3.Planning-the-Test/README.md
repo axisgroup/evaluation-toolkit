@@ -73,11 +73,6 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 
 ```
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/master
 ## Putting a stake in the ground
 
 WIP
