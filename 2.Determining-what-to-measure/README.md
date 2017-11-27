@@ -119,6 +119,7 @@ Safety involves protecting users from undesirable situations and helping them av
 - Do the visualizations lend themselves to interesting and exciting insights? 
 
 ## References:
+https://docs.google.com/presentation/d/1KxPdkCXFppFRvTNw04feZEBKa_acaJqFyZGx4mptOLI/edit#slide=id.g69bb1bfae_02
 
 https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
