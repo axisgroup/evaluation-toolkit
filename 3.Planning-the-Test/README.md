@@ -61,15 +61,17 @@ However there is a third dimension that has to do with direct and indirect use o
 
 ```
 1. Scripted use of the product — These tests focus on specific usage aspects.
-
 The degree of scripting varies, with more scripting generating more controlled data.
 
 2. Decontextualized use the product — Tests that don’t use the product
-— at least in the actual testing phase — are designed for broader topics like UXor generating ideas.
+— at least in the actual testing phase — are designed for broader topics like UX or generating ideas.
 
-3. Natural (and near-natural) use of the product — These tests seek to analyze common usage behaviors and trends with the product, doing well with data authenticity at the cost of control.
+3. Natural (and near-natural) use of the product — 
+These tests seek to analyze common usage behaviors and trends with the product, 
+doing well with data authenticity at the cost of control.
 
-4. Hybrid — Hybrid tests are creative and non-traditional tests. Geared towards understanding the users’ mentality, these tests vary in what they can accomplish.
+4. Hybrid — Hybrid tests are creative and non-traditional tests. 
+Geared towards understanding the users’ mentality, these tests vary in what they can accomplish.
 
 
 The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o 
