@@ -49,7 +49,7 @@ The user wants to compare how values have changed. Indexing provides a common be
 Start the scale from the minimum value in the dataset instead of zero
 Scenario - Data points are hard to see because of a large variation in values. (Note that starting the scale from the minimum value will not work for all types of charts. A bar chart must always have a zero baseline. Dot plots and line charts are examples of charts that could start from a non zero baseline.)
 
-- ** % vs. absolute values**  
+- **% vs. absolute values**  
 Scenario - The user cares more about tracking change or growth rather than the actual values.  
 
 ### Interaction Patterns
