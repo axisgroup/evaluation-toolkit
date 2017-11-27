@@ -1,4 +1,5 @@
-## The Complexity in our Stars or Why Data Vis is inherently hard to test
+The Complexity in our Stars or Why Data Vis is inherently hard to test
+
 ### Faster is not necessarily better
 
 Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an e-commerce site). We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either.
@@ -20,7 +21,7 @@ Tools- http://datumipsum.com/
 
 ## UX Research Landscape
 
-This section explores the wide array of research methods available to researchers based on Chris Rohrer's excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods).
+This section explores the wide array of research methods available to researchers based on Christian Rohrer's—Chief Design Officer in the Consumer Division at McAfee,Inc.—excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods) for NNGroup.
 
 It then attempts to make some decisions about which methods are recommended given the Axis Design context.
 
@@ -56,12 +57,38 @@ This graphic from the NNGroup website succinctly sums up the landscape thus far�
 
 **The Context of Product Use**
 
-However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. This can be described as-
+However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. In UXPin's[The Guide to Usability Testing](http://gibbon.co/c/1ada73ea-1f19-450d-bc35-64c6c436bcae/the-guide-to-usability-testing-free-ebook-by-ux) they have summarized Rohrer's note as—
 
-- **Natural** or near-natural use of the product
-- **Scripted** use of the product
-- **Not using** the product during the study
-- A **hybrid** of the above
+```
+1. Scripted use of the product — These tests focus on specific usage aspects.
+
+The degree of scripting varies, with more scripting generating more
+
+controlled data.
+
+2. Decontextualized use the product — Tests that don’t use the product — at
+
+least in the actual testing phase — are designed for broader topics like UX
+
+or generating ideas.
+
+3. Natural (and near-natural) use of the product — These tests seek to
+
+analyze common usage behaviors and trends with the product, doing well
+
+with data authenticity at the cost of control.
+
+4. Hybrid — Hybrid tests are creative and non-traditional tests. Geared
+
+towards understanding the users’ mentality, these tests vary in what they
+
+can accomplish.
+
+
+The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o 
+
+```
+
 
 
 
