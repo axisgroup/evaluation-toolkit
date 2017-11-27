@@ -1,6 +1,4 @@
 ## The Complexity in our Stars or Why Data Vis is inherently hard to test
-*WIP needs attribution and citations*
-
 ### Faster is not necessarily better
 
 Visualization is outcome driven. Very rarely are our users making  visceral decisions based on a vis, and while we care about the affective value of a vis, we don’t want them making emotional decisions (as we would on an e-commerce site). We don’t want to penalize a vis because it makes a user think. Similarly, no. of errors is not a good measure either.
@@ -50,7 +48,7 @@ Both quantitative and qualitative methods are valid for evaluating visualization
 
 He then continues to explain what these methods are suited for—
 
-"Due to the [nature of their differences](http://www.nngroup.com/articles/risks-of-quantitative-studies/), **qualitative **methods are much better suited for answering questions about **why **or **how to fix **a problem, whereas **quantitative **methods do a much better job answering **how many **and **how much **types of questions."
+"Due to the [nature of their differences](http://www.nngroup.com/articles/risks-of-quantitative-studies/), qualitative methods are much better suited for answering questions about **why **or **how to fix **a problem, whereas **quantitative **methods do a much better job answering **how many **and **how much **types of questions."
 
 
 
@@ -60,13 +58,11 @@ This graphic from the NNGroup website succinctly sums up the landscape thus far�
 
 However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. This can be described as-
 
-`
-
-- **Natural **or near-natural use of the product
-- **Scripted **use of the product
-- **Not using **the product during the study
+- **Natural** or near-natural use of the product
+- **Scripted** use of the product
+- **Not using** the product during the study
 - A **hybrid **of the above
 
-`
+
 
 ## Putting a stake in the ground
