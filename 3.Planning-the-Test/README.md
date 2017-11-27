@@ -18,7 +18,6 @@ It is time-consuming to produce hi-fidelity [looks-like and works-like prototype
 Tools- http://datumipsum.com/
 
 
-
 ## UX Research Landscape
 
 This section explores the wide array of research methods available to researchers based on Christian Rohrer's—Chief Design Officer in the Consumer Division at McAfee,Inc.—excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods) for NNGroup.
@@ -35,11 +34,8 @@ The following **3-dimensional framework** with the following axes helps us simpl
 
   ​
 
-
 ### Attitudinal vs. Behavioral
 According to Rohrer's article "this distinction can be summed up by contrasting **"what people say"** versus **"what people do"** (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments."
-
-
 
 ### Quantitative vs. Qualitative
 Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Rohrer captures the essence of these two methods when he says—
