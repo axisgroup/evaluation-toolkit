@@ -140,6 +140,9 @@ Is the chart's purpose clear from its title and subtitle?
 
 ### Aesthetics
 
+https://docs.google.com/presentation/d/182I3zWRQwAWXlLtB-DbfgeSrmC4XvVCpxz8sXzj7t-s/edit?usp=sharing
+https://docs.google.com/presentation/d/1slIHDPWSrEJEh-OikjZPDzuePkq8v7cd9Tfhq64wiqI/edit?usp=sharing
+
 Limit clutter
 
 Limit choices
