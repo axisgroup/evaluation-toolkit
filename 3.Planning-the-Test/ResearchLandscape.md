@@ -1,6 +1,6 @@
 ## UX Research Landscape
 
-This section explores the wide array of research methods available to researchers based on Christian Rohrer's—Chief Design Officer in the Consumer Division at McAfee,Inc.—excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods) for NNGroup.
+This section explores the wide array of research methods available to researchers based on Christian Rohrer's—Chief Design Officer in the Consumer Division at McAfee,Inc.—excellent article [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) for NNGroup.
 
 It then attempts to make some decisions about which methods are recommended given the Axis Design context.
 
