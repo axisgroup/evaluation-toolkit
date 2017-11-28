@@ -27,6 +27,7 @@ This is a **WIP** living document. Please read our [Contribution Guidelines](CON
 
 Before beginning the tests, it is be helpful to- 
    - Understand the [pitfalls](./0.Setting-the-Stage/Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
+   - Understand the additional [complexity](./0.Setting-the-Stage/Challenges.md) that comes with evaluating a data visualization and,
    - Equip yourself with the [testing mindset](./0.Setting-the-Stage/TestingMindset.md) in order to properly set expectations.
 
 1. **Follow best practices**
