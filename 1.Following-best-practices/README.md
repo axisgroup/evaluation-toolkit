@@ -248,11 +248,10 @@ The [7 universal design principles](http://universaldesign.ie/What-is-Universal-
 
 # Principles in action
 
-## Data Visualization Checklist
- At a tactical level, particularly in regard to styling, it provides a reference to the data visualization checklist—prepared by Stephanie Evergreen and Ann K. Emery—to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official Axis Style Guide that provides reusable techniques that we follow at Axis Group to style charts.
- 
- ## Styleguide
- At a tactical level, particularly in regard to styling, it provides a reference to the data visualization checklist—prepared by Stephanie Evergreen and Ann K. Emery—to evaluate specific UI elements such as typography, color, and arrangement. Additionally, it also links to the official Axis Style Guide that provides reusable techniques that we follow at Axis Group to style charts.
+ At a tactical level, particularly in regard to styling, the following resources serve as excellent examples of these principles being applied in a data visualization context.
+## [Data Visualization Checklist](http://annkemery.com/checklist/)
+## [Policyviz Styleguide Collection](https://policyviz.com/2016/11/30/style-guides/)
+
 
 # References
 
