@@ -4,6 +4,7 @@ Once you are done evaluating your prototype,the next step is to analyze the resu
 
 ### Analyzing results
 
+![Analyzing Results](evaluation-toolkit/4.Conveying-Test-Results/Analyzing test results.jpg)
 
 "Note the severity of the problems on a three- or four-point scale. For example:  
 Critical:  If we do not fix this, users will not be able to complete the scenario.
