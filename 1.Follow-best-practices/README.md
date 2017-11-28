@@ -53,7 +53,7 @@ a new question every time. This is a dynamic we refer to as the difference betwe
 cows and herding cats.
 ```
 
-[Here](/1.Follow-best-practices/https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a47050) is an excellent article that clarifies the semantics of 'exploratory' interfaces in data visualization. 
+[Here](https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a47050) is an excellent article that clarifies the semantics of 'exploratory' interfaces in data visualization. 
 
 To sum up, ask the following questions when making decisions-
 
