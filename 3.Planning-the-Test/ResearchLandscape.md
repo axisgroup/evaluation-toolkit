@@ -12,8 +12,6 @@ The following **3-dimensional framework** with the following axes helps us simpl
 
 - Context of Use
 
-  ​
-
 ### Attitudinal vs. Behavioral
 According to Rohrer's article "this distinction can be summed up by contrasting **"what people say"** versus **"what people do"** (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments."
 
