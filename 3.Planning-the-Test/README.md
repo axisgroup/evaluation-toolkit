@@ -12,7 +12,6 @@ And while at first this choice can seem overwhelming, it is important to realize
 ## Choosing the right test
 
 ### Overview of UX Research Landscape
-Before we dive deep into specific methods that make sense in the Axis Design context we will take a quick broad look at the overall research landscape.
 
 This section explores the wide array of research methods available to researchers based on Christian Rohrer's—Chief Design Officer in the Consumer Division at McAfee,Inc.—excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods) for NNGroup.
 
