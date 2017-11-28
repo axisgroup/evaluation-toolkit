@@ -46,7 +46,7 @@ Before beginning the tests, it is be helpful to-
 
 4. **Act on your findings/Conveying Test Results**
 
-   Use this [Checklist of potential actions](./4.Conveying-Test-Results/Checklist-of-potential-actions.md) to recommend changes that could be made to the design inorder to address important usability issues. 
+   Use this [Checklist of potential actions](./5.Act-on-your-findings/Checklist-of-potential-actions.md) to recommend changes that could be made to the design inorder to address important usability issues. 
 
 ## Axis Design Sprint Testing Template
 
