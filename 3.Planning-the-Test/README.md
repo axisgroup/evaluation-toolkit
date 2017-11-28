@@ -1,6 +1,6 @@
 # Planning your Test
 
-Usability testing can uncover *all kinds* of feedback. As such, the foremost step in planning our test is picking a direction for the test. The previous sections help us frame questions about what we want to get out of the test but there is still the lingering question-how do you actually execute the test?
+Usability testing can uncover *all kinds* of feedback. As such, the foremost step in planning our test is picking a direction for the test. The previous sections help us frame questions about what we want to get out of the test but there is still the lingering question—how do you actually execute the test?
 
 A quick search on Usability.gov reveals more than just a few methods to garner feedback from users from—baseline [usability testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html) on an existing product/service to [first click testing](https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html) to make sure our users go down the right path to satisfaction [surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html) to see how our product/service  fares in the real world.
 
