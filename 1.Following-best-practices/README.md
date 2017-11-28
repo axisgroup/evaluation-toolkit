@@ -48,7 +48,8 @@ The [Axis Group Reference Sheet](./Design-Reference-Sheet.pdf) provides some exa
 
 ```
 3. Reporting vs. exploration: For all the things that a dashboard can be, it cannot be a  
-generic analysis tool. It cannot be designed to slice and dice data to explore and answer   a new question every time. This is a dynamic we refer to as the difference between herding   
+generic analysis tool. It cannot be designed to slice and dice data to explore and answer
+a new question every time. This is a dynamic we refer to as the difference between herding   
 cows and herding cats.
 ```
 
@@ -208,8 +209,6 @@ A few tactics to design compact dashboards:
 2. Increase data-ink ratio by leveraging data dense visualization techniques such as small multiples, glyphs, sparklines etc.
 
 
-
-
 ### ![](/1.Following-best-practices/Images/selection.png)
 
 ###  Minimize Choices
@@ -217,13 +216,11 @@ A few tactics to design compact dashboards:
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
 
-
 ### ![](/1.Following-best-practices/Images/redundancy.png)
 
 ###  Redundancy in Perceptual Cues, Not Information
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant. 
-
 
 
 ### ![](/1.Following-best-practices/Images/link.png)
@@ -235,12 +232,9 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 ![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
 
 
+### ![](/1.Following-best-practices/Images/accessibility.png)
 
-
-
-###![](/1.Following-best-practices/Images/accessibility.png)
-
-###Accessibility and Universal Design
+### Accessibility and Universal Design
 
 The [7 universal design principles](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) were developed to assist in the guiding and evaluating of design, for the purpose of creating more usable products and environments for all people. 
 
@@ -248,11 +242,11 @@ Access
 
 [The A11y Project](http://a11yproject.com) is a great resource for accessible design, which describes the process of ensuring that a design can also be used by people with a variety of disabilities. 
 
-###Consistency and Standards
+### Consistency and Standards
 
-###Help users recognize, diagnose, and recover from errors
+### Help users recognize, diagnose, and recover from errors
 
-###Help and Documentation
+### Help and Documentation
 
 
 
