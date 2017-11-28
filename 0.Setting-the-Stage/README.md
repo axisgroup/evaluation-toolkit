@@ -44,7 +44,7 @@ Based on this heauristic approach we advocate the following-
 
 Before we dive deeper into any of these individual steps, it is be helpful to:
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them
-- Understand the additionsl [challenges](Chellenges.md) that come with evaluating a data visualization and, 
+- Understand the additionsl [challenges](Challenges.md) that come with evaluating a data visualization and, 
 - Equip yourself with the [testing mindset](TestingMindset.md) in order to properly set expectations.
 
 
