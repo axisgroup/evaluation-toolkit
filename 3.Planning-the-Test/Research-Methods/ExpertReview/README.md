@@ -9,7 +9,7 @@ As per Usability.gov—
 A heuristic evaluation however is not a substitute for a usability testing. "You are not your user" is one of the core principles of UX and the testing process is no exception. However, having said that, the heuristic method is a great way to get quick feedback early in the project. Additionally, it helps iron out some of the minor usability issues that would be a distraction to your user and focus on the core research questions for your usability test.
 
 https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html
-
+https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
 https://www.nngroup.com/articles/false-consensus/
 
 ### How to do it?
