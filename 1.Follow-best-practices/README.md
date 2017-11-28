@@ -81,7 +81,7 @@ To sum up, ask the following questions when making decisions-
 
 **Separate news from the noise**: Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
 
-![Contrast](/1.Follow-best-practices/http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
+![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
 
 
 
