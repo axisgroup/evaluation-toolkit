@@ -24,7 +24,7 @@ The foremost mantra we follow when designing visualization
 
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
-### ![](/1.Following-best-practices/images/hierarchy.png) 
+### ![](/1.Following-best-practices/Images/hierarchy.png)
 
 ### Information Discrimination
 
@@ -64,7 +64,7 @@ To sum up, ask the following questions when making decisions-
 
 
 
-### ![](/1.Following-best-practices/images/cognition.png) 
+### ![](/1.Following-best-practices/Images/cognition.png) 
 
 ### Reduce Cognitive burden
 
@@ -146,7 +146,7 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
 
-####![](/1.Following-best-practices/images/context.png)
+####![](/1.Following-best-practices/Images/context.png)
 
 ### Context matters
 
@@ -157,7 +157,7 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 Remember that you will not be there to explain things when your users are interacting with the dashboard, so provide all the text, labels, and instruction necessary to give them context. Providing context isn't limited to writing instructional information; it can also include information about how data has changed since last month, when the data was last updated, whether the data is normal or abnormal, what the macro trends are, and so on.
 
-###![](/1.Following-best-practices/images/flexibility.png)
+###![](/1.Following-best-practices/Images/flexibility.png)
 
 ###Flexibility
 
@@ -165,7 +165,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 
 
-### ![](/1.Following-best-practices/images/status.png) 
+### ![](/1.Following-best-practices/Images/status.png) 
 
 ### Visibility of Current Selection / System Status
 
@@ -180,7 +180,7 @@ Continually keep users updated with what current selections they've applied to t
 
 Make sure the current state selected in checkboxes, toggles, and dropdowns are also clearly visible.
 
-### ![](/1.Following-best-practices/images/action.png)
+### ![](/1.Following-best-practices/Images/action.png)
 
 ###  Actionability
 
@@ -192,7 +192,7 @@ Enable users to not just complete tasks quickly and get easy insights from their
 
 
 
-### ![](/1.Following-best-practices/images/compact.png)
+### ![](/1.Following-best-practices/Images/compact.png)
 
 ###  Compactness
 
@@ -210,7 +210,7 @@ A few tactics to design compact dashboards:
 
 
 
-### ![](/1.Following-best-practices/images/selection.png)
+### ![](/1.Following-best-practices/Images/selection.png)
 
 ###  Minimize Choices
 
@@ -218,7 +218,7 @@ To the extent possible reduce the number of choices a user has to make. Less is 
 
 
 
-### ![](/1.Following-best-practices/images/redundancy.png)
+### ![](/1.Following-best-practices/Images/redundancy.png)
 
 ###  Redundancy in Perceptual Cues, Not Information
 
@@ -226,7 +226,7 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 
 
-### ![](/1.Following-best-practices/images/link.png)
+### ![](/1.Following-best-practices/Images/link.png)
 
 ###  Content as Navigation
 
@@ -238,7 +238,7 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 
 
 
-###![](/1.Following-best-practices/images/accessibility.png)
+###![](/1.Following-best-practices/Images/accessibility.png)
 
 ###Accessibility and Universal Design
 
