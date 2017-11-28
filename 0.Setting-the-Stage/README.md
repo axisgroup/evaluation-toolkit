@@ -37,10 +37,10 @@ How then can designers balance the need for robust testing versus quick turnarou
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
 Based on this heauristic approach we advocate the following-
-1. [Follow best practices, don't re-invent the wheel](../1.Following-best-practices)
-2. [Know what to measure](../2.Determining-what-to-measure)
-3. [Know how to measure](../3.Planning-the-Test)
-4. [Act on your findings](/4.Conveying-Test-Results)
+1. [Follow best practices, don't re-invent the wheel](../1.Follow-best-practices)
+2. [Know what to measure](../2.Determine-research-methods)
+3. [Know how to measure](../3.Plan-the-Test)
+4. [Act on your findings](/4.Act-on-your-findings)
 
 Before we dive deeper into any of these individual steps, it is be helpful to:
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them
