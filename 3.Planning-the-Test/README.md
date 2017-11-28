@@ -4,9 +4,15 @@ Usability testing can uncover *all kinds* of feedback. **The foremost step in pl
 
 The next step is for us to apply research methods and test with our users.  A quick search on Usability.gov reveals more than just a few methods to garner feedback from users from—baseline [usability testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html) on an existing product/service to [first click testing](https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html) to make sure our users go down the right path to satisfaction [surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html) to see how our product/service  fares in the real world.
 
-And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. Before we dive deep into specific methods that make sense in the Axis Design context we will take a quick broad look at the overall research landscape.
+And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. In the next section we will attempt to break down the 
 
-## Overview of UX Research Landscape
+
+## Chooseing the right users
+
+## Chooseing the right test
+
+### Overview of UX Research Landscape
+Before we dive deep into specific methods that make sense in the Axis Design context we will take a quick broad look at the overall research landscape.
 
 This section explores the wide array of research methods available to researchers based on Christian Rohrer's—Chief Design Officer in the Consumer Division at McAfee,Inc.—excellent article [When to Use Which User-Experience Research Methods](When to Use Which User-Experience Research Methods) for NNGroup.
 
@@ -18,11 +24,11 @@ The following **3-dimensional framework** with the following axes helps us simpl
 - Qualitative vs. Quantitative
 - Context of Use
 
-### Attitudinal vs. Behavioral
+#### Attitudinal vs. Behavioral
 
 According to Rohrer's article "this distinction can be summed up by contrasting **"what people say"** versus **"what people do"** (very often the two are quite different). The purpose of attitudinal research is usually to understand or measure people's stated beliefs, which is why attitudinal research is used heavily in marketing departments."
 
-### Quantitative vs. Qualitative
+#### Quantitative vs. Qualitative
 
 Both quantitative and qualitative methods are valid for evaluating visualizations. You can choose to just go with one method or use a combination of both depending what you are trying to measure. Rohrer captures the essence of these two methods when he says—
 
@@ -36,7 +42,7 @@ He then continues to explain what these methods are suited for—
 
 This graphic from the NNGroup website succinctly sums up the landscape thus far—![User Research Methods Landscape](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/ux-landscape-questions.png)
 
-### The Context of Product Use
+#### The Context of Product Use
 
 However there is a third dimension that has to do with direct and indirect use of the product of the service and the setting therein. In UXPin's [The Guide to Usability Testing](http://gibbon.co/c/1ada73ea-1f19-450d-bc35-64c6c436bcae/the-guide-to-usability-testing-free-ebook-by-ux) they have summarized Rohrer's note as—
 
@@ -59,7 +65,7 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 
 ```
 
-### Other Considerations
+#### Other Considerations
 
 In addition to the dimensions described by Rohrer, your test methodology also depends on-
 
@@ -67,13 +73,13 @@ In addition to the dimensions described by Rohrer, your test methodology also de
 - functionality afforded by the prototype
 - access to testing tools and equipment
 
-## Revisiting goals of testing
+### Revisiting goals of testing
 
 - disagnostic recommend improvements
 - reduce risk of redesign
 - make it work in the specific context, generalizatbility is not important
 
-## Putting a stake in the ground
+### Putting a stake in the ground
 
 WIP
 
