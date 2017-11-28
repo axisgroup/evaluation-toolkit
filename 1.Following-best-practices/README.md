@@ -246,6 +246,7 @@ The [7 universal design principles](http://universaldesign.ie/What-is-Universal-
 
 ### Help and Documentation
 
+# Data Visualization Checklist
 
 
 ## References
@@ -268,6 +269,3 @@ https://www.usability.gov/what-and-why/visual-design.html
 
 https://designschool.canva.com/blog/design-rules/
 
-## Axis Style Guide
-The [Axis Group Visual Style Guide for Dashboards](https://sites.google.com/view/style-guide/guidelines) attempts to codify best practices for designing charts and includes low-level details such as choosing chart colors and designing axis labels as appropriate. The following is a sample snippet from the style guide-
-![Common Styling](../Assets/images/Common-Styling.png)
