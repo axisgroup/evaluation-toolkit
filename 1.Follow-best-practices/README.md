@@ -166,7 +166,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 
 
-### ![](/1.Follow-best-practices/Images/status.png) 
+### ![](/1.Follow-best-practices/Images/visibility.png) 
 
 ### Visibility of Current Selection / System Status
 
