@@ -69,7 +69,6 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 
 In addition to the dimensions described by Rohrer, your test methodology also depends on-
 
-- number of users
 - functionality afforded by the prototype
 - access to testing tools and equipment
 
