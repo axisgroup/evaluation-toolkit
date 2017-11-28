@@ -1,5 +1,9 @@
 #  Know what you are testing
 
+The following image from Usability.gov describes some user performance metrics that can be paired with a task based test to gather quantitative data about our application.
+
+While these metrics are a good start and seem fairly straightforward, quantitative tests such as this require a large sample size to produce meaningful results. Additionally, it is hard to come up with diagnostic recommendations based on these numbers alone. As such, we came up with a basic "Useful, Usable, Desirable" framework that poses broader questions to tease out where and why an application's usability falls short.
+
 ## Useful, Usable, Desirable Framework
 
 While there are many different ways to categorize qualities of a visualization we will look at them from the lens of Usefulness, Usability and Desirability. The rationale behind this is that these roughly map to reflective, behavioral and visceral feedback from users.
