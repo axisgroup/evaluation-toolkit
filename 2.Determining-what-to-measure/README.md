@@ -3,7 +3,9 @@
 The following image from Usability.gov describes some user performance metrics that can be paired with a task based test to gather quantitative data about our application.
 ![](../Assets/images/usability-basics.png)
 
-While these metrics are a good start and seem fairly straightforward, quantitative tests such as this require a large sample size to produce meaningful results. Additionally, it is hard to come up with diagnostic recommendations based on these numbers alone. As such, we came up with a basic "Useful, Usable, Desirable" framework that poses broader questions to tease out where and why an application's usability falls short.
+*Source: [Usability.gov](https://www.usability.gov/get-involved/blog/2013/09/measurable-usability-goals.html)*
+
+While these metrics are a good start and seem fairly straightforward, quantitative tests such as this require a large sample size to produce meaningful results. Additionally, it is hard to come up with diagnostic recommendations based on these numbers alone. As such, we came up with a basic **"Useful, Usable, Desirable"** framework that poses broader questions to tease out where and why an application's usability falls short.
 
 ## Useful, Usable, Desirable Framework
 
