@@ -4,7 +4,7 @@ Once you are done evaluating your prototype,the next step is to analyze the resu
 
 ### Analyzing results
 
-** Quantitative data**  
+**Quantitative data**  
 Record quantitative results in a spreadsheet. This can include ratings from questionnaire, if a task was completed, time to complete a task etc. Note that time to complete a task might not be useful for testing data visualizations and questionnaire ratings might be a better way to measure tasks. 
 This is an example of a 
 ![sample quantitative template](https://www.dropbox.com/s/33q07ixbsq8q2yc/User%20Session%20Analysis.xlsx?dl=0). 
@@ -25,7 +25,7 @@ Serious:  Many users will be frustrated if we do not fix this; they may give up.
 Minor:  Users are annoyed, but this does not keep them from completing the scenario. This should be revisited later."
 Some factors that influence the severity of the problem are frequency of issues and impact of issues.
 
-The final step is to generate solution ideas for each issue starting with the most critical issues. Use the potential actions checklist to identify what changes can be made.   
+The final step is to generate solution ideas for each issue starting with the most critical issues. Use the ![potential actions checklist](evaluation-toolkit/4.Conveying-Test-Results/) to identify what changes can be made.   
  
 
 ### Conveying findings  
