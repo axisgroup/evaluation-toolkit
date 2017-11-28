@@ -249,7 +249,7 @@ The [7 universal design principles](http://universaldesign.ie/What-is-Universal-
 # Data Visualization Checklist
 
 
-## References
+# References
 
 https://www.mat.ucsb.edu/g.legrady/academic/courses/11w259/schneiderman.pdf
 
