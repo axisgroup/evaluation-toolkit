@@ -31,7 +31,8 @@ The final step is to generate solution ideas for each issue starting with the mo
 ### Conveying findings  
 The methods used to convey findings can range from detailed reports, presentations to emails. This depends on your audience and time frame.   
 
-An example method of conveying results is a finding and recommendation matrix.   (https://www.uxmatters.com/mt/archives/2012/02/images/communicating_fig5.png)
+An example method of conveying results is a finding and recommendation matrix.   
+![finding and recommendation matrix](https://www.uxmatters.com/mt/archives/2012/02/images/communicating_fig5.png)
 
 
 
