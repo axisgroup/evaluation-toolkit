@@ -1,15 +1,15 @@
 # Planning your Test
 
-Usability testing can uncover *all kinds* of feedback. **The foremost step in planning our test is picking a direction for the test.** The previous sections help us pose better questions about what we want to get out of the test.
+Usability testing can uncover *all kinds* of feedback. **The foremost step in planning our test is picking a direction for the test.** The previous sections help us frame questions about what we want to get out of the test.
 
 The next step is for us to apply research methods and test with our users.  A quick search on Usability.gov reveals more than just a few methods to garner feedback from users from—baseline [usability testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html) on an existing product/service to [first click testing](https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html) to make sure our users go down the right path to satisfaction [surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html) to see how our product/service  fares in the real world.
 
-And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. In the next section we will attempt to break down the 
+And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. In the next section we will attempt to break down the various steps involved when planning a usability test and provide some guidelines for each.
 
 
-## Chooseing the right users
+## Choosing the right users
 
-## Chooseing the right test
+## Choosing the right test
 
 ### Overview of UX Research Landscape
 Before we dive deep into specific methods that make sense in the Axis Design context we will take a quick broad look at the overall research landscape.
@@ -73,13 +73,13 @@ In addition to the dimensions described by Rohrer, your test methodology also de
 - functionality afforded by the prototype
 - access to testing tools and equipment
 
-### Revisiting goals of testing
+## Revisiting goals of testing
 
 - disagnostic recommend improvements
 - reduce risk of redesign
 - make it work in the specific context, generalizatbility is not important
 
-### Putting a stake in the ground
+## Putting a stake in the ground
 
 WIP
 
