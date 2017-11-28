@@ -147,7 +147,7 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
 
-####![](/1.Following-best-practices/Images/context.png)
+### ![](/1.Following-best-practices/Images/context.png)
 
 ### Context matters
 
@@ -158,9 +158,9 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 Remember that you will not be there to explain things when your users are interacting with the dashboard, so provide all the text, labels, and instruction necessary to give them context. Providing context isn't limited to writing instructional information; it can also include information about how data has changed since last month, when the data was last updated, whether the data is normal or abnormal, what the macro trends are, and so on.
 
-###![](/1.Following-best-practices/Images/flexibility.png)
+### ![](/1.Following-best-practices/Images/flexibility.png)
 
-###Flexibility
+### Flexibility
 
 Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designing the dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularly relevant information. 
 
@@ -237,8 +237,6 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 ### Accessibility and Universal Design
 
 The [7 universal design principles](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) were developed to assist in the guiding and evaluating of design, for the purpose of creating more usable products and environments for all people. 
-
-Access
 
 [The A11y Project](http://a11yproject.com) is a great resource for accessible design, which describes the process of ensuring that a design can also be used by people with a variety of disabilities. 
 
