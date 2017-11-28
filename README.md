@@ -1,7 +1,7 @@
 # Evaluation Toolkit
 This repo is a collection of documents intended to help guide the testing process in a data visualization context. It contains guidelines that should not be followed exactly. It is written by and for the Axis Design team although it can also act as a point of reference for data vis practitioners in general.
 
-## Know your guidelines before you break them
+## Goals of this repository
 
 The goal of this repo is to serve as a **toolkit** that helps deconstruct the testing process into manageable chunks.
 This toolkit aims to:
