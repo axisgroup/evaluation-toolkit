@@ -25,7 +25,7 @@ Serious:  Many users will be frustrated if we do not fix this; they may give up.
 Minor:  Users are annoyed, but this does not keep them from completing the scenario. This should be revisited later."
 Some factors that influence the severity of the problem are frequency of issues and impact of issues.
 
-The final step is to generate solution ideas for each issue starting with the most critical issues. Use the ![potential actions checklist](evaluation-toolkit/4.Conveying-Test-Results/) to identify what changes can be made.   
+The final step is to generate solution ideas for each issue starting with the most critical issues. Use the ![potential actions checklist](evaluation-toolkit/4.Conveying-Test-Results/Checklist-of-potential-actions.md) to identify what changes can be made.   
  
 
 ### Conveying findings  
@@ -37,6 +37,6 @@ An example method of conveying results is a finding and recommendation matrix.  
 
 ### References  
 ![Medium](https://medium.com/user-research/first-time-usability-analyzing-results-7eb748ede9eb)  
-![Usability.gov](https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
-![UX matters](https://www.uxmatters.com/mt/archives/2012/02/communicating-user-research-findings.php)
+![Usability.gov](https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)  
+![UX matters](https://www.uxmatters.com/mt/archives/2012/02/communicating-user-research-findings.php)  
 
