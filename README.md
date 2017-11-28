@@ -52,6 +52,8 @@ Before beginning the tests, it is be helpful to-
 
    Use this [Checklist of potential actions](./5.Act-on-your-findings/Checklist-of-potential-actions.md) to recommend changes that could be made to the design inorder to address important usability issues. 
 
+## Putting it all together
+
 ## Axis Design Sprint Testing Template
 
 Throughout the sprint we want to track how research questions mature as the design sprint progresses and what methods were used to answer those questions. Copy over this [Google Sheets document](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) to your own drive to help guide and document your testing process.
