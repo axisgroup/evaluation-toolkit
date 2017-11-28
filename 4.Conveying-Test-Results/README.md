@@ -25,14 +25,14 @@ Serious:  Many users will be frustrated if we do not fix this; they may give up.
 Minor:  Users are annoyed, but this does not keep them from completing the scenario. This should be revisited later."
 Some factors that influence the severity of the problem are frequency of issues and impact of issues.
 
-The final step is to generate solution ideas for each issue starting with the most critical issues. Use the [potential actions checklist](evaluation-toolkit/4.Conveying-Test-Results/Checklist-of-potential-actions.md) to identify what changes can be made.   
+The final step is to generate solution ideas for each issue starting with the most critical issues. Use the ![potential actions checklist](evaluation-toolkit/4.Conveying-Test-Results/Checklist-of-potential-actions.md) to identify what changes can be made.   
  
 
 ### Conveying findings  
 The methods used to convey findings can range from detailed reports, presentations to emails. This depends on your audience and time frame.   
 
-An example method of conveying results is a finding and recommendation matrix.   
-[finding and recommendation matrix](https://www.uxmatters.com/mt/archives/2012/02/images/communicating_fig5.png)
+An example method of conveying results is a findings and recommendations matrix.   
+![finding and recommendation matrix](https://www.uxmatters.com/mt/archives/2012/02/images/communicating_fig5.png)
 
 
 
