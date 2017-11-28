@@ -119,6 +119,9 @@ Safety involves protecting users from undesirable situations and helping them av
 - Is there a variety of chart types? 
 - Do the visualizations lend themselves to interesting and exciting insights? 
 
+### Memorability
+- After visiting the site, can a user remember enough to use it effectively in future visits?
+
 ## References:
 https://docs.google.com/presentation/d/1KxPdkCXFppFRvTNw04feZEBKa_acaJqFyZGx4mptOLI/edit#slide=id.g69bb1bfae_02
 
