@@ -10,7 +10,7 @@ Without good communication, designers who are unaware of solutions may be forced
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
 
-### ![](images/detailsondemand.png) 
+### ![](/1.Following-best-practices/Images/detailsondemand.png) 
 
 ### Gradual Reveal
 
@@ -24,7 +24,7 @@ The foremost mantra we follow when designing visualization
 
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
-### ![](images/hierarchy.png) 
+### ![](/1.Following-best-practices/images/hierarchy.png) 
 
 ### Information Discrimination
 
@@ -52,7 +52,7 @@ generic analysis tool. It cannot be designed to slice and dice data to explore a
 cows and herding cats.
 ```
 
-[Here](https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a47050) is an excellent article that clarifies the semantics of 'exploratory' interfaces in data visualization. 
+[Here](/1.Following-best-practices/https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a47050) is an excellent article that clarifies the semantics of 'exploratory' interfaces in data visualization. 
 
 To sum up, ask the following questions when making decisions-
 
@@ -64,7 +64,7 @@ To sum up, ask the following questions when making decisions-
 
 
 
-### ![](images/cognition.png) 
+### ![](/1.Following-best-practices/images/cognition.png) 
 
 ### Reduce Cognitive burden
 
@@ -80,7 +80,7 @@ To sum up, ask the following questions when making decisions-
 
 **Separate news from the noise**: Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
 
-![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
+![Contrast](/1.Following-best-practices/http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
 
 
 
@@ -146,7 +146,7 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
 
-####![](images/context.png)
+####![](/1.Following-best-practices/images/context.png)
 
 ### Context matters
 
@@ -157,7 +157,7 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 Remember that you will not be there to explain things when your users are interacting with the dashboard, so provide all the text, labels, and instruction necessary to give them context. Providing context isn't limited to writing instructional information; it can also include information about how data has changed since last month, when the data was last updated, whether the data is normal or abnormal, what the macro trends are, and so on.
 
-###![](images/flexibility.png)
+###![](/1.Following-best-practices/images/flexibility.png)
 
 ###Flexibility
 
@@ -165,7 +165,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 
 
-### ![](images/status.png) 
+### ![](/1.Following-best-practices/images/status.png) 
 
 ### Visibility of Current Selection / System Status
 
@@ -180,7 +180,7 @@ Continually keep users updated with what current selections they've applied to t
 
 Make sure the current state selected in checkboxes, toggles, and dropdowns are also clearly visible.
 
-### ![](images/action.png)
+### ![](/1.Following-best-practices/images/action.png)
 
 ###  Actionability
 
@@ -192,7 +192,7 @@ Enable users to not just complete tasks quickly and get easy insights from their
 
 
 
-### ![](images/compact.png)
+### ![](/1.Following-best-practices/images/compact.png)
 
 ###  Compactness
 
@@ -210,7 +210,7 @@ A few tactics to design compact dashboards:
 
 
 
-### ![](images/selection.png)
+### ![](/1.Following-best-practices/images/selection.png)
 
 ###  Minimize Choices
 
@@ -218,7 +218,7 @@ To the extent possible reduce the number of choices a user has to make. Less is 
 
 
 
-### ![](images/redundancy.png)
+### ![](/1.Following-best-practices/images/redundancy.png)
 
 ###  Redundancy in Perceptual Cues, Not Information
 
@@ -226,7 +226,7 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 
 
-### ![](images/link.png)
+### ![](/1.Following-best-practices/images/link.png)
 
 ###  Content as Navigation
 
@@ -238,7 +238,7 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 
 
 
-###![](images/accessibility.png)
+###![](/1.Following-best-practices/images/accessibility.png)
 
 ###Accessibility and Universal Design
 
