@@ -44,9 +44,9 @@ Before beginning the tests, it is be helpful to-
 
    Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology.
    
-4. **C(know how to measure)**
+4. **Conduct the test**
 
-   Now that you have pinpointed the relevant questions and attributes, you can use reference this page to devise a testing plan and methodology. 
+   Execute your plan and collect feedback from users and evaluators.
 
 5. **Act on your findings/Conveying Test Results**
 
