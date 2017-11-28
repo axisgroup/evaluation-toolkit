@@ -1,11 +1,10 @@
 # Planning your Test
 
-Usability testing can uncover *all kinds* of feedback. **The foremost step in planning our test is picking a direction for the test.** The previous sections help us frame questions about what we want to get out of the test.
+Usability testing can uncover *all kinds* of feedback. As such, the foremost step in planning our test is picking a direction for the test. The previous sections help us frame questions about what we want to get out of the test but there is still the lingering question of how do you actually execute the test?
 
-The next step is for us to apply research methods and test with our users.  A quick search on Usability.gov reveals more than just a few methods to garner feedback from users from—baseline [usability testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html) on an existing product/service to [first click testing](https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html) to make sure our users go down the right path to satisfaction [surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html) to see how our product/service  fares in the real world.
+A quick search on Usability.gov reveals more than just a few methods to garner feedback from users from—baseline [usability testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html) on an existing product/service to [first click testing](https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html) to make sure our users go down the right path to satisfaction [surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html) to see how our product/service  fares in the real world.
 
 And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. In the next section we will attempt to break down the various steps involved when planning a usability test and provide some guidelines for each.
-
 
 ## Choosing the right users
 
