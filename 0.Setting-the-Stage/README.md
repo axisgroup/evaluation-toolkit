@@ -40,7 +40,7 @@ Based on this heauristic approach we advocate the following-
 1. [Follow best practices, don't re-invent the wheel](../1.Follow-best-practices)
 2. [Know what to measure](../2.Determine-research-methods)
 3. [Know how to measure](../3.Plan-the-test)
-4. [Act on your findings](/4.Act-on-your-findings)
+4. [Act on your findings](/5.Act-on-your-findings)
 
 Before we dive deeper into any of these individual steps, it is be helpful to:
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them
