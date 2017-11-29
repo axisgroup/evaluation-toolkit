@@ -1,28 +1,23 @@
-[TOC]
-Table of contents
-=================
-
+# Table of contents
   * [Introduction](#introduction)
   * [General Design Principles](#general-design-principles)
-    * [Gradual Reveal](#gradual-reveal)
-    * [Information Discrimination](#information-discrimination)
-    * [Reduce Cognitive Burden](#reduce-cognitive-burden)
+    * [Gradual reveal](#gradual-reveal)
+    * [Information discrimination](#information-discrimination)
+    * [Reduce cognitive burden](#reduce-cognitive-burden)
     * [Context matters](#context-matters)
     * [Flexibility](#flexibility)
-    * [Visibility of current selection/system status](#visibility-of-current-selection-system-status)
+    * [Visibility of current selection/system status](#visibility-of-current-selectionsystem-status)
     * [Actionability](#actionability)
     * [Compactness](#compactness)
     * [Minimize choices](#minimize-choices)
-    * [Redundancy in perceptual cues, not information]
+    * [Redundancy in perceptual cues, not information](#redundancy-in-perceptual-cues-not-information)
     * [Content as navigation](#content-as-navigation)
     * [Accessibility and Universal Design](#accessibility-and-universal-design)
     * [Consistency and Standards](#consistency-and-standards)
-    * [Help users recognize, diagnose, and recover from errors]()
-    * [Help and Documentation]()
+    * [Help users recognize, diagnose, and recover from errors](#help-users-recognize-diagnose-and-recover-from-errors)
+    * [Help and Documentation](#help-and-documentation)
   * [Principles in action](#principles-in-action)
   * [References](#references)
-
-
 
 # Introduction
 
@@ -39,7 +34,7 @@ Here is quick list of all the design principles listed here
 
 ![](/1.Follow-best-practices/Images/detailsondemand.png) 
 
-## Gradual Reveal
+## Gradual reveal
 
 The foremost mantra we follow when designing visualization
 
@@ -53,7 +48,7 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes refe
 
 ![](/1.Follow-best-practices/Images/hierarchy.png)
 
-## Information Discrimination
+## Information discrimination
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.” Amanda Cox, NY Times
 
@@ -94,7 +89,7 @@ To sum up, ask the following questions when making decisions-
 
 ![](/1.Follow-best-practices/Images/cognition.png) 
 
-## Reduce Cognitive burden
+## Reduce cognitive burden
 
 (Because cognition is a scarce resource.)
 

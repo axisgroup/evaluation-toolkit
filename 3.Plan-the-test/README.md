@@ -92,21 +92,19 @@ Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-te
 > * Open-ended or Closed task
 > 
 > **Scenario task or Direct task**  
-> A scenario task is presented as a mini user story: often it has the character, the context and the necessary details for achieving the goal. For example, to test the browser and bottom menu on the phone:
-> "You are holding a dinner party this Saturday. You want to find a chicken curry recipe from the BBC food site."
+> A scenario task is presented as a mini user story: often it has the character, the context and the necessary details for achieving the goal.
 > 
-> A direct task is purely instructional. For instance, to use the above example:
-> "Find a chicken curry recipe from the BBC food site."
+> A direct task is purely instructional. 
 > 
 > Among these two types, we often use the scenario tasks in the testing. This is because it emulates real-world context that participants can easily relate to, and consequently they are more likely to behave in a natural way. 
 > 
+> 
 > **Closed task or Open-ended task**  
-> A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task. For example, to test the telephony on the phone:
-> "You want to text your landlord to say you will give her the rent tomorrow. Her number is: 7921233290."
+> A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task.
 > 
 > An open-ended task contains minimum information and less specific direction as to what you want a participant to do. It gives users more freedom to explore the system.
-> For example, in our Ubuntu.com testing, designers wanted to understand what information was important for users to get to know about Ubuntu. I used the task: "You heard your friends mention something called ‘Ubuntu’. You are interested in it and want to find out more about what Ubuntu is and what it can offer you?"
 
+![](/Assets/images/task-types.png)
 ### Pick the right order
 It might make sense to place simpler tasks before more complex ones so users can familiarize themselves with the prototype at the beginning of the test. In some cases tasks are dependent on each other. For example, navigating to a home page could be the first task and reporting an issue on the home page could be the last task. Reversing the order would not make sense in this case. This is not always true though. Some tasks do not depend on each other and the order does not matter.
 
