@@ -2,13 +2,17 @@
 Table of contents
 =================
 
-  * [Introduction](https://github.com/axisgroup/evaluation-toolkit/blob/master/1.Follow-best-practices/README.md#introduction)
-  * [General Design Principles](https://github.com/axisgroup/evaluation-toolkit/blob/master/1.Follow-best-practices/README.md#general-design-principles)
-  * [Installation](#installation)
-  * [Usage](#usage)
-    * [STDIN](#stdin)
-    * [Local files](#local-files)
-    * [Remote files](#remote-files)
+  * [Introduction](#introduction)
+  * [General Design Principles](#general-design-principles)
+    * [Gradual Reveal](#stdin)
+    * [Information Discrimination(#local-files)
+    * [Reduce cognitive burden](#remote-files)
+     * [Attention](#remote-files)
+     * [Memory](#remote-files)
+     * [Computation](#mk)
+     * [Perception](#mk)
+     * [Easy Learnability](#mm)
+     * []
     * [Multiple files](#multiple-files)
     * [Combo](#combo)
   * [Tests](#tests)
