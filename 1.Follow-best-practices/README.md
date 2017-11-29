@@ -3,7 +3,9 @@
 
 # Introduction
 
-Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practices solutions to information visualisation design problems for those engaged in the practice. This list is a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
+Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practice solutions to information visualisation design problems for those engaged in the practice. It includes both a list of general design principles as well as a [Data Visualization Checklist](/1.Follow-best-practices/DataVizChecklist_May2016.pdf) for more tactical, styling-oriented evaluations.
+
+This list is a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
 
 ## General Design Principles
 
