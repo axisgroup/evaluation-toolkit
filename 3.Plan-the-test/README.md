@@ -97,16 +97,7 @@ WIP
 — sample size is limited
 
 
-### Prototype fidelity
-While some believe in testing early with rough prototypes and others advocate testing higher fidelity prototypes, we believe the best approach is to test at every fidelity possible — and as often as possible. Chris Farnum, the Senior Information Architect at Enlighten, explains the pros and cons of each type. As we’ll describe below, lower fidelity tests are better for testing concepts while higher fidelity tests are more suitable for testing advanced interactions.
-the best approach is to test at every fidelity possible
-Low fidelity: lo-fi prototype usability tests, including paper prototypes, can work at the early stages of development, but become impractical later on. Lo-fi prototypes also encourage more honest criticism, since it’s immediately clear that it’s just a work in progress.
-However, at the later stages, when usability tests check advanced functionalities, lo-fi prototypes stop becoming helpful since you’ve hit the fidelity limit. This is especially true for paper prototypes, since you need a “human computer” to manipulate all the parts, and that can become extremely difficult as you add menus, interactions, pages, and elements.
-High fidelity: hi-fi prototype testing gives the user a near-realistic experience of what the final product will be like. Hi-fi prototypes are ideal for testing complex interactions and your solutions for usability issues discovered in earlier rounds of testing. However, unlike lo-fi prototypes, these are costlier to make.
-Medium fidelity: can’t decide between high or low fidelity? Mid-fi prototypes work best when you need a balance between fidelity and cost. If you’re only going to run one round of usability tests, go medium fidelity.
-
-
 ### Moderated or Unmoderated?
-One of the first questions usability testers ask is whether or not it should be moderated. While there are a lot of good reasons for unmoderated tests, for prototype tests we recommend moderation. Given the “incomplete” nature of prototypes, chances are that users will have questions about the UI that a moderator will have to answer.
+> One of the first questions usability testers ask is whether or not it should be moderated. While there are a lot of good reasons for unmoderated tests, for prototype tests we recommend moderation. Given the “incomplete” nature of prototypes, chances are that users will have questions about the UI that a moderator will have to answer.
 
 Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
