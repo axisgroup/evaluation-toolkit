@@ -1,5 +1,5 @@
 ## Why data visualization is inherently hard to test
-## *The complexity in our stars*
+*The complexity in our stars*
 
 ### Faster is not necessarily better
 
