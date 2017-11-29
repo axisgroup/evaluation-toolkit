@@ -45,7 +45,7 @@ https://www.nngroup.com/articles/false-consensus/
 - Put all results in a table
 ![Description of Results](/Assets/images/Description-of-Results.png)
 
-- Prepare a list of design implications or changes. You may categorize them as trivial, important and critical. Use the [Checklist of potential actions](/4.Conveying-Test-Results/Checklist-of-potential-actions.md) to aid you with this step.
+- Prepare a list of design implications or changes. You may categorize them as trivial, important and critical. Use the [Checklist of potential actions](/5.Act-on-your-findings/Checklist-of-potential-actions.md) to aid you with this step.
 
 ## Method in action
 [Example Test](https://docs.google.com/document/d/12lkOapgFpq19DPh4uikI3yrm2VwmA0ZeZgfRMYFuxVg/edit?usp=sharing)
