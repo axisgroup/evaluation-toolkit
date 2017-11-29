@@ -61,7 +61,7 @@ To break down the contents of each phase:
 
    Now comes the redesign and iteration. After conducting your tests, you'll need to analyze your results, then translate them into action items. This section provides resources on 
    * Resources on analyzing both quantitative and qualitative data 
-   * A [Checklist of potential actions](./5.Act-on-your-findings/Checklist-of-potential-actions.md) to recommended design and usability changes you can make based on feedback
+   * A [Checklist of potential actions](./5.Act-on-your-findings/Checklist-of-potential-actions.md) for design and usability changes you can make based on feedback
    * Guidelines to conveying your findings
 
 ## Putting it all together
