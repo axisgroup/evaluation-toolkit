@@ -2,7 +2,7 @@
 Table of contents
 =================
 
-  * [Introduction](#_Introduction)
+  * [Introduction](#Introduction)
   * [General Design Principles](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -16,7 +16,7 @@ Table of contents
 
 
 
-# Introduction
+# [Introduction](https://github.com/axisgroup/evaluation-toolkit/edit/master/1.Follow-best-practices/README.md#Introduction)
 
 Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practice solutions to information visualisation design problems for those engaged in the practice. It includes both a list of general design principles as well as a [Data Visualization Checklist](/1.Follow-best-practices/DataVizChecklist_May2016.pdf) for more tactical, styling-oriented evaluations.
 
