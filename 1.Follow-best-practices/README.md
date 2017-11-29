@@ -2,7 +2,7 @@
 Table of contents
 =================
 
-  * [Introduction](/README.md#introduction)
+  * [Introduction](/#introduction)
   * [General Design Principles](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
