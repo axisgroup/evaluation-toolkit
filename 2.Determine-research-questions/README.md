@@ -180,6 +180,6 @@ Once you have determined your most important criteria design criteria you should
 
 
 
-With this step complete you can fill out the *Research Question* and *What type of data is expected as the outcome?* columns in your copy of the [Google sheet template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0). Having done this, you can reference the [next section](../3.Planning-the-Test) to plan the details of your test.
+With this step complete you can fill out the *Research Question* and *What type of data is expected as the outcome?* columns in your copy of the [Google sheet template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0). Having done this, you can reference the [next section](../3.Plan-the-Test) to plan the details of your test.
 
 
