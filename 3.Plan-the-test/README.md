@@ -104,6 +104,7 @@ Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-te
 > An open-ended task contains minimum information and less specific direction as to what you want a participant to do. It gives users more freedom to explore the system.
 
 ![](/Assets/images/task-types.png)
+
 ### Pick the right order
 It might make sense to place simpler tasks before more complex ones so users can familiarize themselves with the prototype at the beginning of the test. In some cases tasks are dependent on each other. For example, navigating to a home page could be the first task and reporting an issue on the home page could be the last task. Reversing the order would not make sense in this case. This is not always true though. Some tasks do not depend on each other and the order does not matter.
 
