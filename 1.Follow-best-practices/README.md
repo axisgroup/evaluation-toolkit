@@ -9,7 +9,7 @@ Table of contents
     * [Reduce Cognitive Burden](#reduce-cognitive-burden)
     * [Context matters](#context-matters)
     * [Flexibility](#flexibility)
-    * [Visibility of current selection/system status](#visibility-of-current-selection--system-status)
+    * [Visibility of current selection/system status](#visibility-of-current-selection-system-status)
     * [Actionability](#actionability)
     * [Compactness](#compactness)
     * [Minimize choices](#minimize-choices)
