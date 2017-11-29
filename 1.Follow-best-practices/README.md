@@ -4,9 +4,9 @@ Table of contents
 
   * [Introduction](#introduction)
   * [General Design Principles](#general-design-principles)
-    * [Gradual Reveal](#stdin)
-    * [Information Discrimination(#local-files)
-    * [Reduce cognitive burden](#remote-files)
+    * [Gradual Reveal](#gradual-reveal)
+    * [Information Discrimination](#information-discrimination)
+    * [Reduce cognitive burden](#reduce-cognitive-burden)
    - * [Attention](#remote-files)
    - * [Memory](#remote-files)
    - * [Computation](#mk)
