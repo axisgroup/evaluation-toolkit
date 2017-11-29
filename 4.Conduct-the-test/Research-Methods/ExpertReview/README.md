@@ -3,7 +3,7 @@
 
 ### What is it?
 
-In a heuristic evaluation, experts in the field (i.e. UX designer, data vis practitioner, usability expert) review the dashboard and evaluate it based on accepted design principles. The results of the evaluation should lead to potential usability issues.
+In a heuristic evaluation, usability experts review the dashboard and evaluate it based on accepted design principles. The results of the evaluation should lead to potential usability issues.
 
 ### Why do it?
 
@@ -17,7 +17,7 @@ This method is most effective before testing with the user, so that obivious usa
 
 ### How to do it?
 
-1. Prepare a list of heuristic principles to measure against (in our case follow the Best Practices Guide, or pick criteria from the Knowing What to Measure Guide)
+1. Prepare a list of heuristic principles to measure against (in our case follow the [Best Practices Guide](/1.Follow-best-practices), or pick criteria from the [Useful, Usable, Desirable Framework](/2.Determine-research-questions))
 
 2. Recruit Experts
 
