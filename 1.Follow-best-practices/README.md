@@ -2,7 +2,7 @@
 Table of contents
 =================
 
-  * [Introduction](../#introduction)
+  * [Introduction](https://github.com/axisgroup/evaluation-toolkit/blob/master/1.Follow-best-practices/README.md#introduction)
   * [General Design Principles](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
