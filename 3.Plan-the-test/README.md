@@ -73,7 +73,7 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 ## Choosing the right tasks
 
 ### Choose purposeful tasks
-Usability Tests should be purposeful so as to not generate all kinds of feedback. Therefore, it is good to have specific tasks in mind when planning a Usability Test. Designing tasks should be a careful and thoughtful activity. For eg. in Jared Spool's example when he and his team were conducting a Usability test for IKEA, they had already started the  testing process.  
+Usability Tests should be purposeful so as to not generate all kinds of feedback. Therefore, it is good to have specific tasks in mind when planning a Usability Test. Designing tasks should be a careful and thoughtful activity. The example below descibes when Jared Spool was conducting a Usability test for IKEA with his team. 
 
 
 > The Task: “Find a bookcase.”  
@@ -82,6 +82,37 @@ Usability Tests should be purposeful so as to not generate all kinds of feedback
 > The Result: User behavior changed. Most clicked through the various categories, looking for some sort of storage solution. Few used Search, typing in phrases like “Shelves” and “Storage Systems”. And, nobody searched on “bookcase”.  
 > Takeaway: Tasks may direct users path in a way that is different from their context of use.You can get around this mistake by constantly exploring the “context of use.” When designing tasks, ask yourself, “What events or conditions in the world would motivate someone to use this design?” Use the answers as the primary formation of the tasks you create. 
 
+
+### Choose the right format
+Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/) on picking choosing the right test that has been quoted below
+
+> The tasks could be categorised into two main formats:
+> 
+> * Direct tasks or Scenario tasks
+> * Open-ended or Closed task
+> 
+> **Scenario task or Direct task**  
+> A scenario task is presented as a mini user story: often it has the character, the context and the necessary details for achieving the goal. For example, to test the browser and bottom menu on the phone:
+> "You are holding a dinner party this Saturday. You want to find a chicken curry recipe from the BBC food site."
+> 
+> A direct task is purely instructional. For instance, to use the above example:
+> "Find a chicken curry recipe from the BBC food site."
+> 
+> Among these two types, we often use the scenario tasks in the testing. This is because it emulates real-world context that participants can easily relate to, and consequently they are more likely to behave in a natural way. 
+> 
+> **Closed task or Open-ended task**  
+> A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task. For example, to test the telephony on the phone:
+> "You want to text your landlord to say you will give her the rent tomorrow. Her number is: 7921233290."
+> 
+> An open-ended task contains minimum information and less specific direction as to what you want a participant to do. It gives users more freedom to explore the system.
+> For example, in our Ubuntu.com testing, designers wanted to understand what information was important for users to get to know about Ubuntu. I used the task: "You heard your friends mention something called ‘Ubuntu’. You are interested in it and want to find out more about what Ubuntu is and what it can offer you?"
+
+### Pick the right order
+It might make sense to place simpler tasks before more complex ones so users can familiarize themselves with the prototype at the beginning of the test. In some cases tasks are dependent on each other. For example, navigating to a home page could be the first task and reporting an issue on the home page could be the last task. Reversing the order would not make sense in this case. This is not always true though. Some tasks do not depend on each other and the order does not matter.
+
+
+### Plan a test run
+Always plan a test run before conducting the actual test. This will ensure that the prototype is working and all the tasks make sense. Put yourself in the users shoes during the test run and think about potential challenges that they might face. Think about how the user would interpret and go about tasks.
 
 
 ## Other Considerations
@@ -115,5 +146,5 @@ WIP
 >Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
 
 ##References  
-[https://articles.uie.comusability_testing_mistakes/
-]()
+[https://articles.uie.comusability_testing_mistakes/]()  
+[https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/]()
