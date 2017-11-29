@@ -1,7 +1,6 @@
 [TOC]
 
 
-
 # Introduction
 
 Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practices solutions to information visualisation design problems for those engaged in the practice. This list is a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
@@ -9,6 +8,9 @@ Without good communication, designers who are unaware of solutions may be forced
 ## General Design Principles
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
+
+Here is quick list of all the design principles listed here
+[Gradual Reveal](### Gradual Reveal)
 
 ### ![](/1.Follow-best-practices/Images/detailsondemand.png) 
 
