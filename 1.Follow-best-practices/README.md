@@ -13,7 +13,12 @@ Table of contents
     * [Actionability](#actionability)
     * [Compactness](#compactness)
     * [Minimize choices](#minimize-choices)
+    * [Redundancy in perceptual cues, not information]
     * [Content as navigation](#content-as-navigation)
+    * [Accessibility and Universal Design](#accessibility-and-universal-design)
+    * [Consistency and Standards](#consistency-and-standards)
+    * [Help users recognize, diagnose, and recover from errors]()
+    * [Help and Documentation]()
   * [Principles in action](#principles-in-action)
   * [References](#references)
 
@@ -190,7 +195,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 ![](/1.Follow-best-practices/Images/visibility.png) 
 
-## Visibility of Current Selection / System Status
+## Visibility of current selection/system status
 
 Per Jakob Nielsen's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/):
 
@@ -231,21 +236,21 @@ A few tactics to design compact dashboards:
 
 ![](/1.Follow-best-practices/Images/selection.png)
 
-##  Minimize Choices
+##  Minimize choices
 
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
 
 ![](/1.Follow-best-practices/Images/redundancy.png)
 
-##  Redundancy in Perceptual Cues, Not Information
+##  Redundancy in perceptual cues, not information
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant. 
 
 
 ![](/1.Follow-best-practices/Images/link.png)
 
-##  Content as Navigation
+##  Content as navigation
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
