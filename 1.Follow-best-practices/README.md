@@ -3,7 +3,7 @@ Table of contents
 =================
 
   * [Introduction](#introduction)
-  * [General Design Principles](https://github.com/axisgroup/evaluation-toolkit/blob/master/1.Follow-best-practices/README.md#general-design-principles)
+  * [General Design Principles](#general-design-principles)
   * [Installation](#installation)
   * [Usage](#usage)
     * [STDIN](#stdin)
