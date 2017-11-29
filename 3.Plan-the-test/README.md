@@ -84,7 +84,7 @@ Usability Tests should be purposeful so as to not generate all kinds of feedback
 
 
 ### Choose the right format
-Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/) on picking choosing the right test that has been quoted below
+Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/) on choosing the right test that has been quoted below:
 
 > The tasks could be categorised into two main formats:
 > 
@@ -97,7 +97,6 @@ Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-te
 > A direct task is purely instructional. 
 > 
 > Among these two types, we often use the scenario tasks in the testing. This is because it emulates real-world context that participants can easily relate to, and consequently they are more likely to behave in a natural way. 
-> 
 > 
 > **Closed task or Open-ended task**  
 > A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task.
