@@ -57,7 +57,7 @@ https://www.nngroup.com/articles/false-consensus/
 - Prepare a list of design implications or changes. You may categorize them as trivial, important and critical. Use the [Checklist of potential actions](/5.Act-on-your-findings/Checklist-of-potential-actions.md) to aid you with this step.
 
 ## Method in action
-[Evaluating a paper prototype using Heuristic Evaluation](https://www.coursera.org/learn/human-computer-interaction/lecture/JSkOZ/watch-two-students-do-heuristic-evaluation)
-[Testing an iTunes like interface](https://docs.google.com/document/d/12lkOapgFpq19DPh4uikI3yrm2VwmA0ZeZgfRMYFuxVg/edit?usp=sharing)
+- [Evaluating a paper prototype using Heuristic Evaluation](https://www.coursera.org/learn/human-computer-interaction/lecture/JSkOZ/watch-two-students-do-heuristic-evaluation)
+- [Testing an iTunes like interface](https://docs.google.com/document/d/12lkOapgFpq19DPh4uikI3yrm2VwmA0ZeZgfRMYFuxVg/edit?usp=sharing)
 
 ## References
