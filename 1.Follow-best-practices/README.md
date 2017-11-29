@@ -6,13 +6,16 @@ Table of contents
   * [General Design Principles](#general-design-principles)
     * [Gradual Reveal](#gradual-reveal)
     * [Information Discrimination](#information-discrimination)
-    * [Reduce cognitive burden](#reduce-cognitive-burden)
+    * [Reduce Cognitive Burden](#reduce-cognitive-burden)
     * [Context matters](#context-matters)
-
-    * [Multiple files](#multiple-files)
-    * [Combo](#combo)
-  * [Tests](#tests)
-  * [Dependency](#dependency)
+    * [Flexibility](#flexibility)
+    * [Visibility of current selection/system status](#visibility-of-current-selection--system-status)
+    * [Actionability](#actionability)
+    * [Compactness](#compactness)
+    * [Minimize choices](#minimize-choices)
+    * [Content as navigation](#content-as-navigation)
+  * [Principles in action](#principles-in-action)
+  * [References](#references)
 
 
 
@@ -207,8 +210,6 @@ Make sure the current state selected in checkboxes, toggles, and dropdowns are a
 Enable users to not just complete tasks quickly and get easy insights from their data, but also to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, and changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. The example dashboard below highlights critical issues in red.  
 
 ![Alerts](https://i.pinimg.com/originals/20/58/5b/20585bb684d66dfe027ba0c0a6cb6693.jpg)
-
-
 
 
 
