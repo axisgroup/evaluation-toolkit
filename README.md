@@ -45,14 +45,14 @@ To break down the contents of each phase:
 
 3. [**Plan the Test**](/3.Plan-the-test)
 
-   Now that you have pinpointed the relevant questions and attributes, you can use this page to devise a testing plan and methodology. This page includes information on:
+   Now that you have pinpointed the relevant questions and attributes, you can use this page to devise a testing plan and methodology. This page includes information on
    * Recruiting users/evaluators for your test
    * Choosing the right test (Attitudinal or behavioral? Qualitative or quantitative? What's the context of use?)
    * Choosing the right tasks 
    
 4. [**Conduct the Test**](/4.Conduct-the-test)
 
-   After you've mapped out the type of test that would be most appropriate for colelcting feedback, you can reference this page to see specific research methods and instructions on how to conduct them.
+   After you've mapped out the type of test that would be most appropriate for collecting feedback, you can reference this page to see specific testing methods, and instructions on how to conduct them.
    * [Usability testing to gauge the overall User Experience](./Research-Methods/UsabilityTesting/README.md)
    * [Expert Reviews/Heuristic Evaluation](./Research-Methods/ExpertReview/README.md)
    * [System Usability Scale](./Research-Methods/SUS/README.md)

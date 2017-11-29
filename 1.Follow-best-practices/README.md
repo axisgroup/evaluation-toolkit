@@ -2,8 +2,8 @@
 Table of contents
 =================
 
-  * [gh-md-toc](#-Introduction)
-  * [Table of contents](#table-of-contents)
+  * [Introduction](/#introduction)
+  * [General Design Principles](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
     * [STDIN](#stdin)
@@ -18,18 +18,20 @@ Table of contents
 
 # Introduction
 
-Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practices solutions to information visualisation design problems for those engaged in the practice. This list is a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
+Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practice solutions to information visualisation design problems for those engaged in the practice. It includes both a list of general design principles as well as a [Data Visualization Checklist](/1.Follow-best-practices/DataVizChecklist_May2016.pdf) for more tactical, styling-oriented evaluations.
 
-## General Design Principles
+This list is a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
+
+# General Design Principles
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
 
 Here is quick list of all the design principles listed here
 [Gradual Reveal](### Gradual Reveal)
 
-### ![](/1.Follow-best-practices/Images/detailsondemand.png) 
+![](/1.Follow-best-practices/Images/detailsondemand.png) 
 
-### Gradual Reveal
+## Gradual Reveal
 
 The foremost mantra we follow when designing visualization
 
@@ -41,9 +43,9 @@ The foremost mantra we follow when designing visualization
 
 The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes referred to as the 'Gradual Reveal' principle and forms a good basis for avoiding overcluttered dashboards.
 
-### ![](/1.Follow-best-practices/Images/hierarchy.png)
+![](/1.Follow-best-practices/Images/hierarchy.png)
 
-### Information Discrimination
+## Information Discrimination
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.” Amanda Cox, NY Times
 
@@ -82,13 +84,13 @@ To sum up, ask the following questions when making decisions-
 
 
 
-### ![](/1.Follow-best-practices/Images/cognition.png) 
+![](/1.Follow-best-practices/Images/cognition.png) 
 
-### Reduce Cognitive burden
+## Reduce Cognitive burden
 
 (Because cognition is a scarce resource.)
 
-#### Attention
+### Attention
 
 > "Attention is a resource —a person has only so much of it."
 >
@@ -105,7 +107,7 @@ To sum up, ask the following questions when making decisions-
 **Push vs. Pull**-To the extent possible, the burden of highlighting important information should be borne by the interface, and not by the user (e.g. with alerts and notifications).
 
 
-#### Memory
+### Memory
 
 Promote recognition rather than recall by using familiar metrics and common patterns. When needed, provide details so that  the user does not have to remember information from one part of the dashboard to another.
 
@@ -119,13 +121,13 @@ In the example below, Quora suggests possible questions based on what is being t
 
 
 
-#### Computation
+### Computation
 
 Calculate the right metric for users, and provide the most actionable metric or information. For example, it may be important to focus on variances rather than absolute changes (e.g. change in sales since last year vs. total sales).
 
 
 
-#### Perception
+### Perception
 
 Use recognizable icons and UI components with clear affordances.
 
@@ -139,7 +141,7 @@ Use clear affordances so that users will know how to interact with a chart, whet
 
 
 
-#### Easy Learnability
+### Easy Learnability
 
 Simplicity is key!  
 
@@ -149,7 +151,7 @@ Layout and order of presentation matter. Start with the summary-level metrics fi
 
 
 
-#### Readability
+### Readability
 
 Many factors play into the readability of your content, such as typeface, font size, color, etc. The following is a font framework that Juice Analytics has provided:
 > * Body text is clean, readable content
@@ -164,9 +166,9 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 ![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
 
-### ![](/1.Follow-best-practices/Images/context.png)
+![](/1.Follow-best-practices/Images/context.png)
 
-### Context matters
+## Context matters
 
 
 > People need context and explanation to understand new and unfamiliar events. Providing data without text, labels, or instruction is the difference between a chef presenting a gourmet meal and fishmonger throwing a mackerel at your head. Letting the data speak for itself can be a recipe for misinterpretation and confusion. 
@@ -175,9 +177,9 @@ Additionally, to ensure comprehension the system should speak the users' languag
 
 Remember that you will not be there to explain things when your users are interacting with the dashboard, so provide all the text, labels, and instruction necessary to give them context. Providing context isn't limited to writing instructional information; it can also include information about how data has changed since last month, when the data was last updated, whether the data is normal or abnormal, what the macro trends are, and so on.
 
-### ![](/1.Follow-best-practices/Images/flexibility.png)
+![](/1.Follow-best-practices/Images/flexibility.png)
 
-### Flexibility
+## Flexibility
 
 Build in flexibility to allow the dashboard to become relevant for different users but also **provide good defaults**. The most common way to allow users to customize the dashboard is by defining the scope of the data using filters. Other options include designing the dashboard to let users save the view they’ve configured or offering easy ways to tag or highlight particularly relevant information. 
 
@@ -185,7 +187,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 ### ![](/1.Follow-best-practices/Images/visibility.png) 
 
-### Visibility of Current Selection / System Status
+## Visibility of Current Selection / System Status
 
 Per Jakob Nielsen's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/):
 
@@ -198,9 +200,9 @@ Continually keep users updated with what current selections they've applied to t
 
 Make sure the current state selected in checkboxes, toggles, and dropdowns are also clearly visible.
 
-### ![](/1.Follow-best-practices/Images/action.png)
+![](/1.Follow-best-practices/Images/action.png)
 
-###  Actionability
+##  Actionability
 
 Enable users to not just complete tasks quickly and get easy insights from their data, but also to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, and changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. The example dashboard below highlights critical issues in red.  
 
@@ -210,9 +212,9 @@ Enable users to not just complete tasks quickly and get easy insights from their
 
 
 
-### ![](/1.Follow-best-practices/Images/compact.png)
+![](/1.Follow-best-practices/Images/compact.png)
 
-###  Compactness
+##  Compactness
 
 > Compactness is the property that a design can fit inside a human being's head...Compact software tools have all the virtues of physical tools that fit well in the hand. They feel pleasant to use, they don't obtrude themselves between your mind and your work, they make you more productive.
 >
@@ -226,42 +228,42 @@ A few tactics to design compact dashboards:
 2. Increase data-ink ratio by leveraging data dense visualization techniques such as small multiples, glyphs, sparklines etc.
 
 
-### ![](/1.Follow-best-practices/Images/selection.png)
+![](/1.Follow-best-practices/Images/selection.png)
 
-###  Minimize Choices
+##  Minimize Choices
 
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
 
-### ![](/1.Follow-best-practices/Images/redundancy.png)
+![](/1.Follow-best-practices/Images/redundancy.png)
 
-###  Redundancy in Perceptual Cues, Not Information
+##  Redundancy in Perceptual Cues, Not Information
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant. 
 
 
-### ![](/1.Follow-best-practices/Images/link.png)
+![](/1.Follow-best-practices/Images/link.png)
 
-###  Content as Navigation
+##  Content as Navigation
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
 ![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
 
 
-### ![](/1.Follow-best-practices/Images/accessibility.png)
+![](/1.Follow-best-practices/Images/accessibility.png)
 
-### Accessibility and Universal Design
+## Accessibility and Universal Design
 
 The [7 universal design principles](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) were developed to assist in the guiding and evaluating of design, for the purpose of creating more usable products and environments for all people. 
 
 [The A11y Project](http://a11yproject.com) is a great resource for accessible design, which describes the process of ensuring that a design can also be used by people with a variety of disabilities. 
 
-### Consistency and Standards
+## Consistency and Standards
 
-### Help users recognize, diagnose, and recover from errors
+## Help users recognize, diagnose, and recover from errors
 
-### Help and Documentation
+## Help and Documentation
 
 # Principles in action
 
