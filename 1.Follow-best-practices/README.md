@@ -4,16 +4,21 @@ Table of contents
 
   * [Introduction](#introduction)
   * [General Design Principles](#general-design-principles)
-    * [Gradual Reveal](#gradual-reveal)
-    * [Information Discrimination](#information-discrimination)
-    * [Reduce Cognitive Burden](#reduce-cognitive-burden)
+    * [Gradual reveal](#gradual-reveal)
+    * [Information discrimination](#information-discrimination)
+    * [Reduce cognitive burden](#reduce-cognitive-burden)
     * [Context matters](#context-matters)
     * [Flexibility](#flexibility)
-    * [Visibility of current selection/system status](#visibility-of-current-selection--system-status)
+    * [Visibility of current selection/system status](#visibility-of-current-selectionsystem-status)
     * [Actionability](#actionability)
     * [Compactness](#compactness)
     * [Minimize choices](#minimize-choices)
+    * [Redundancy in perceptual cues, not information](#redundancy-in-perceptual-cues-not-information)
     * [Content as navigation](#content-as-navigation)
+    * [Accessibility and Universal Design](#accessibility-and-universal-design)
+    * [Consistency and Standards](#consistency-and-standards)
+    * [Help users recognize, diagnose, and recover from errors](#help-users-recognize-diagnose-and-recover-from-errors)
+    * [Help and Documentation](#help-and-documentation)
   * [Principles in action](#principles-in-action)
   * [References](#references)
 
@@ -34,7 +39,7 @@ Here is quick list of all the design principles listed here
 
 ![](/1.Follow-best-practices/Images/detailsondemand.png) 
 
-## Gradual Reveal
+## Gradual reveal
 
 The foremost mantra we follow when designing visualization
 
@@ -48,7 +53,7 @@ The Visual Information-Seeking Mantra [Shneiderman, 1996] is also sometimes refe
 
 ![](/1.Follow-best-practices/Images/hierarchy.png)
 
-## Information Discrimination
+## Information discrimination
 
 > “Data isn’t like your kids, you don’t have to pretend to love them equally.” Amanda Cox, NY Times
 
@@ -89,7 +94,7 @@ To sum up, ask the following questions when making decisions-
 
 ![](/1.Follow-best-practices/Images/cognition.png) 
 
-## Reduce Cognitive burden
+## Reduce cognitive burden
 
 (Because cognition is a scarce resource.)
 
@@ -190,7 +195,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 ![](/1.Follow-best-practices/Images/visibility.png) 
 
-## Visibility of Current Selection / System Status
+## Visibility of current selection/system status
 
 Per Jakob Nielsen's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/):
 
@@ -231,21 +236,21 @@ A few tactics to design compact dashboards:
 
 ![](/1.Follow-best-practices/Images/selection.png)
 
-##  Minimize Choices
+##  Minimize choices
 
 To the extent possible reduce the number of choices a user has to make. Less is more in design. Having a screen with multiple toggles, filters and animations can overwhelm the user if not designed right. 
 
 
 ![](/1.Follow-best-practices/Images/redundancy.png)
 
-##  Redundancy in Perceptual Cues, Not Information
+##  Redundancy in perceptual cues, not information
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant. 
 
 
 ![](/1.Follow-best-practices/Images/link.png)
 
-##  Content as Navigation
+##  Content as navigation
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
