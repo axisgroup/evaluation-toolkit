@@ -6,7 +6,12 @@ A quick search on Usability.gov reveals more than just a few methods to garner f
 
 And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. In the next section we will attempt to break down the various steps involved when planning a usability test and provide some guidelines for each.
 
-## Choosing the right users
+## Recruiting users/evaluators for your test
+
+> You should know your target audience by now. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — rather than gender, age, or geography.
+Source: http://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/
+
+Here is another excellent resource by Charline Poirier, writing for Ubuntu, design that goes in depth  about [recruiting participants for your usability test](https://design.canonical.com/2012/03/about-usability-testing-recruiting/)
 
 ## Choosing the right test
 
