@@ -14,7 +14,7 @@
     * [Content as navigation](#content-as-navigation)
     * [Accessibility and Universal Design](#accessibility-and-universal-design)
     * [Consistency and Standards](#consistency-and-standards)
-    * [Help users recognize, diagnose, and recover from errors](#help-users-recognize-diagnose-and-recover-from-errors)
+    * [Error Prevention and Recovery](#error-prevention-and-recovery)
     * [Help and Documentation](#help-and-documentation)
   * [Principles in action](#principles-in-action)
   * [References](#references)
@@ -28,9 +28,6 @@ This list is a combination of curated content from notable sources in the indust
 # General Design Principles
 
 This section attempts to highlight some general design principles that should be followed when designing data vis. These should be treated as 'heuristics' because they are broad rules of thumb and not specific usability guidelines. Another important thing to note is that not all of these can be incorporated into a single dashboard and there is usually a tradeoff involved eg. flexibility vs. minimizing choices. Instead, we suggest prioritizing one or two general principles in order to stay focused. 
-
-Here is quick list of all the design principles listed here
-[Gradual Reveal](### Gradual Reveal)
 
 ![](/1.Follow-best-practices/Images/detailsondemand.png) 
 
@@ -165,7 +162,7 @@ Many factors play into the readability of your content, such as typeface, font s
 
 Use this framework to make decisions on typeface (serifs vs. sans serif), font size, and color. 
 
-Additionally, to ensure comprehension the system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented term.s
+Additionally, to ensure comprehension the system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.
 
 ![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
 
@@ -252,19 +249,43 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 ![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
 
 
+
 ![](/1.Follow-best-practices/Images/accessibility.png)
 
 ## Accessibility and Universal Design
 
 The [7 universal design principles](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) were developed to assist in the guiding and evaluating of design, for the purpose of creating more usable products and environments for all people. 
 
-[The A11y Project](http://a11yproject.com) is a great resource for accessible design, which describes the process of ensuring that a design can also be used by people with a variety of disabilities. 
+Accessible design is the process of ensuring that a design can be used by people with a variety of disabilities. [The A11y Project](http://a11yproject.com) is a great resource, with various tools (i.e. VoiceOver) and tests (i.e. Color Contrast Analyzer) you can use to make your design more accessible.
+
+
+
+![](/1.Follow-best-practices/Images/consistency.png)
 
 ## Consistency and Standards
+Consistent design lends to more intuitive design, since it will allow users to more quickly learn an interface. Per Jakob Nielsen, "users should not have to wonder whether different words, situations, or actions mean the same thing." Maintain consistency on both visual and functional fronts.
 
-## Help users recognize, diagnose, and recover from errors
+Use [UI Patterns](http://ui-patterns.com/patterns) (recurring solutions that solve common design problems) to ensure that you're utilizing a common design language that users are already familiar with. 
+
+
+
+![](/1.Follow-best-practices/Images/errors.png)
+
+## Error Prevention and Recovery
+
+Per Jakob Nielsen,
+
+> Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
+
+
+
+![](/1.Follow-best-practices/Images/help.png)
 
 ## Help and Documentation
+
+Sometimes you may need to provide a user additional documentation around the interface or the visualizations. For instance, users might need assistance in reading a chart or knowing the meaning of specific technical terms. Make such information easily accessible and in an obvious location. 
+
+
 
 # Principles in action
 
