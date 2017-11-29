@@ -1,4 +1,5 @@
-## The Complexity in our Stars or Why Data Vis is inherently hard to test
+## Why Data Vis is inherently hard to test
+*The complexity in our stars*
 
 ### Faster is not necessarily better
 
