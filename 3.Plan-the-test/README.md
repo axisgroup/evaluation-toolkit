@@ -13,7 +13,7 @@ Knowing who to recruit is just the first step. The more involved part is finding
 
 Source: http://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/
 
-Here is another excellent resource by Charline Poirier, writing for Ubuntu, design that goes in depth  about [recruiting participants for your usability test](https://design.canonical.com/2012/03/about-usability-testing-recruiting/)
+Here is another excellent resource by Charline Poirier, writing for Ubuntu Design, that goes in depth  about [recruiting participants for your usability test](https://design.canonical.com/2012/03/about-usability-testing-recruiting/)
 
 ## Choosing the right test
 
