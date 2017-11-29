@@ -250,6 +250,8 @@ While the navigation bar does serve as an 'emergency exit', designers should bak
 
 
 
+
+
 ![](/1.Follow-best-practices/Images/accessibility.png)
 
 ## Accessibility and Universal Design
@@ -260,12 +262,16 @@ Accessible design is the process of ensuring that a design can be used by people
 
 
 
+
+
 ![](/1.Follow-best-practices/Images/consistency.png)
 
 ## Consistency and Standards
 Consistent design lends to more intuitive design, since it will allow users to more quickly learn an interface. Per Jakob Nielsen, "users should not have to wonder whether different words, situations, or actions mean the same thing." Maintain consistency on both visual and functional fronts.
 
 Use [UI Patterns](http://ui-patterns.com/patterns) (recurring solutions that solve common design problems) to ensure that you're utilizing a common design language that users are already familiar with. 
+
+
 
 
 
@@ -279,11 +285,15 @@ Per Jakob Nielsen,
 
 
 
+
+
 ![](/1.Follow-best-practices/Images/help.png)
 
 ## Help and Documentation
 
 Sometimes you may need to provide a user additional documentation around the interface or the visualizations. For instance, users might need assistance in reading a chart or knowing the meaning of specific technical terms. Make such information easily accessible and in an obvious location. 
+
+
 
 
 
