@@ -2,7 +2,7 @@
 Table of contents
 =================
 
-  * [gh-md-toc](#General-Design-Principles)
+  * [gh-md-toc](#-Introduction)
   * [Table of contents](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -16,7 +16,7 @@ Table of contents
 
 
 
-(#Introduction)
+# Introduction
 
 Without good communication, designers who are unaware of solutions may be forced to ‘reinvent the wheel’, wasting unnecessary effort on a problem that has already been solved by others. Thus this section attempts to capture and codify best practices solutions to information visualisation design problems for those engaged in the practice. This list is a combination of curated content from notable sources in the industry such as NNgroup and Juice Analytics, and also draws on experiential learning gained from working on client projects at Axis Group.
 
