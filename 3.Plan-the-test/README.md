@@ -72,6 +72,18 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 
 ## Choosing the right tasks
 
+### Choose purposeful tasks
+Usability Tests should be purposeful so as to not generate all kinds of feedback. Therefore, it is good to have specific tasks in mind when planning a Usability Test. Designing tasks should be a careful and thoughtful activity. For eg. in Jared Spool's example when he and his team were conducting a Usability test for IKEA, they had already started the  testing process.  
+
+
+> The Task: “Find a bookcase.”  
+> The Result: All participants searched for 'bookcase' in the search box.  
+> The Spin: Jared and his team decided to change this prompt to “You have 200+ books in your fiction collection, currently in boxes strewn around your living room. Find a way to organize them.”  
+> The Result: User behavior changed. Most clicked through the various categories, looking for some sort of storage solution. Few used Search, typing in phrases like “Shelves” and “Storage Systems”. And, nobody searched on “bookcase”.  
+> Takeaway: Tasks may direct users path in a way that is different from their context of use.You can get around this mistake by constantly exploring the “context of use.” When designing tasks, ask yourself, “What events or conditions in the world would motivate someone to use this design?” Use the answers as the primary formation of the tasks you create. 
+
+
+
 ## Other Considerations
 
 In addition to the dimensions described by Rohrer, your test methodology also depends on-
@@ -101,3 +113,7 @@ WIP
 > One of the first questions usability testers ask is whether or not it should be moderated. While there are a lot of good reasons for unmoderated tests, for prototype tests we recommend moderation. Given the “incomplete” nature of prototypes, chances are that users will have questions about the UI that a moderator will have to answer.
 >
 >Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
+
+##References  
+[https://articles.uie.comusability_testing_mistakes/
+]()
