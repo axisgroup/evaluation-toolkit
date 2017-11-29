@@ -1,7 +1,4 @@
-[TOC]
-Table of contents
-=================
-
+# Table of contents
   * [Introduction](#introduction)
   * [General Design Principles](#general-design-principles)
     * [Gradual reveal](#gradual-reveal)
@@ -21,8 +18,6 @@ Table of contents
     * [Help and Documentation](#help-and-documentation)
   * [Principles in action](#principles-in-action)
   * [References](#references)
-
-
 
 # Introduction
 
