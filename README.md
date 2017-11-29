@@ -63,3 +63,9 @@ Acknowledgements: Thanks to [Arielle Cason, UX Researcher](http://ariellecason.c
 Here is a snippet of her template-
 
 ![Testing Template](./Assets/images/Sample-Testing-Template.png)
+
+
+# [License](LICENSE.md)
+
+Copyright © 2017 Axis Group, LLC. The information contained in this document is free, and may be redistributed under the terms specified in the license.
+
