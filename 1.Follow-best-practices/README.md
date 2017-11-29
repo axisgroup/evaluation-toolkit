@@ -7,8 +7,8 @@ Table of contents
     * [Gradual Reveal](#gradual-reveal)
     * [Information Discrimination](#information-discrimination)
     * [Reduce cognitive burden](#reduce-cognitive-burden)
-                * [Attention](#remote-files)
-                * [Memory](#remote-files)
+          * [Attention](#remote-files)
+ 
     * [Multiple files](#multiple-files)
     * [Combo](#combo)
   * [Tests](#tests)
