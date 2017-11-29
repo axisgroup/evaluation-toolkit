@@ -1,4 +1,4 @@
-## Goals of this repository
+# Goals of this repository
 This repo is a collection of resources intended to help guide and improve the evaluation process of data visualizations. It is written by and for the Axis Design team, but can also act as a point of reference for all data vis practitioners. Again, none of the guidelines mentioned here should be followed to the tee but rather used along the lines of a *"Know your guidelines before you break them"* mindset.
 
 The goal of this repo is to serve as a **toolkit** that helps deconstruct the testing process into manageable chunks.
@@ -12,7 +12,7 @@ Designers should be able to use this repo to determine success criteria for thei
 This is a **WIP** living document. Please read our [Contribution Guidelines](CONTRIBUTING.md) to help refine this repo.
 
 
-## How to Use this Toolkit 
+# How to Use this Toolkit 
 
 The approach advocated by this repo is:
  ```
