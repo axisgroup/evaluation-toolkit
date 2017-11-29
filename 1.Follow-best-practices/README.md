@@ -7,8 +7,8 @@ Table of contents
     * [Gradual Reveal](#gradual-reveal)
     * [Information Discrimination](#information-discrimination)
     * [Reduce cognitive burden](#reduce-cognitive-burden)
-          * [Attention](#remote-files)
- 
+    * [Context matters](#context-matters)
+
     * [Multiple files](#multiple-files)
     * [Combo](#combo)
   * [Tests](#tests)
@@ -185,7 +185,7 @@ Build in flexibility to allow the dashboard to become relevant for different use
 
 
 
-### ![](/1.Follow-best-practices/Images/visibility.png) 
+![](/1.Follow-best-practices/Images/visibility.png) 
 
 ## Visibility of Current Selection / System Status
 
