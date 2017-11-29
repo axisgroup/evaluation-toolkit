@@ -2,7 +2,7 @@
 Table of contents
 =================
 
-  * [Introduction](/#Introduction)
+  * [Introduction](../#introduction)
   * [General Design Principles](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
