@@ -8,7 +8,9 @@ And while at first this choice can seem overwhelming, it is important to realize
 
 ## Recruiting users/evaluators for your test
 
-> You should know your target audience by now. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — rather than gender, age, or geography.
+> After all the work with personas, by now you should have a clear idea of your target users. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — not gender, age, or geography.
+Knowing who to recruit is just the first step. The more involved part is finding and recruiting them. Jeff Sauro outlines the 7 best ways to locate the ideal users for your testing.
+
 Source: http://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/
 
 Here is another excellent resource by Charline Poirier, writing for Ubuntu, design that goes in depth  about [recruiting participants for your usability test](https://design.canonical.com/2012/03/about-usability-testing-recruiting/)
