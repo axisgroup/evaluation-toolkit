@@ -2,7 +2,7 @@
 Table of contents
 =================
 
-  * [Introduction(#-Introduction)
+  * [Introduction](#_Introduction)
   * [General Design Principles](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -237,7 +237,7 @@ To the extent possible reduce the number of choices a user has to make. Less is 
 
 ![](/1.Follow-best-practices/Images/redundancy.png)
 
-###  Redundancy in Perceptual Cues, Not Information
+##  Redundancy in Perceptual Cues, Not Information
 
 Avoid excessive redundancy in information as it can add clutter. For example, labeling the axis of a bar chart as well as directly labeling the value of the bars can be redundant. 
 
