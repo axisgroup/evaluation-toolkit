@@ -8,13 +8,13 @@ https://projects.invisionapp.com/d/main#/projects/boards/4517347
 
 ### Why do it?
 
-Because the users are your most critical source of feedback, especially when it comes to determining the success of your project! User-based usability testing will uncover problems in both the interface as well as the content, and will help guide the next iteration of solutions. 
+Because the users are your most critical source of feedback, especially when it comes to determining the success of your project! User-based usability testing will uncover problems in both the interface as well as the content, and will help guide the next iteration of solutions.
 
 ### When should you do it?
 
 The earlier and more frequent that these can take place, the better, so that the design can better align to the user's needs and expected experience. The later in development that this testing takes place, the less likely it will actually impact the design.  
 
-User-based testing can take place early on with paper prototypes or non-functional screen mockups. 
+Having said that, user-based testing should take place at every stage of the proces right from paper prototypes to non-functional screen mockups to interactive prototypes.
 
 
 ### How do you do it?
