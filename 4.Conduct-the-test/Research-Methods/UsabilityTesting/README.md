@@ -32,7 +32,7 @@ To make sure you are building the product right
 
 - Instruments/Tools to capture test results eg. a questionnnaire, a time-recording software etc.
 
-* [Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)*
+*[Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)*
 
 A more comprehensive checklist can be found on [NNgroup's website](https://www.nngroup.com/articles/usability-test-checklist/).
 
