@@ -128,14 +128,14 @@ Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-te
 > * Direct tasks or Scenario tasks
 > * Open-ended or Closed task
 >
-> #### Scenario task or Direct task**  
+> #### Scenario task or Direct task
 > A scenario task is presented as a mini user story: often it has the character, the context and the necessary details for achieving the goal.
 >
 > A direct task is purely instructional. 
 >
 > Among these two types, we often use the scenario tasks in the testing. This is because it emulates real-world context that participants can easily relate to, and consequently they are more likely to behave in a natural way. 
 >
-> #### Closed task or Open-ended task**  
+> #### Closed task or Open-ended task  
 > A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task.
 >
 > An open-ended task contains minimum information and less specific direction as to what you want a participant to do. It gives users more freedom to explore the system.
