@@ -14,7 +14,7 @@ Even with a tight schedule, it is imperative that we put our designs under a cri
 
 **4. Prioritize, prioritize, prioritize**
 
-Pick a few design principles or considerations that are key to your application and evaluate only those criteria.
+Pick a few design principles or considerations that are key to your application and evaluate those criteria.
 
 **5. No amount of testing will make your design perfect so instead aim for good enough**
 
@@ -23,7 +23,7 @@ Design is inherently about trade-offs, so your design will NEVER be perfect. In 
 **6. Not everything requires user-testing**
 
 Some things can be tested by your internal team or against industry standards or best practices, i.e. which chart type serves best for a certain analysis?
-Software tools can also help ease some burden of testing, i.e. Sim Daltonism can be used for for testing accessibility of colors 
+Software tools can also help ease some burden of testing, i.e. [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) can be used for testing accessibility of colors.
 
 **7. Not everything has to be ‘INTUITIVE’**
 
@@ -36,3 +36,4 @@ Such as...
 * Availability and committment of users 
 * Accelerated timelines
 * Limitations in technology
+* Limited budget
