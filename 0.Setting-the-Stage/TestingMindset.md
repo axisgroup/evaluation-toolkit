@@ -1,6 +1,7 @@
 ## Testing Mindset
 
 **1. Usability is not a secret sauce**
+
 Usability isn’t something we can bake in at the end of the design sprint rather, it must be developed and refined throughout the entire process. This is why we recommend a user-centered approach throught the process as captured by the [Axis Design Sprint github repository](https://github.com/axisgroup/design-process).
 
 **2. Set your Expectations**
