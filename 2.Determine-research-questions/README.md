@@ -17,7 +17,7 @@
       * [Aesthetic](#aesthetic)
       * [Enjoyable](#enjoyable)
       * [Exciting](#exciting)
-        * [Memorability](#memorability)
+      * [Memorability](#memorability)
 * [Unwanted Attributes](unwanted-attributes)
   * [Inefficient](#inefficient)
   * [Confusing](#confusing)
