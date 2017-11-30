@@ -3,7 +3,17 @@
   * [Planning your Test](#planning-your-test)
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
+	    * [Overview of UX Research Landscape](#overview-of-UX-research-landscape)
+		    * [Attitudinal vs. Behavioral](#attitudinal-vs.-behavioral)
+		    * [Quantitative vs. Qualitative](#quantitative-vs.-qualitative)
+		    * [The Context of Product Use](#the-context-of-product-use)
+		    * [Other Considerations](#other-considerations)
+
     * [Choosing the right tasks](#choosing-the-right-tasks)
+	    * [Choose purposeful tasks](#choose-purposeful-tasks)
+	    * [Choose the right format](#choose-the-right-format)
+	    * [Pick the right order](#pick-the-right-order)
+	    * [Plan a test run](#plan-a-test-run)
     * [Preparing your prototype](#preparing-your-prototype)
   * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
   * [References](#references)
@@ -116,14 +126,14 @@ Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-te
 > * Direct tasks or Scenario tasks
 > * Open-ended or Closed task
 >
-> **Scenario task or Direct task**  
+> #### Scenario task or Direct task**  
 > A scenario task is presented as a mini user story: often it has the character, the context and the necessary details for achieving the goal.
 >
 > A direct task is purely instructional. 
 >
 > Among these two types, we often use the scenario tasks in the testing. This is because it emulates real-world context that participants can easily relate to, and consequently they are more likely to behave in a natural way. 
 >
-> **Closed task or Open-ended task**  
+> #### Closed task or Open-ended task**  
 > A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task.
 >
 > An open-ended task contains minimum information and less specific direction as to what you want a participant to do. It gives users more freedom to explore the system.
