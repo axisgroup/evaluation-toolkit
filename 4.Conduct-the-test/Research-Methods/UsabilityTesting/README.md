@@ -32,11 +32,12 @@ To make sure you are building the product right
 
 - Instruments/Tools to capture test results eg. a questionnnaire, a time-recording software etc.
 
-[Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
+* [Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)*
 
-A more comprehensive checklist : https://www.nngroup.com/articles/usability-test-checklist/ 
+A more comprehensive checklist can be found on [NNgroup's website](https://www.nngroup.com/articles/usability-test-checklist/).
 
-The following a simple checklist of steps to be followed that can apply to almost any usability test session you’ll ever perform. This has been borrowed [UXPin's free ebook on usability testing](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/).
+#### Steps to follow
+The following is a simple checklist of steps to be followed that can apply to almost any usability test session you’ll ever perform. This has been borrowed [UXPin's free ebook on usability testing](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/).
 
 #### Pre-test activities
 
