@@ -98,6 +98,7 @@ Source: UXPin https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-
 
 
 ## Method in Action
+- [Usability testing a paper prototype](https://www.youtube.com/watch?v=9wQkLthhHKA)
 
 ## References
 - https://www.nngroup.com/articles/ux-research-goals-to-scenarios/
