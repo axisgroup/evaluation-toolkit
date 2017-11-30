@@ -8,7 +8,7 @@
   * [References](#references)
 
 
-# Planning your Test
+# Planning your test
 
 Usability testing can uncover *all kinds* of feedback. As such, the foremost step in planning our test is picking a direction for the test. The previous sections help us frame questions about what we want to get out of the test but there is still the lingering question—how do you actually execute the test?
 
