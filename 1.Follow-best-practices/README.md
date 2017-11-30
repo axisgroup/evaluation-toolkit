@@ -92,6 +92,7 @@ To sum up, ask the following questions when making decisions-
 
 ![](/1.Follow-best-practices/Images/cognition.png) 
 
+
 ## Reduce cognitive burden
 
 (Because cognition is a scarce resource.)
@@ -106,7 +107,9 @@ To sum up, ask the following questions when making decisions-
 
 **Separate news from the noise**: Make important information salient and easy to get to using visual cues, interaction techniques, and other functionalities. Avoid clutter. Contrast is a great way to draw the eye to important information.
 
-![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)
+![Contrast](http://s3.amazonaws.com/prod.word/images/608/original.png?1360199570)  
+*Source: https://zurb.com/word/visual-weight*
+
 
 
 
@@ -124,6 +127,7 @@ Instructions for use of the system should be visible or easily retrievable whene
 In the example below, Quora suggests possible questions based on what is being typed:
 
 ![Recognition rather than recall](https://cdn-images-1.medium.com/max/1600/1*SRvnHU_h5yA--h91LG-Zcg.png)
+*Source: https://blog.prototypr.io/10-usability-heuristics-with-examples-4a81ada920c*
 
 
 
@@ -153,7 +157,8 @@ Simplicity is key!
 
 Layout and order of presentation matter. Start with the summary-level metrics first, and uncover more complex data and charts as user works through the dashboard. 
 
-![Dashboard example](https://www.codester.com/static//uploads/items/3376/preview-xl.jpg)
+![Dashboard example](https://cdn.dribbble.com/users/44126/screenshots/1315388/attachments/184703/job-summary.png)
+*Source: https://dribbble.com/shots/1315388-Dashboard-Web-App-Product-UI-Design-Job-Summary/attachments/184703*
 
 
 
@@ -170,7 +175,9 @@ Use this framework to make decisions on typeface (serifs vs. sans serif), font s
 
 Additionally, to ensure comprehension the system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.
 
-![Readability](https://image.slidesharecdn.com/uxcontentstrategy-170203135225/95/ux-content-strategy-41-638.jpg?cb=1486130842)
+![Readability](https://photoshopcafe.com/wp-content/uploads/2014/10/2.jpg)  
+*Source: https://photoshopcafe.com/tutorials/typography/typography-tips.htm*
+
 
 ![](/1.Follow-best-practices/Images/context.png)
 
@@ -212,7 +219,9 @@ Make sure the current state selected in checkboxes, toggles, and dropdowns are a
 
 Enable users to not just complete tasks quickly and get easy insights from their data, but also to take actions based on what the data reveals. Call out items in a dashboard like outliers, issues, alerts, and changes in metrics. Take it one step further by providing guidance on what the next step is. For example, if the revenue of a company has dropped by over 50% from the prior year to date, highlight this piece of information but also have additional visualizations to show why this has happened. This will enable the user to take action based on the information. The example dashboard below highlights critical issues in red.  
 
-![Alerts](https://i.pinimg.com/originals/20/58/5b/20585bb684d66dfe027ba0c0a6cb6693.jpg)
+![Alerts](https://i.pinimg.com/originals/20/58/5b/20585bb684d66dfe027ba0c0a6cb6693.jpg)  
+*Source: https://dribbble.com/shots/1971409-Alert-management-tile-view?list=shots&sort=popular&timeframe=now&offset=84*
+
 
 
 
@@ -252,7 +261,8 @@ Avoid excessive redundancy in information as it can add clutter. For example, la
 
 While the navigation bar does serve as an 'emergency exit', designers should bake in interactions into the visualization itself so that users are able to achieve different steps of their workflow using the content.
 
-![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
+![Content as navigation](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)  
+*Source:https://www.explainxkcd.com/wiki/index.php/214:_The_Problem_with_Wikipedia*
 
 
 
