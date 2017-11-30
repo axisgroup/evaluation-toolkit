@@ -4,6 +4,11 @@ According to [Usability.gov](https://www.usability.gov/how-to-and-tools/methods/
 
 > The System Usability Scale (SUS) provides a “quick and dirty”, reliable tool for measuring the usability.   It consists of a 10 item questionnaire with five response options for respondents; from Strongly agree to Strongly disagree.  Originally created by John Brooke in 1986, it allows you to evaluate a wide variety of products and services, including hardware, software, mobile devices, websites and applications.  
 
+### When to use SUS?
+The SUS can be used early in the process to examine the usability of the current solution and at the end of the design phase in order to generate a usability metric for the design you produced. It can also be periodically sent out to users post release in order to keep a check on usability issues thar arise in practice.
+
+
+### Why use SUS?
 It is important to understand that the SUS is not a diagnostic tool and it will not help you prepare a list of usability issues that need to be addressed. Instead, use it as a validation tool to describe the ease of use of the system or application being tested.
 
 ### How to use it?
