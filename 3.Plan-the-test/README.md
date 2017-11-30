@@ -1,11 +1,11 @@
 # Table of Contents
  
   * [Planning your Test](#planning-your-test)
-    * [Recruiting users/evaluators for your test](#Recruiting-users/evaluators-for-your-test)
-    * [Choosing the right test](choosing-the-right-test)
-    * [Choosing the right tasks](choosing-the-right-tasks)
-    * [Putting a stake in the ground](Putting-a-stake-in-the-ground)
-    * [References](references)
+    * [Recruiting users/evaluators for your test](#recruiting-users/evaluators-for-your-test)
+    * [Choosing the right test](#choosing-the-right-test)
+    * [Choosing the right tasks](#choosing-the-right-tasks)
+    * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
+    * [References](#references)
 
 
 # Planning your Test
