@@ -1,3 +1,34 @@
+# Table of Contents
+  * [Know what you are testing](#know-what-you-are-testing)
+  * [Useful, Usable, Desirable Framework](#useful-usable-desirable-framework)
+      * [Useful](#useful)
+        * [Informative](#informative)
+        * [Effective](#effective)
+        * [Insightful](#insightful)
+        * [Well Documented](#well-documented)
+        * [Trustworthy](#trustworthy)
+        * [Purposeful](#purposeful)
+    * [Usable](#usable)
+      * [Learnable](#learnable)
+      * [Efficient](#efficient)
+      * [Intuitive](#intuitive)
+      * [Safe](#safe)
+    * [Desirable](#desirable)
+      * [Aesthetic](#aesthetic)
+      * [Enjoyable](#enjoyable)
+      * [Exciting](#exciting)
+        * [Memorability](#memorability)
+* [Unwanted Attributes](unwanted-attributes)
+  * [Inefficient](#inefficient)
+  * [Confusing](#confusing)
+  * [Frustrating](#frustrating)
+  * [Boring](#boring)
+  * [Making One Feel Stupid](#making-one-feel-stupid)
+  * [Gimmicky](#gimmicky)
+  * [Untrustworthy](#untrustworthy)
+* [What Next? (Determine style of data)](#what-next)
+* [References](#references)
+
 #  Know what you are testing
 
 The following image from Usability.gov describes some user performance metrics that can be paired with a task based test to gather quantitative data about our application.
@@ -122,14 +153,72 @@ Safety involves protecting users from undesirable situations and helping them av
 - Could we use brighter colors that might encourage users to continue analyzing data? 
 
 #### Exciting
+
 - Is there room for adding animations to help enhance the intuitiveness of transitions and other interactions?
 - Is there a variety of chart types? 
 - Do the visualizations lend themselves to interesting and exciting insights? 
 
-### Memorability
+#### Memorability
+
 - After visiting the site, can a user remember enough to use it effectively in future visits?
 
-## References:
+  ​
+
+## Unwanted Attributes
+
+Another means of evaluating visualizations is by crossing them against this list of undesirable attributes, and making changes accordingly.
+
+### Inefficient
+
+- Too many clicks to complete a task. The user has to take a roundabout way to complete a task when a more simple path can be designed.
+- Using a visualization that's harder to read when you could use something thats more simple.
+- The app has too many pages making it difficult for users to know where to go. There is redundant information on multiple views.
+
+### Confusing
+
+- Finding information is difficult.
+- The visualization is extremely complex or difficult to read.
+- The screen has no clear purpose. Charts are randomly thrown on a screen.
+
+### Frustrating
+
+- The app is not intutive and visually unappealing. Completing a task takes too many clicks.
+- Features of the app don't work as expected. (eg - filter, navigation). The app has too many alerts and notifications.
+- The app has too many interactions/animations.
+
+### Boring
+
+- Same visualizations are repeated in the app.  
+- The color scheme is monotonous. 
+- Language used is dull 
+
+### Making one feel stupid
+
+- The language used is patronizing and assumes the users does not know anything.
+- Visualizations used are hard to read. 
+
+### Gimmicky
+
+- The app is flashy with no purpose, deceptive, seems to be more "persuasive" than informative.
+
+### Untrustworthy
+
+ - The app displays inaccurate data.
+
+   ​
+
+# What next?
+Once you have determined your most important criteria design criteria you should begin planning your test methodology. An interim step in that direction is to determine what style of data you are hoping to collect. The following table from User Testing is a good example of data that could be collected as part of a testing session.
+![](../Assets/images/style-of-data.png)*Source: The complete guide to user testing websites, apps, and prototypes, © UserTesting 2017*
+
+
+
+With this step complete you can fill out the *Research Question* and *What type of data is expected as the outcome?* columns in your copy of the [Google sheet template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0). Having done this, you can reference the [next section](../3.Plan-the-test/) to plan the details of your test.
+
+
+
+## References
+
 https://docs.google.com/presentation/d/1KxPdkCXFppFRvTNw04feZEBKa_acaJqFyZGx4mptOLI/edit#slide=id.g69bb1bfae_02
 
 https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
@@ -139,47 +228,3 @@ https://www.researchgate.net/post/Is_there_an_accepted_set_of_evaluation_criteri
 www.courses.ischool.berkeley.edu/i247/s08/lectures/lecture8_public.ppt
 
 https://www.nngroup.com/articles/ten-usability-heuristics/
-
-## Unwanted Attributes
-
-Another means of evaluating visualizations is by crossing them against this list of undesirable attributes, and making changes accordingly.
-
-## Inefficient
-- Too many clicks to complete a task. The user has to take a roundabout way to complete a task when a more simple path can be designed.
-- Using a visualization that's harder to read when you could use something thats more simple.
-- The app has too many pages making it difficult for users to know where to go. There is redundant information on multiple views.
-
-## Confusing
-- Finding information is difficult.
-- The visualization is extremely complex or difficult to read.
-- The screen has no clear purpose. Charts are randomly thrown on a screen.
-
-## Frustrating
-- The app is not intutive and visually unappealing. Completing a task takes too many clicks.
-- Features of the app don't work as expected. (eg - filter, navigation). The app has too many alerts and notifications.
-- The app has too many interactions/animations.
-
-## Boring
-- Same visualizations are repeated in the app.  
-- The color scheme is monotonous. 
-- Language used is dull 
-
-## Making one feel stupid
-- The language used is patronizing and assumes the users does not know anything.
-- Visualizations used are hard to read. 
-
-## Gimmicky
-- The app is flashy with no purpose, deceptive, seems to be more "persuasive" than informative.
-
-## Untrustworthy
- - The app displays inaccurate data.
-
-# What next?
-Once you have determined your most important criteria design criteria you should begin planning your test methodology. An interim step in that direction is to determine what style of data you are hoping to collect. The following table from User Testing is a good example of data that could be collected as part of a testing session
-![](../Assets/images/style-of-data.png)*Source: The complete guide to user testing websites, apps, and prototypes, © UserTesting 2017*
-
-
-
-With this step complete you can fill out the *Research Question* and *What type of data is expected as the outcome?* columns in your copy of the [Google sheet template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0). Having done this, you can reference the [next section](../3.Plan-the-test/) to plan the details of your test.
-
-
