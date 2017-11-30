@@ -39,7 +39,7 @@ A more comprehensive checklist can be found on [NNgroup's website](https://www.n
 #### Steps to follow
 The following is a simple checklist of steps to be followed that can apply to almost any usability test session you’ll ever perform. This has been borrowed as-is from [UXPin's usability testing template](https://www.uxpin.com/usability-test-kit).
 
-```
+
 #### Pre-test activities
 
 - Write down test hypothesis 
@@ -95,7 +95,7 @@ as a backup option for Internet Connection
 - Make a backup copy of the recording
 - Analyze the recording as soon as possible
 
-```
+
 
 ## Method in Action
 - [Usability testing a paper prototype](https://www.youtube.com/watch?v=9wQkLthhHKA)
