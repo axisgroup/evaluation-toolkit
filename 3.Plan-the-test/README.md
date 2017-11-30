@@ -3,9 +3,9 @@
   * [Planning your Test](#planning-your-test)
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
-	    * [Overview of UX Research Landscape](#overview-of-UX-research-landscape)
-		    * [Attitudinal vs. Behavioral](#attitudinal-vs.-behavioral)
-		    * [Quantitative vs. Qualitative](#quantitative-vs.-qualitative)
+	    * [Overview of UX Research Landscape](#overview-of-ux-research-landscape)
+		    * [Attitudinal vs. Behavioral](#attitudinal-vs-behavioral)
+		    * [Quantitative vs. Qualitative](#quantitative-vs-qualitative)
 		    * [The Context of Product Use](#the-context-of-product-use)
 		    * [Other Considerations](#other-considerations)
 
