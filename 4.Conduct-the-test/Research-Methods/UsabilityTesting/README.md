@@ -14,40 +14,19 @@ Because the users are your most critical source of feedback, especially when it 
 
 The earlier and more frequent that these can take place, the better, so that the design can better align to the user's needs and expected experience. The later in development that this testing takes place, the less likely it will actually impact the design.  
 
-User-based testing can take place early on with sketch prototypes or non-functional screen mockups. 
-
-
-### What do you need?
-
-- A purpose: knowing why you are testing is very important; Use the [previous section](../2. Determining what to measure) to decide what you plan to test
-
-- A prototype: you can use prototypes of varying fidelity ranging from a paper prototype to an interactive mockup.
-
-
-- Users: The number of users you need to recruit for a test depends on your research methods. Generally, Quantitative studies require 
-
-
-- Facilitator- Usually, a usability professional and whose role is to record the issues raised during the meeting.
-
-- A task- These can range from close ended tasks with clear end goals to open ended taks
-
-- Human Computer(for paper prototypes)- This person (typically the lead developer or someone who knows how the system is supposed to work) manipulates the paper prototype so that it can provide the feedback based on the user’s interaction.
-
-- Instruments/Tools to capture test results eg. a questionnnaire, a time-recording software etc.
-
-[Source](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
-
-A more comprehensive checklist : https://www.nngroup.com/articles/usability-test-checklist/ 
+User-based testing can take place early on with paper prototypes or non-functional screen mockups. 
 
 
 ### How do you do it?
 
-This is a simple checklist that can apply to every usability test session you’ll ever perform. This has been borrowed [UXPin's ebook on usability testing](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/).
+The following checklist is from [UXPin's Usability Testing Kit](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/), and we think it's an excellent guide for performing usability test sessions. This checklist can be downloaded [here](/UXPIN_Usability_Test_Checklist.docx). We've also included other references from the UX Pin usability testing kit in this folder. 
 
 #### Pre-test activities
 
+Use the [previous section](../2. Determining what to measure) to help you perform the following activities: 
+
 - Write down test hypothesis 
-- Form scenarios and tasks for the test
+- Form scenarios and tasks for the test 
 - Recruit participants
 - Schedule sessions
 
@@ -55,7 +34,6 @@ This is a simple checklist that can apply to every usability test session you’
 
 - Make sure you know name of the participant
 - Print out “Task and scenarios” for participant
-- Make sure you know name of the participant
 - Make sure you have two pens (one for you, one  for participant)
 
 
@@ -80,11 +58,12 @@ This is a simple checklist that can apply to every usability test session you’
 - Welcome the participant and introduce yourself
 - Explain the reason for the session
 - Explain [“Think out loud”](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) protocol
-- Give participants “Permission for recording” form
+- Give participants [“Permission for recording” form](/UXPIN_Permission_to_record.docx)
 - Give participants other forms (if applicable)
 - Turn on the screen recorder
-- Ask, easy-to-answer, introduction questions
+- Ask, easy-to-answer, introduction questions (reference [Usability Test Script](/UXPIN_Usability_Test_Script.docx) for specifics)
 - Read first task and hand it to participant
+- Jot down notes using the [UX Pin Template](/UXPIN_Usability_Test_Notes.docx) or the [Axis template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) 
 
 ##### Repeat for each task
 
@@ -95,13 +74,14 @@ This is a simple checklist that can apply to every usability test session you’
 #### After each session
 
 - Make sure you have all the documents signed
+
 - Make a backup copy of the recording
+
 - Analyze the recording as soon as possible
 
+- Sum up your findings a report (See UX Pin's template here: [report](/UXPIN_Usability_Report_Template.docx))
 
-
-Source: UXPin https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/
-
+  ​
 
 
 ## Method in Action
