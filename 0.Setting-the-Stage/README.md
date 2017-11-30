@@ -1,3 +1,9 @@
+# Table of contents
+* [Setting the Stage](#setting-the-stage)
+	* [Why do we test?](#why-do-we-test?)
+	* [But how do we REALLY test during a sprint?](#but-how-do-we-really-test-during-a-sprint?)
+	* [Heuristic approach and Testing Mindset](#heuristic-approach-and-testing-mindset)
+
 # Setting the Stage
 
 ## Why do we test?
