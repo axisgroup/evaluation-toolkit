@@ -1,8 +1,16 @@
-## Conveying Test Results
+# Table of Contents
+  * [Conveying Test Results](#conveying-test-results)
+	  * [Analyzing results](analyzing-results)
+	  * [Conveying findings](conveying-findings)
+  * [References](#references) 
+ 
+
+
+# Conveying Test Results
 
 Once you are done evaluating your prototype,the next step is to analyze the results, convey these test results to your audience and implement changes. 
 
-### Analyzing results
+## Analyzing results
 
 **Quantitative data**  
 Record quantitative results in a spreadsheet. This can include ratings from questionnaire, if a task was completed, time to complete a task etc. Note that time to complete a task might not be useful for testing data visualizations and questionnaire ratings might be a better way to measure tasks. 
@@ -28,7 +36,7 @@ Some factors that influence the severity of the problem are frequency of issues 
 The final step is to generate solution ideas for each issue starting with the most critical issues. Use the [potential actions checklist](./Checklist-of-potential-actions.md) to identify what changes can be made.   
  
 
-### Conveying findings  
+## Conveying findings  
 The methods used to convey findings can range from detailed reports, presentations to emails. This depends on your audience and time frame.   
 
 An example method of conveying results is a findings and recommendations matrix.   
@@ -36,7 +44,7 @@ An example method of conveying results is a findings and recommendations matrix.
 
 
 
-### References  
+# References  
 [Medium](https://medium.com/user-research/first-time-usability-analyzing-results-7eb748ede9eb)  
 [Usability.gov](https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)  
 [UX matters](https://www.uxmatters.com/mt/archives/2012/02/communicating-user-research-findings.php)  
