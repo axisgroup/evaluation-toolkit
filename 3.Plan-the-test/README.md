@@ -1,5 +1,5 @@
 # Table of Contents
- 
+
   * [Planning your Test](#planning-your-test)
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
@@ -19,12 +19,13 @@ And while at first this choice can seem overwhelming, it is important to realize
 
 ## Recruiting users or evaluators for your test
 
-> After all the work with personas, by now you should have a clear idea of your target users. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — not gender, age, or geography.
-> Knowing who to recruit is just the first step. The more involved part is finding and recruiting them. Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
+The first step to an effective and meaningful test is to choose the correct users. Charline Poirier [writes on Ubuntu Design](https://design.canonical.com/2012/03/about-usability-testing-recruiting/):
 
-Source: http://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/
+> Some argue that just anyone you can get hold of will do.  This attitude, in my view, puts the software before the people who will use it, and carries the implicit assumption that software, by its very nature, is usable. 
 
-Here is another excellent resource by Charline Poirier, writing for Ubuntu Design, that goes in depth  about [recruiting participants for your usability test](https://design.canonical.com/2012/03/about-usability-testing-recruiting/)
+To prioritize the user before the software, it's important to recruit users based on your testing goals. For instance, are you testing whether a dashboard is easily understood by a first-time user, or whether an analyst who's used to receiving all his information in the form of Excel reports can still gather the insights (and more) from the new design? Are you testing general usability of the interface, or are you trying to see if a specific job can be completed? 
+
+These varying testing goals will determine who would be most appropriate to recruit for your test. Jerry Cao [suggests on Web Designer Depot](https://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/) to "segment your users based on behavior," which will help add clarity to who the best user would be. And, if you need help finding the users once you've identified them, Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
 
 ## Choosing the right test
 
@@ -86,7 +87,7 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 In addition to the dimensions described by Rohrer, your test methodology also depends on-
 
 - **Fidelity of your prototype/functionality afforded by the prototype** 
-Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
+  Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
 
 - **Access to testing tools and equipment**
 
