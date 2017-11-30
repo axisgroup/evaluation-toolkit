@@ -23,7 +23,7 @@ This method is most effective before testing with the user, so that obivious usa
 
 3. Explain the goals of the project and the interface to be tested
 
-   * Set expectations. The expert should not feel the burden to find issues in violation of every best practice—  rather, the best practices section is simply a guide to be able to categorize issues, as well as to prime them to think about potential issues
+Set expectations. The expert should not feel the burden to find issues in violation of every best practice—  rather, the best practices section is simply a guide to be able to categorize issues, as well as to prime them to think about potential issues
 
 4. Walk them through specific task scenarios so that they can find issues while exploring the interface. Reference the ["Choosing the Right Tasks"](https://github.com/axisgroup/evaluation-toolkit/tree/master/3.Plan-the-test#choosing-the-right-tasks) section for details. 
 
@@ -31,14 +31,15 @@ This method is most effective before testing with the user, so that obivious usa
 
 6. For each problem identified, determine its severity rating:
 
-   * 0: Violates a heuristic but doesn’t seem to be a usability problem.
-   * 1: Superficial usability problem. May be easily overcome by user or occurs extremely
+- 0: Violates a heuristic but doesn’t seem to be a usability problem.
 
-   infrequently. Does not need to be fixed for next release unless extra time is available.
+- 1: Superficial usability problem. May be easily overcome by user or occurs extremely infrequently. Does not need to be fixed for next release unless extra time is available.
 
-   - 2: Minor usability problem. May occur more frequently or be more difficult to overcome. Fixing this should be given low priority for next release.
-   - 3: Major usability problem. Occurs frequently and persistently or users may be unable or unaware of how to fix the problem. Important to fix, so should be given high priority.
-   - 4: Usability catastrophe. Seriously impairs use of product and cannot be overcome by users. Imperative to fix this before product can be released.
+- 2: Minor usability problem. May occur more frequently or be more difficult to overcome. Fixing this should be given low priority for next release.
+
+- 3: Major usability problem. Occurs frequently and persistently or users may be unable or unaware of how to fix the problem. Important to fix, so should be given high priority.
+
+- 4: Usability catastrophe. Seriously impairs use of product and cannot be overcome by users. Imperative to fix this before product can be released.
 
 7. Determine Ease of Fixing rating: 
 
