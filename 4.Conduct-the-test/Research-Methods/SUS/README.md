@@ -38,6 +38,8 @@ It is important to understand that the SUS is not a diagnostic tool and it will 
 
 - Axis Group has a handy [Google Sheets Template](https://docs.google.com/spreadsheets/d/1Uj3wfAPWDsu69uAFu8zi4d5O0rs3G5MWt4SZru7ld-A/edit?usp=sharing) with the formulas built in which you may copy over and link to the  [Google Form SUS Template](https://drive.google.com/open?id=1ETKDGN38acgyglEb7lAApT3792VklHKQ4EUnXr84Ox8) to capture results of the questionnaire.
 
+## Method in Action
+
 ## References
 
 - [SUS: A Quick and Dirty Usability Scale](http://www.usabilitynet.org/trump/documents/Suschapt.doc) by John Brooke
