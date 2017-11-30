@@ -40,6 +40,7 @@ The methods used to convey findings can range from detailed reports, presentatio
 
 An example method of conveying results is a findings and recommendations matrix.   
 ![finding and recommendation matrix](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAf2AAAAJDVkZTU0YjQzLTMwODctNDBkMy1iMTIwLTdhMDM5NjgyNzFmOA.png)
+
 *Source: Senet, Joan."4 Research exercises for Product Managers."LinkedIn, 4 April 2016, www.linkedin.com/pulse/4-research-exercises-product-managers-joan-senent*
 
 
