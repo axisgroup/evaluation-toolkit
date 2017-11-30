@@ -2,15 +2,13 @@
 
 ## What is a Usability test?
 A usability test is a technique to uncover UX design problems with actual users of the system.
-[More here](https://drive.google.com/open?id=0BwLVd0W-_5qwU0J4TjBCa1ZCSjg)
-https://projects.invisionapp.com/d/main#/projects/boards/4517347
-
 
 When
 Why
 
+### How do you do it?
 
-### What do you need?
+#### Things you need
 
 - A purpose- knowing why you are testing is very important; Use the [previous section](../2. Determining what to measure) to decide what you plan to test
 
@@ -32,10 +30,7 @@ Why
 
 A more comprehensive checklist : https://www.nngroup.com/articles/usability-test-checklist/ 
 
-
-### How do you do it?
-
-This is a simple checklist that can apply to every usability test session you’ll ever perform. This has been borrowed [UXPin's ebook on usability testing](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/).
+The following a simple checklist of steps to be followed that can apply to almost any usability test session you’ll ever perform. This has been borrowed [UXPin's free ebook on usability testing](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/).
 
 #### Pre-test activities
 
