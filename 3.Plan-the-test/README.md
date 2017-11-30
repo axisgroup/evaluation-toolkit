@@ -1,11 +1,11 @@
 # Table of Contents
  
   * [Planning your Test](#planning-your-test)
-    * [Recruiting users/evaluators for your test](#recruiting-users/evaluators-for-your-test)
+    * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
     * [Choosing the right tasks](#choosing-the-right-tasks)
     * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
-    * [References](#references)
+  * [References](#references)
 
 
 # Planning your Test
@@ -16,7 +16,7 @@ A quick search on Usability.gov reveals more than just a few methods to garner f
 
 And while at first this choice can seem overwhelming, it is important to realize that real-life constraints such as our research questions or our users' availability can help us narrow down the choices. In the next section we will attempt to break down the various steps involved when planning a usability test and provide some guidelines for each.
 
-## Recruiting users/evaluators for your test
+## Recruiting users or evaluators for your test
 
 > After all the work with personas, by now you should have a clear idea of your target users. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — not gender, age, or geography.
 > Knowing who to recruit is just the first step. The more involved part is finding and recruiting them. Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
@@ -157,6 +157,6 @@ WIP
 >
 > Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
 
-##References  
+#References  
 [https://articles.uie.comusability_testing_mistakes/]()  
 [https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/]()
