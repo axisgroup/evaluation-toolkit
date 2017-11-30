@@ -72,7 +72,7 @@ This is a simple checklist that can apply to every usability test session you’
 
 - Welcome the participant and introduce yourself
 - Explain the reason for the session
-- Explain “Think out loud” protocol
+- Explain [“Think out loud”](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) protocol
 - Give participants “Permission for recording” form
 - Give participants other forms (if applicable)
 - Turn on the screen recorder
