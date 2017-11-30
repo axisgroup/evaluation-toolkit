@@ -37,7 +37,7 @@ To make sure you are building the product right
 A more comprehensive checklist can be found on [NNgroup's website](https://www.nngroup.com/articles/usability-test-checklist/).
 
 #### Steps to follow
-The following is a simple checklist of steps to be followed that can apply to almost any usability test session you’ll ever perform. This has been borrowed as-is from [UXPin's usability testing template](https://www.uxpin.com/usability-test-kit).
+The following is a simple checklist of steps to be followed that can apply to almost any usability test session you’ll ever perform. This has been borrowed as-is from [UXPin's Usability Testing Kit](https://www.uxpin.com/usability-test-kit).
 
 
 #### Pre-test activities
