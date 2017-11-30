@@ -22,7 +22,7 @@
     * [Consistency and Standards](#consistency-and-standards)
     * [Error Prevention and Recovery](#error-prevention-and-recovery)
     * [Help and Documentation](#help-and-documentation)
-  * [Principles in action](#principles-in-action)
+  * [Resources](#resources)
   * [References](#references)
 
 # Introduction
@@ -313,7 +313,7 @@ Sometimes you may need to provide a user additional documentation around the int
 
 
 
-# Principles in action
+# Resources
 
  At a tactical level, particularly in regard to styling, the following resources serve as excellent examples of these principles being applied in a data visualization context.
 ## [Data Visualization Checklist](http://annkemery.com/checklist/)
