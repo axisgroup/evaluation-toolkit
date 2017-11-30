@@ -56,7 +56,8 @@ The following is a simple checklist of steps to be followed that can apply to al
 
 
 - Check if your recording software works
-- Check if you have your ethernet cable connected and wifi set up as a backup option for Internet Connection
+- Check if you have your ethernet cable connected and wifi set up 
+as a backup option for Internet Connection
 
 
 - Check mouse and keyboard (set them to default settings)
