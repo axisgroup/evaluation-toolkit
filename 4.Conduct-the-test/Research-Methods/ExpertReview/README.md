@@ -31,21 +31,21 @@ This method is most effective before testing with the user, so that obivious usa
 
 6. For each problem identified, determine its severity rating:
 
-- 0: Violates a heuristic but doesn’t seem to be a usability problem.
+   0: Violates a heuristic but doesn’t seem to be a usability problem.
 
-- 1: Superficial usability problem. May be easily overcome by user or occurs extremely infrequently. Does not need to be fixed for next release unless extra time is available.
+   1: Superficial usability problem. May be easily overcome by user or occurs extremely infrequently. Does not need to be fixed for next release unless extra time is available.
 
-- 2: Minor usability problem. May occur more frequently or be more difficult to overcome. Fixing this should be given low priority for next release.
+   2: Minor usability problem. May occur more frequently or be more difficult to overcome. Fixing this should be given low priority for next release.
 
-- 3: Major usability problem. Occurs frequently and persistently or users may be unable or unaware of how to fix the problem. Important to fix, so should be given high priority.
+   3: Major usability problem. Occurs frequently and persistently or users may be unable or unaware of how to fix the problem. Important to fix, so should be given high priority.
 
-- 4: Usability catastrophe. Seriously impairs use of product and cannot be overcome by users. Imperative to fix this before product can be released.
+   4: Usability catastrophe. Seriously impairs use of product and cannot be overcome by users. Imperative to fix this before product can be released.
 
 7. Determine Ease of Fixing rating: 
-- 0: Problem would be extremely easy to fix. Could be completed by one team member before next release.
-- 1: Problem would be easy to fix. Involves specific interface elements and solution is clear.
-- 2: Problem would require some effort to fix. Involves multiple aspects of the interface or would require team of developers to implement changes before next release or solution is not clear.
-- 3: Usability problem would be difficult to fix. Requires concentrated development effort to finish before next release, involves multiple aspects of interface. Solution may not be immediately obvious or may be disputed.
+   0: Problem would be extremely easy to fix. Could be completed by one team member before next release.
+   1: Problem would be easy to fix. Involves specific interface elements and solution is clear.
+   2: Problem would require some effort to fix. Involves multiple aspects of the interface or would require team of developers to implement changes before next release or solution is not clear.
+   3: Usability problem would be difficult to fix. Requires concentrated development effort to finish before next release, involves multiple aspects of interface. Solution may not be immediately obvious or may be disputed.
 
 8. Put all results in a table
 
