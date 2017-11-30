@@ -70,6 +70,16 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 
 ```
 
+#### Other Considerations
+
+In addition to the dimensions described by Rohrer, your test methodology also depends on-
+
+- **Fidelity of your prototype/functionality afforded by the prototype** 
+Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
+
+- **Access to testing tools and equipment**
+
+
 ## Choosing the right tasks
 
 ### Choose purposeful tasks
@@ -113,15 +123,6 @@ It might make sense to place simpler tasks before more complex ones so users can
 
 ### Plan a test run
 Always plan a test run before conducting the actual test. This will ensure that the prototype is working and all the tasks make sense. Put yourself in the users shoes during the test run and think about potential challenges that they might face. Think about how the user would interpret and go about tasks.
-
-
-## Other Considerations
-
-
-In addition to the dimensions described by Rohrer, your test methodology also depends on-
-
-- functionality afforded by the prototype
-- access to testing tools and equipment
 
 
 ## Putting a stake in the ground
