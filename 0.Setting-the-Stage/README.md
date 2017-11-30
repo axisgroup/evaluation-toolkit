@@ -38,7 +38,7 @@ How then can designers balance the need for robust testing versus quick turnarou
 
 Based on this heuristic approach we advocate the following [testing mindset](TestingMindset.md) or philosophy in order to properly set expectations before conducting a usability test.
 
-In addition before we dive deeper into the specifics of conducting a test, we recommend that one-
+In addition  we recommend that before diving deeper into the specifics of conducting a test you-
 - Understand the inherent [complexity](Challenges.md) that comes with evaluating a data visualization, 
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
 
