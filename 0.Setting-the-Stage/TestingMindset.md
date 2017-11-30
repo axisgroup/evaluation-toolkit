@@ -6,7 +6,7 @@ Not everything can be tested, due to the many constraints such as limited time, 
 
 **2. Defer issues but do not deny them**
 
-Even with a tight schedule, we should put our designs under a critical lens to identify scope for improvement. It is perfectly acceptable to defer these changes to a later release. More on this [here](https://www.nngroup.com/articles/no-validate-in-ux/).
+Even with a tight schedule, it is imperative that we put our designs under a critical lens to identify scope for improvement. It is perfectly acceptable to defer these changes to a later release. More on this [here](https://www.nngroup.com/articles/no-validate-in-ux/).
 
 **3. Prioritize, prioritize, prioritize**
 
