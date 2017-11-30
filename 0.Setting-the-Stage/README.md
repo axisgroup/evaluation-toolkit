@@ -26,7 +26,7 @@ And while testing is a core philosophy of the UCD process, a point of tension em
 
 How then can designers balance the need for robust testing versus quick turnaround times?
 
-## Heuristic approach
+## Heuristic approach and Testing Mindset
 
 > **Heuristic techniques** often called simply a heuristic. It is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. 
 >
@@ -36,16 +36,17 @@ How then can designers balance the need for robust testing versus quick turnarou
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Heuristic)
 
-Based on this heauristic approach we advocate the following-
-1. [Follow best practices, don't re-invent the wheel](../1.Follow-best-practices)
-2. [Know what to measure](../2.Determine-research-questions)
-3. [Know how to measure](../3.Plan-the-test)
-4. [Conduct the test](../4.Conduct-the-test)
-5. [Act on your findings](/5.Act-on-your-findings)
+Based on this heauristic approach we advocate the following [testing mindset](TestingMindset.md) or philosophy in order to properly set expectations before conducting a usability test.
 
-Before we dive deeper into any of these individual steps, it is be helpful to:
+In addition before we dive deeper into the specifics of conducting a test, we recommend that one-
 - Understand the inherent [complexity](Challenges.md) that comes with evaluating a data visualization, 
 - Understand the [pitfalls](Pitfalls.md) with the current evaluation methodologies, in order to prevent yourself from falling into them, and
-- Equip yourself with the [testing mindset](TestingMindset.md) in order to properly set expectations.
+
+Finally, we attempt to deconstruct the whole testing process into the sum of its parts which is as follows-
+1. [Follow best practices, don't re-invent the wheel](../1.Follow-best-practices)
+2. [Determine research questions](../2.Determine-research-questions)
+3. [Plan the test](../3.Plan-the-test)
+4. [Conduct the test](../4.Conduct-the-test)
+5. [Act on your findings](/5.Act-on-your-findings)
 
 
