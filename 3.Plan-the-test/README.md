@@ -1,3 +1,13 @@
+# Table of Contents
+ 
+  * [Planning your Test](#planning-your-test)
+    * [Recruiting users/evaluators for your test](#Recruiting-users/evaluators-for-your-test)
+    * [Choosing the right test](choosing-the-right-test)
+    * [Choosing the right tasks](choosing-the-right-tasks)
+    * [Putting a stake in the ground](Putting-a-stake-in-the-ground)
+    * [References](references)
+
+
 # Planning your Test
 
 Usability testing can uncover *all kinds* of feedback. As such, the foremost step in planning our test is picking a direction for the test. The previous sections help us frame questions about what we want to get out of the test but there is still the lingering question—how do you actually execute the test?
