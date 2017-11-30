@@ -75,7 +75,7 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 In addition to the dimensions described by Rohrer, your test methodology also depends on-
 
 - **Fidelity of your prototype/functionality afforded by the prototype** 
-Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
+  Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
 
 - **Access to testing tools and equipment**
 

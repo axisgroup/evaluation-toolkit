@@ -65,10 +65,9 @@ This model is akin to [Houde and Hill's prototype model](https://pdfs.semanticsc
 - Does the visualization answer key questions from interviews/persona cards?
 
 #### Effective
-- Does each visualization successfully highlight important information, while providing context for that information? 
+- Does each visualization successfully highlight important information, while providing context for that information? If something isn't normal, can the user immediately tell? 
 - Does each visualization support the user's daily/weekly/monthly tasks? 
 - Does each visualization allow the user to answer his/her questions when looking at those particular metrics?
-- If something is a red flag or a reason to give the user pause, would anyone be able to tell?  
 
 #### Insightful
 - Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
