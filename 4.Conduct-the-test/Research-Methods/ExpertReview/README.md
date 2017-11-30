@@ -23,7 +23,7 @@ This method is most effective before testing with the user, so that obivious usa
 
 3. Explain the goals of the project and the interface to be tested
 
-Set expectations. The expert should not feel the burden to find issues in violation of every best practice—  rather, the best practices section is simply a guide to be able to categorize issues, as well as to prime them to think about potential issues
+   Set expectations. The expert should not feel the burden to find issues in violation of every best practice—  rather, the best practices section is simply a guide to be able to categorize issues, as well as to prime them to think about potential issues
 
 4. Walk them through specific task scenarios so that they can find issues while exploring the interface. Reference the ["Choosing the Right Tasks"](https://github.com/axisgroup/evaluation-toolkit/tree/master/3.Plan-the-test#choosing-the-right-tasks) section for details. 
 
