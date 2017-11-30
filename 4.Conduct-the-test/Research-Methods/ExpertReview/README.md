@@ -42,6 +42,7 @@ This method is most effective before testing with the user, so that obivious usa
    4: Usability catastrophe. Seriously impairs use of product and cannot be overcome by users. Imperative to fix this before product can be released.
 
 7. Determine Ease of Fixing rating: 
+
    0: Problem would be extremely easy to fix. Could be completed by one team member before next release.
    1: Problem would be easy to fix. Involves specific interface elements and solution is clear.
    2: Problem would require some effort to fix. Involves multiple aspects of the interface or would require team of developers to implement changes before next release or solution is not clear.
