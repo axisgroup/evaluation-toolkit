@@ -4,8 +4,13 @@
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
     * [Choosing the right tasks](#choosing-the-right-tasks)
+<<<<<<< HEAD
     * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
   * [References](#References)
+=======
+  * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
+  * [References](#references)
+>>>>>>> 7b77ee27b753d36464b871c5ce714e97bfc4a080
 
 
 # Planning your test
@@ -134,8 +139,16 @@ It might make sense to place simpler tasks before more complex ones so users can
 ### Plan a test run
 Always plan a test run before conducting the actual test. This will ensure that the prototype is working and all the tasks make sense. Put yourself in the users shoes during the test run and think about potential challenges that they might face. Think about how the user would interpret and go about tasks.
 
+## Prepare your prototype
+Jerry Cao, content strategist at UXPin, recommends the [following four content guidelines](https://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/) for testing prototypes-
+1. **Avoid lorem ipsum**: distracting, confusing, and lacking meaning, lorem ipsum text does not fully capture your product’s message.
+2. **Use generic names**: tests may be more fun with silly or celebrity names, but fun isn’t the point. Any distractions will bias the results, so keep names generic and realistic.
 
-## Putting a stake in the ground
+3. **No placeholder images or icons**: boxes with Xs may work during wireframing, but not in testing. Images and icons play a large role in UX, so these should be implemented by testing time, even if only with temporary sketches. The exception is if these images are purely decorative and don’t help to understand the UI.
+
+4. **Use realistic data** — Don’t fill data like phone numbers or addresses with Xs or jokes — these are distracting. Realistic and believable data here will give your user test the most accurate results.
+
+# Putting a stake in the ground
 
 WIP
 
