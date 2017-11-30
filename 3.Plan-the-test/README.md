@@ -4,7 +4,7 @@
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
     * [Choosing the right tasks](#choosing-the-right-tasks)
-    * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
+  * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
   * [References](#references)
 
 
@@ -135,7 +135,7 @@ It might make sense to place simpler tasks before more complex ones so users can
 Always plan a test run before conducting the actual test. This will ensure that the prototype is working and all the tasks make sense. Put yourself in the users shoes during the test run and think about potential challenges that they might face. Think about how the user would interpret and go about tasks.
 
 
-## Putting a stake in the ground
+# Putting a stake in the ground
 
 WIP
 
