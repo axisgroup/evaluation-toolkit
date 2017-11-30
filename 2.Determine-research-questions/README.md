@@ -29,6 +29,8 @@
 * [What Next? (Determine style of data)](#what-next)
 * [References](#references)
 
+
+
 #  Know what you are testing
 
 The following image from Usability.gov describes some user performance metrics that can be paired with a task based test to gather quantitative data about our application.
@@ -38,7 +40,9 @@ The following image from Usability.gov describes some user performance metrics t
 
 While these metrics are a good start and seem fairly straightforward, quantitative tests such as this require a large sample size to produce meaningful results. Additionally, it is hard to come up with diagnostic recommendations based on these numbers alone. As such, we came up with a basic **"Useful, Usable, Desirable"** framework that poses broader questions to tease out where and why an application's usability falls short.
 
-## Useful, Usable, Desirable Framework
+
+
+# Useful, Usable, Desirable Framework
 
 While there are many different ways to categorize qualities of a visualization we will look at them from the lens of Usefulness, Usability and Desirability. The rationale behind this is that these roughly map to reflective, behavioral and visceral feedback from users.
 
@@ -64,11 +68,13 @@ This model is akin to [Houde and Hill's prototype model](https://pdfs.semanticsc
 - Does each visualization successfully highlight important information, while providing context for that information? 
 - Does each visualization support the user's daily/weekly/monthly tasks? 
 - Does each visualization allow the user to answer his/her questions when looking at those particular metrics?
+- If something is a red flag or a reason to give the user pause, would anyone be able to tell?  
 
 #### Insightful
 - Does it provide insight or understanding that was not obtainable with the original representation, text or table, etc?
 - Does it provide insight or understanding better than some alternative visualization would? Or does it require excessive cognitive effort?
 - Does the visualization provide information that is actionable?
+- Is there appropriate context that gives meaning to metrics? (i.e. benchmark, change since last time period)
 
 #### Well Documented
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
@@ -164,7 +170,7 @@ Safety involves protecting users from undesirable situations and helping them av
 
   ​
 
-## Unwanted Attributes
+# Unwanted Attributes
 
 Another means of evaluating visualizations is by crossing them against this list of undesirable attributes, and making changes accordingly.
 
@@ -208,7 +214,7 @@ Another means of evaluating visualizations is by crossing them against this list
    ​
 
 # What next?
-Once you have determined your most important criteria design criteria you should begin planning your test methodology. An interim step in that direction is to determine what style of data you are hoping to collect. The following table from User Testing is a good example of data that could be collected as part of a testing session.
+Once you have determined your most important criteria design criteria you should begin planning your test methodology. An interim step in that direction is to **determine what style of data** you are hoping to collect. The following table from User Testing is a good example of data that could be collected as part of a testing session.
 ![](../Assets/images/style-of-data.png)*Source: The complete guide to user testing websites, apps, and prototypes, © UserTesting 2017*
 
 
@@ -217,7 +223,7 @@ With this step complete you can fill out the *Research Question* and *What type 
 
 
 
-## References
+# References
 
 https://docs.google.com/presentation/d/1KxPdkCXFppFRvTNw04feZEBKa_acaJqFyZGx4mptOLI/edit#slide=id.g69bb1bfae_02
 
