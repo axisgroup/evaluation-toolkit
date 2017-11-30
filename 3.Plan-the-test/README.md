@@ -1,5 +1,5 @@
 # Table of Contents
-
+ 
   * [Planning your Test](#planning-your-test)
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
@@ -18,13 +18,12 @@ And while at first this choice can seem overwhelming, it is important to realize
 
 ## Recruiting users or evaluators for your test
 
-The first step to an effective and meaningful test is to choose the correct users. Charline Poirier [writes on Ubuntu Design](https://design.canonical.com/2012/03/about-usability-testing-recruiting/):
+> After all the work with personas, by now you should have a clear idea of your target users. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — not gender, age, or geography.
+> Knowing who to recruit is just the first step. The more involved part is finding and recruiting them. Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
 
-> Some argue that just anyone you can get hold of will do.  This attitude, in my view, puts the software before the people who will use it, and carries the implicit assumption that software, by its very nature, is usable. 
+Source: http://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/
 
-To prioritize the user before the software, it's important to recruit users based on your testing goals. For instance, are you testing whether a dashboard is easily understood by a first-time user, or whether an analyst who's used to receiving all his information in the form of Excel reports can still gather the insights (and more) from the new design? Are you testing general usability of the interface, or are you trying to see if a specific job can be completed? 
-
-These varying testing goals will determine who would be most appropriate to recruit for your test. Jerry Cao [suggests on Web Designer Depot](https://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/) to "segment your users based on behavior," which will help add clarity to who the best user would be. And, if you need help finding the users once you've identified them, Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
+Here is another excellent resource by Charline Poirier, writing for Ubuntu Design, that goes in depth  about [recruiting participants for your usability test](https://design.canonical.com/2012/03/about-usability-testing-recruiting/)
 
 ## Choosing the right test
 
@@ -86,7 +85,7 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 In addition to the dimensions described by Rohrer, your test methodology also depends on-
 
 - **Fidelity of your prototype/functionality afforded by the prototype** 
-  Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
+Based on how sophisticated your prototype is, there may or may not be a need for human intervention during the test in order to ensure a smooth sailing experience. Chris Farnum, Senior Information Architect at Enlighten, has written a detailed article about using [prototypes for user testing](http://boxesandarrows.com/what-you-should-know-about-prototypes-for-user-testing/).
 
 - **Access to testing tools and equipment**
 
@@ -135,6 +134,14 @@ It might make sense to place simpler tasks before more complex ones so users can
 ### Plan a test run
 Always plan a test run before conducting the actual test. This will ensure that the prototype is working and all the tasks make sense. Put yourself in the users shoes during the test run and think about potential challenges that they might face. Think about how the user would interpret and go about tasks.
 
+## Prepare your prototype
+Jerry Cao, content strategist at UXPin, recommends the [following four content guidelines](https://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/) for testing prototypes-
+1. **Avoid lorem ipsum**: distracting, confusing, and lacking meaning, lorem ipsum text does not fully capture your product’s message.
+2. **Use generic names**: tests may be more fun with silly or celebrity names, but fun isn’t the point. Any distractions will bias the results, so keep names generic and realistic.
+
+3. **No placeholder images or icons**: boxes with Xs may work during wireframing, but not in testing. Images and icons play a large role in UX, so these should be implemented by testing time, even if only with temporary sketches. The exception is if these images are purely decorative and don’t help to understand the UI.
+
+4. **Use realistic data** — Don’t fill data like phone numbers or addresses with Xs or jokes — these are distracting. Realistic and believable data here will give your user test the most accurate results.
 
 # Putting a stake in the ground
 
