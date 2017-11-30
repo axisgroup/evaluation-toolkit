@@ -37,6 +37,8 @@ To prioritize the user before the software, it's important to recruit users base
 
 These varying testing goals will determine who would be most appropriate to recruit for your test. Jerry Cao [suggests on Web Designer Depot](https://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/) to "segment your users based on behavior," which will help add clarity to who the best user would be. And, if you need help finding the users once you've identified them, Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
 
+On a side note, this [video](https://www.youtube.com/watch?v=8bTjvfrzQfA) demonstrating a usability test of Flipkart's, an Indian eCommerce retailer akin to Amazon, website with a participant from another country is a good example of why it is essential to choose the right target audience for your user tests.
+
 ## Choosing the right test
 
 ### Overview of UX Research Landscape
