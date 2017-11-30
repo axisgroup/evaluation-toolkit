@@ -5,7 +5,7 @@
     * [Choosing the right test](#choosing-the-right-test)
     * [Choosing the right tasks](#choosing-the-right-tasks)
     * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
-  * [References](#references)
+  * [References](#References)
 
 
 # Planning your test
@@ -157,6 +157,6 @@ WIP
 >
 > Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
 
-#References  
+# References  
 [https://articles.uie.comusability_testing_mistakes/]()  
 [https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/]()
