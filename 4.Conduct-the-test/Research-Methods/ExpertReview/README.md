@@ -44,8 +44,11 @@ This method is most effective before testing with the user, so that obivious usa
 7. Determine Ease of Fixing rating: 
 
    0: Problem would be extremely easy to fix. Could be completed by one team member before next release.
+   
    1: Problem would be easy to fix. Involves specific interface elements and solution is clear.
+   
    2: Problem would require some effort to fix. Involves multiple aspects of the interface or would require team of developers to implement changes before next release or solution is not clear.
+   
    3: Usability problem would be difficult to fix. Requires concentrated development effort to finish before next release, involves multiple aspects of interface. Solution may not be immediately obvious or may be disputed.
 
 8. Put all results in a table
