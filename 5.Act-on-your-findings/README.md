@@ -1,10 +1,9 @@
 # Table of Contents
   * [Conveying Test Results](#conveying-test-results)
-	  * [Analyzing results](analyzing-results)
-	  * [Conveying findings](conveying-findings)
+	  * [Analyzing results](#analyzing-results)
+	  * [Conveying findings](#conveying-findings)
   * [References](#references) 
  
-
 
 # Conveying Test Results
 
