@@ -26,7 +26,7 @@ And while testing is a core philosophy of the UCD process, a point of tension em
 
 How then can designers balance the need for robust testing versus quick turnaround times?
 
-## Heuristic approach
+## Heuristic approach and Testing Mindset
 
 > **Heuristic techniques** often called simply a heuristic. It is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. 
 >
