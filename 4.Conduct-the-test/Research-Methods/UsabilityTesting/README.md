@@ -4,7 +4,7 @@
 
 A user-based usability test is a technique to uncover UX design problems with actual users of the system, particularly by having them perform a set of representative tasks. 
 [More here](https://drive.google.com/open?id=0BwLVd0W-_5qwU0J4TjBCa1ZCSjg)
-https://projects.invisionapp.com/d/main#/projects/boards/4517347
+
 
 ### Why do it?
 
