@@ -40,6 +40,8 @@ It is important to understand that the SUS is not a diagnostic tool and it will 
 
 ## Method in Action
 
+## Resources
+
 ## References
 
 - [SUS: A Quick and Dirty Usability Scale](http://www.usabilitynet.org/trump/documents/Suschapt.doc) by John Brooke
