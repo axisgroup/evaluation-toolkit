@@ -4,13 +4,9 @@
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
     * [Choosing the right tasks](#choosing-the-right-tasks)
-<<<<<<< HEAD
-    * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
-  * [References](#References)
-=======
+    * [Preparing your prototype](#preparing-your-prototype)
   * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
   * [References](#references)
->>>>>>> 7b77ee27b753d36464b871c5ce714e97bfc4a080
 
 
 # Planning your test
@@ -139,7 +135,7 @@ It might make sense to place simpler tasks before more complex ones so users can
 ### Plan a test run
 Always plan a test run before conducting the actual test. This will ensure that the prototype is working and all the tasks make sense. Put yourself in the users shoes during the test run and think about potential challenges that they might face. Think about how the user would interpret and go about tasks.
 
-## Prepare your prototype
+## Preparing your prototype
 Jerry Cao, content strategist at UXPin, recommends the [following four content guidelines](https://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/) for testing prototypes-
 1. **Avoid lorem ipsum**: distracting, confusing, and lacking meaning, lorem ipsum text does not fully capture your product’s message.
 2. **Use generic names**: tests may be more fun with silly or celebrity names, but fun isn’t the point. Any distractions will bias the results, so keep names generic and realistic.
@@ -170,6 +166,6 @@ WIP
 >
 > Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
 
-# References  
+#References  
 [https://articles.uie.comusability_testing_mistakes/]()  
 [https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/]()
