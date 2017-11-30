@@ -1,14 +1,14 @@
 ## Executive Summary
 
-## What is a Usability test?
+### What is a Usability test?
 
 A usability test is a technique to uncover UX design problems with actual users of the system.
 
-## When should you do it?
+### When should you do it?
 
 This test can be performed at any stage of the process with any(low, mid or high) fidelity of prototypes. 
 
-## Why should you do it?
+### Why should you do it?
 
 To make sure you are building the product right
 
