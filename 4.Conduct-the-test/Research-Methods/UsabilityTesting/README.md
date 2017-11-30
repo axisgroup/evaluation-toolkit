@@ -19,11 +19,11 @@ User-based testing can take place early on with paper prototypes or non-function
 
 ### How do you do it?
 
-The following checklist is from [UXPin's Usability Testing Kit](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/), and we think it's an excellent guide for performing usability test sessions. This checklist can be downloaded [here](/UXPIN_Usability_Test_Checklist.docx). We've also included other references from the UX Pin usability testing kit in this folder. 
+The following checklist is from [UXPin's Usability Testing Kit](https://www.uxpin.com/studio/blog/new-usability-testing-kit-ready-download-free/), and we think it's an excellent guide for performing usability test sessions. This checklist can be downloaded [here](../UXPIN_Usability_Test_Checklist.docx). We've also included other references from the UX Pin usability testing kit in this folder. 
 
 #### Pre-test activities
 
-Use the [previous section](../2. Determining what to measure) to help you perform the following activities: 
+Use the [previous section](../2.Determine-research-questions) to help you perform the following activities: 
 
 - Write down test hypothesis 
 - Form scenarios and tasks for the test 
@@ -58,12 +58,12 @@ Use the [previous section](../2. Determining what to measure) to help you perfor
 - Welcome the participant and introduce yourself
 - Explain the reason for the session
 - Explain [“Think out loud”](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) protocol
-- Give participants [“Permission for recording” form](/UXPIN_Permission_to_record.docx)
+- Give participants [“Permission for recording” form](../UXPIN_Permission_to_record.docx)
 - Give participants other forms (if applicable)
 - Turn on the screen recorder
-- Ask, easy-to-answer, introduction questions (reference [Usability Test Script](/UXPIN_Usability_Test_Script.docx) for specifics)
+- Ask, easy-to-answer, introduction questions (reference [Usability Test Script](../UXPIN_Usability_Test_Script.docx) for specifics)
 - Read first task and hand it to participant
-- Jot down notes using the [UX Pin Template](/UXPIN_Usability_Test_Notes.docx) or the [Axis template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) 
+- Jot down notes using the [UX Pin Template](../UXPIN_Usability_Test_Notes.docx) or the [Axis template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) 
 
 ##### Repeat for each task
 
@@ -79,7 +79,7 @@ Use the [previous section](../2. Determining what to measure) to help you perfor
 
 - Analyze the recording as soon as possible
 
-- Sum up your findings a report (See UX Pin's template here: [report](/UXPIN_Usability_Report_Template.docx))
+- Sum up your findings a report (See UX Pin's template here: [report](../UXPIN_Usability_Report_Template.docx))
 
   ​
 
