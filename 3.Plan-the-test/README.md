@@ -9,7 +9,7 @@ And while at first this choice can seem overwhelming, it is important to realize
 ## Recruiting users/evaluators for your test
 
 > After all the work with personas, by now you should have a clear idea of your target users. It also helps to segment your users based on behavior. In fact, you shouldn’t obsess over demographics. The biggest differentiator will likely be whether users have prior experience or are knowledgeable about their domain or industry — not gender, age, or geography.
-Knowing who to recruit is just the first step. The more involved part is finding and recruiting them. Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
+> Knowing who to recruit is just the first step. The more involved part is finding and recruiting them. Jeff Sauro outlines the 7 best ways to [locate the ideal users](https://measuringu.com/finding-users/) for your testing.
 
 Source: http://www.webdesignerdepot.com/2015/02/how-to-test-the-usability-of-prototypes-like-a-pro/
 
@@ -73,34 +73,37 @@ The Guide to Usability Testing © 2010 - 2017 UXPin Sp. z o.o
 ## Choosing the right tasks
 
 ### Choose purposeful tasks
-Usability Tests should be purposeful so as to not generate all kinds of feedback. Therefore, it is good to have specific tasks in mind when planning a Usability Test. Designing tasks should be a careful and thoughtful activity. The example below descibes when Jared Spool was conducting a Usability test for IKEA with his team. 
+Usability Tests should be purposeful so as to not generate all kinds of feedback. Therefore, it is good to have specific tasks in mind when planning a Usability Test. Designing tasks should be a careful and thoughtful activity that [turns user goals into task scenarios](https://www.nngroup.com/articles/task-scenarios-usability-testing/). The example below descibes when Jared Spool was conducting a Usability test for IKEA with his team. 
 
 
-> The Task: “Find a bookcase.”  
-> The Result: All participants searched for 'bookcase' in the search box.  
-> The Spin: Jared and his team decided to change this prompt to “You have 200+ books in your fiction collection, currently in boxes strewn around your living room. Find a way to organize them.”  
-> The Result: User behavior changed. Most clicked through the various categories, looking for some sort of storage solution. Few used Search, typing in phrases like “Shelves” and “Storage Systems”. And, nobody searched on “bookcase”.  
-> Takeaway: Tasks may direct users path in a way that is different from their context of use.You can get around this mistake by constantly exploring the “context of use.” When designing tasks, ask yourself, “What events or conditions in the world would motivate someone to use this design?” Use the answers as the primary formation of the tasks you create. 
+> **The Task:** “Find a bookcase.”  
+> **The Result:** All participants searched for 'bookcase' in the search box.  
+> **The Spin:** Jared and his team decided to change this prompt to “You have 200+ books in your fiction collection, currently in boxes strewn around your living room. Find a way to organize them.”  
+> **The Result:** User behavior changed. Most clicked through the various categories, looking for some sort of storage solution. Few used Search, typing in phrases like “Shelves” and “Storage Systems”. And, nobody searched on “bookcase”.  
+>
+> **Takeaway:** Tasks may direct users path in a way that is different from their context of use.You can get around this mistake by constantly exploring the “context of use.” When designing tasks, ask yourself, “What events or conditions in the world would motivate someone to use this design?” Use the answers as the primary formation of the tasks you create. 
 
+Make the task actionable and realistic enough so that you as the moderator will need to provide as little guidance as possible. Avoid leading questions, giving hints, or describing step-by-step instructions, as this will skew the test toward your own bias.
 
 ### Choose the right format
+
 Ubuntu has a great [blog post](https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/) on choosing the right test that has been quoted below:
 
 > The tasks could be categorised into two main formats:
-> 
+>
 > * Direct tasks or Scenario tasks
 > * Open-ended or Closed task
-> 
+>
 > **Scenario task or Direct task**  
 > A scenario task is presented as a mini user story: often it has the character, the context and the necessary details for achieving the goal.
-> 
+>
 > A direct task is purely instructional. 
-> 
+>
 > Among these two types, we often use the scenario tasks in the testing. This is because it emulates real-world context that participants can easily relate to, and consequently they are more likely to behave in a natural way. 
-> 
+>
 > **Closed task or Open-ended task**  
 > A closed task is specific to what the participants need to do. This type of task has one correct answer, and therefore allows us to measure if participants solved or failed a task.
-> 
+>
 > An open-ended task contains minimum information and less specific direction as to what you want a participant to do. It gives users more freedom to explore the system.
 
 ![](/Assets/images/task-types.png)
@@ -141,7 +144,7 @@ WIP
 ### Moderated or Unmoderated?
 > One of the first questions usability testers ask is whether or not it should be moderated. While there are a lot of good reasons for unmoderated tests, for prototype tests we recommend moderation. Given the “incomplete” nature of prototypes, chances are that users will have questions about the UI that a moderator will have to answer.
 >
->Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
+> Another common mistake in testing is to stop or alter the test if the user experiences difficulty. Since the goal of usability testing is to find and solve difficulties, this situation could actually make the test a success. If, for example, the user strays off onto paths that haven’t been developed yet in the prototype, you could ask them why they went there and what they would have liked to accomplish. A few follow-up questions about the obstacles may yield more valuable feedback than a user with a “perfect run”.
 
 ##References  
 [https://articles.uie.comusability_testing_mistakes/]()  
