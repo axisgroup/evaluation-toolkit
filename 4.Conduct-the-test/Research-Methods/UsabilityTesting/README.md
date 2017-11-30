@@ -1,23 +1,30 @@
-## Executive Summary
+# User-Based Usability Test
 
-## What is a Usability test?
-A usability test is a technique to uncover UX design problems with actual users of the system.
+### What is it?
+
+A user-based usability test is a technique to uncover UX design problems with actual users of the system, particularly by having them perform a set of representative tasks. 
 [More here](https://drive.google.com/open?id=0BwLVd0W-_5qwU0J4TjBCa1ZCSjg)
 https://projects.invisionapp.com/d/main#/projects/boards/4517347
 
+### Why do it?
 
-When
-Why
+Because the users are your most critical source of feedback, especially when it comes to determining the success of your project! User-based usability testing will uncover problems in both the interface as well as the content, and will help guide the next iteration of solutions. 
+
+### When should you do it?
+
+The earlier and more frequent that these can take place, the better, so that the design can better align to the user's needs and expected experience. The later in development that this testing takes place, the less likely it will actually impact the design.  
+
+User-based testing can take place early on with sketch prototypes or non-functional screen mockups. 
 
 
 ### What do you need?
 
-- A purpose- knowing why you are testing is very important; Use the [previous section](../2. Determining what to measure) to decide what you plan to test
+- A purpose: knowing why you are testing is very important; Use the [previous section](../2. Determining what to measure) to decide what you plan to test
 
-- A prototype- you can use prototypes of varying fidelity ranging from a paper prototype to an interactive mockup.
+- A prototype: you can use prototypes of varying fidelity ranging from a paper prototype to an interactive mockup.
 
 
-- Users- The number of users you need to recruit for a test depends on your research methods. Generally, Quantitative studies require 
+- Users: The number of users you need to recruit for a test depends on your research methods. Generally, Quantitative studies require 
 
 
 - Facilitator- Usually, a usability professional and whose role is to record the issues raised during the meeting.
