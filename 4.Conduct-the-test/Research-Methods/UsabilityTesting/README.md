@@ -55,7 +55,7 @@ Use the [previous section](/3.Plan-the-test) to help you perform the following a
 - Read first task and hand it to participant
 - Jot down notes using the [UX Pin Template](../UsabilityTesting/UXPIN_Usability_Test_Notes.docx) or the [Axis template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) 
 
-  *Repeat for each task*  
+*Repeat for each task*  
 - Ask participants about their questions
 - Hand post-test questionnaire
 - Thank and compensate the user for participation
