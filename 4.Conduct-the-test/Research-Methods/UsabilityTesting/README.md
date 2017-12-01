@@ -46,43 +46,29 @@ Use the [previous section](/3.Plan-the-test) to help you perform the following a
 #### During each session
 
 - Welcome the participant and introduce yourself
-
 - Explain the reason for the session
-
 - Explain [“Think out loud”](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) protocol
-
 - Give participants [“Permission for recording” form](../UsabilityTesting/UXPIN_Permission_to_record.docx)
-
 - Give participants other forms (if applicable)
-
 - Turn on the screen recorder
-
 - Ask, easy-to-answer, introduction questions (reference [Usability Test Script](../UsabilityTesting/UXPIN_Usability_Test_Script.docx) for specifics)
-
 - Read first task and hand it to participant
-
 - Jot down notes using the [UX Pin Template](../UsabilityTesting/UXPIN_Usability_Test_Notes.docx) or the [Axis template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) 
 
   *Repeat for each task*
-
+  
 - Ask participants about their questions
-
-
 - Hand post-test questionnaire
 - Thank and compensate the user for participation
 
 #### After each session
 
 - Make sure you have all the documents signed
-
 - Make a backup copy of the recording
-
 - Analyze the recording as soon as possible
-
 - Sum up your findings a report (See UX Pin's template here: [report](../UsabilityTesting/UXPIN_Usability_Report_Template.docx))
 
   ​
-
 
 ## Method in Action
 - [Usability testing a paper prototype](https://www.youtube.com/watch?v=9wQkLthhHKA)
