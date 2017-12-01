@@ -55,10 +55,12 @@ This method is most effective before testing with the user, so that obivious usa
 
 |Problem |Severity Ranking| Ease of fix ranking |Heuristic number| Broad Heuristic |
 |---|---|---|---|---|
-|Icons are not clear, labels needed as well(reported for the Import Convert Upload buttons at the top-center of the interface )| 2 | 0 | 2,3,4 | * Effective Menu/Command Structure * Use Simple and Natural Language * Minimize user’s Memory Load|
+|Icons are not clear, labels needed as well(reported for the Import Convert Upload buttons at the top-center of the interface )| 2 | 0 | 2, 3, 4 | * Effective Menu/Command Structure * Use Simple and Natural Language * Minimize user’s Memory Load|
 | Feedback needs to be provided when icon is clicked (reported for the Import Convert Upload buttons at the top-center of the interface ) | 2 | 0 | 6 | Provide Feedback |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|Icon sizes are not consistent (reported for the Import Convert Upload buttons at the top-center of the interface ) | 1 | 0 | 5, 2 | Effective Menu/Command Structure, Be Consistent|
+| Show system status at the top about convert and upload | 2 | 1 | 6 | Provide Feedback |
+| Shows songs on device only if they have been uploaded | 1 | 0 | 6 | Provide Feedback |
+| Visibility of my device panel could be improved | 1 | 0 | 2 | Effective Menu/Command Structure, Be Consistent |
 
 ![Description of Results](/Assets/images/Description-of-Results.png)
 
