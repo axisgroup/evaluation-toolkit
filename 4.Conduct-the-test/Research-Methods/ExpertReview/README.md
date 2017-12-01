@@ -53,6 +53,13 @@ This method is most effective before testing with the user, so that obivious usa
 
 8. Put all results in a table
 
+|Problem |Severity Ranking| Ease of fix ranking |Heuristic number| Broad Heuristic |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
 ![Description of Results](/Assets/images/Description-of-Results.png)
 
 9. Prepare a list of design implications or changes. You may categorize them as trivial, important, or critical. Use the [Checklist of potential actions](/5.Act-on-your-findings/Checklist-of-potential-actions.md) to aid you with this step.
