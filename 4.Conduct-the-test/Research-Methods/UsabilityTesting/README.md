@@ -65,7 +65,7 @@ Use the [previous section](/3.Plan-the-test) to help you perform the following a
 - Make sure you have all the documents signed
 - Make a backup copy of the recording
 - Analyze the recording as soon as possible
-- Sum up your findings a report using UX Pin's template [report](../UsabilityTesting/UXPIN_Usability_Report_Template.docx))
+- Sum up your findings a report using UX Pin's template [report](../UsabilityTesting/UXPIN_Usability_Report_Template.docx)
   ​
 
 ## Method in Action
