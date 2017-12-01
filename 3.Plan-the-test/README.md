@@ -1,5 +1,4 @@
 # Table of Contents
-
   * [Planning your Test](#planning-your-test)
     * [Recruiting users/evaluators for your test](#recruiting-users-or-evaluators-for-your-test)
     * [Choosing the right test](#choosing-the-right-test)
@@ -8,14 +7,12 @@
 		    * [Quantitative vs. Qualitative](#quantitative-vs-qualitative)
 		    * [The Context of Product Use](#the-context-of-product-use)
 		    * [Other Considerations](#other-considerations)
-
     * [Choosing the right tasks](#choosing-the-right-tasks)
 	    * [Choose purposeful tasks](#choose-purposeful-tasks)
 	    * [Choose the right format](#choose-the-right-format)
 	    * [Pick the right order](#pick-the-right-order)
 	    * [Plan a test run](#plan-a-test-run)
     * [Preparing your prototype](#preparing-your-prototype)
-  * [Putting a stake in the ground](#putting-a-stake-in-the-ground)
   * [References](#references)
 
 
