@@ -155,7 +155,6 @@ Safety involves protecting users from undesirable situations and helping them av
 #### Engaging
 - Is the first view that users see one that offers the most interesting and easily digestable insights? Does it trigger curiosity to scroll down and see more?
 - Is there a story that can be told with your visualizations?
-- Could we use brighter colors that might encourage users to continue analyzing data? 
 
 #### Exciting
 
