@@ -51,7 +51,7 @@ Use the [previous section](/3.Plan-the-test) to help you perform the following a
 - Give participants [“Permission for recording” form](../UsabilityTesting/UXPIN_Permission_to_record.docx)
 - Give participants other forms (if applicable)
 - Turn on the screen recorder
-- Ask, easy-to-answer, introduction questions (reference [Usability Test Script] (../UsabilityTesting/UXPIN_Usability_Test_Script.docx) for specifics)
+- Ask, easy-to-answer, introduction questions (reference [Test Sccipt](../UsabilityTesting/UXPIN_Usability_Test_Script.docx) for specifics)
 - Read first task and hand it to participant
 - Jot down notes using the [UX Pin Template](../UsabilityTesting/UXPIN_Usability_Test_Notes.docx) or the [Axis template](https://docs.google.com/spreadsheets/d/1lfcPwG4gH-rQQhl5MuXgNevy8_hlJPvdx6_RiLT34qw/edit#gid=0) 
 
