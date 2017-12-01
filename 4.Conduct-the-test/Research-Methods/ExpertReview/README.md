@@ -62,8 +62,6 @@ This method is most effective before testing with the user, so that obivious usa
 | Shows songs on device only if they have been uploaded | 1 | 0 | 6 | Provide Feedback |
 | Visibility of my device panel could be improved | 1 | 0 | 2 | Effective Menu/Command Structure, Be Consistent |
 
-![Description of Results](/Assets/images/Description-of-Results.png)
-
 9. Prepare a list of design implications or changes. You may categorize them as trivial, important, or critical. Use the [Checklist of potential actions](/5.Act-on-your-findings/Checklist-of-potential-actions.md) to aid you with this step.
 
 ## Method in action
