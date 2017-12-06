@@ -36,7 +36,7 @@ It is important to understand that the SUS is not a diagnostic tool and it will 
   >
   > I’ve put these findings in a [150 page detailed report](http://www.measuringusability.com/products/SUSpack) which contains valuable insights on background, benchmarks and best practices for anyone using the SUS. Here are a few highlights.
 
-- Axis Group has a handy [Google Sheets Template](https://docs.google.com/spreadsheets/d/1Uj3wfAPWDsu69uAFu8zi4d5O0rs3G5MWt4SZru7ld-A/edit?usp=sharing) with the formulas built in which you may copy over and link to the  [Google Form SUS Template](https://drive.google.com/open?id=1ETKDGN38acgyglEb7lAApT3792VklHKQ4EUnXr84Ox8) to capture results of the questionnaire. You can use Sheet 2 on this template to apply the SUS formula and calculate a SUS score per user.\
+- Axis Group has a handy [Google Sheets Template](https://docs.google.com/spreadsheets/d/1Uj3wfAPWDsu69uAFu8zi4d5O0rs3G5MWt4SZru7ld-A/edit?usp=sharing) with the formulas built in which you may copy over and link to the  [Google Form SUS Template](https://drive.google.com/open?id=1ETKDGN38acgyglEb7lAApT3792VklHKQ4EUnXr84Ox8) to capture results of the questionnaire. You can use Sheet 2 of this template to apply the SUS scoring formula and calculate a SUS score per user.
 ![](applying-SUS-formula.gif)
 
 ## Method in Action
