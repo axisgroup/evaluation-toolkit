@@ -154,6 +154,8 @@ Jerry Cao, content strategist at UXPin, recommends the [following four content g
 
 4. **Use realistic data** — Don’t fill data like phone numbers or addresses with Xs or jokes — these are distracting. Realistic and believable data here will give your user test the most accurate results.
 
+# Resources
+- [UX METHODS FOR A SHORT TIME TO MARKET AND FEW USERS](https://blog.walkme.com/ux-methods-low-users-short-time/)
 # References  
 - https://articles.uie.comusability_testing_mistakes/ 
 - https://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/
