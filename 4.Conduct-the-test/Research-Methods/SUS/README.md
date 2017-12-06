@@ -41,6 +41,7 @@ It is important to understand that the SUS is not a diagnostic tool and it will 
 ## Method in Action
 
 ## Resources
+[Google Form SUS Template](https://drive.google.com/open?id=1ETKDGN38acgyglEb7lAApT3792VklHKQ4EUnXr84Ox8)
 
 ## References
 
