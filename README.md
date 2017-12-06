@@ -33,7 +33,7 @@ To break down the contents of each phase:
 
 1. [**Follow Best Practices**](/1.Follow-best-practices)
 
-   At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project, as well as to help you improve the current design based on known best practices. At a tactical level, it provides guidelines to help you evaluate specific UI elements such as typography, color, and arrangement (see [Data Visualization Checklist](/1.Follow-best-practices/DataVizChecklist-May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery).
+   At a strategic level, this serves as an initial self-directed reflection, intended to help you determine the most important design criteria for the success of your project, as well as to help you improve the current design based on known best practices. At a tactical level, it provides guidelines to help you evaluate specific UI elements such as typography, color, and arrangement (see [Data Visualization Checklist](/1.Follow-best-practices/DataVizChecklist_May2016.pdf) prepared by Stephanie Evergreen and Ann K. Emery).
 
 2. [**Determine Research Questions**](/2.Determine-research-questions)
 
